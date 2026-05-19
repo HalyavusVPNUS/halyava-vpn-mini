@@ -269,16 +269,28 @@ RU_COUNTRIES = {
 def get_ping(host, port):
     try:
         ip = socket.gethostbyname(host)
-        sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+
+        sock = socket.socket(
+            socket.AF_INET,
+            socket.SOCK_STREAM
+        )
+
         sock.settimeout(5)
+
         start = time.time()
+
         result = sock.connect_ex((ip, port))
+
         ping = int((time.time() - start) * 1000)
+
         sock.close()
+
         if result == 0:
             return ping
+
     except:
         pass
+
     return None
 
 # =========================
@@ -288,17 +300,20 @@ def get_ping(host, port):
 def get_country_info(host):
     try:
         ip = socket.gethostbyname(host)
+
         r = requests.get(
             f"https://ipwho.is/{ip}",
             headers=HEADERS,
             timeout=10
         )
+
         data = r.json()
 
         if not data.get("success"):
             return "UN", "Сервер"
 
         code = data.get("country_code")
+
         if not code:
             return "UN", "Сервер"
 
@@ -306,7 +321,9 @@ def get_country_info(host):
             return None, None
 
         country = RU_COUNTRIES.get(code, code)
+
         return code, country
+
     except:
         return "UN", "Сервер"
 
@@ -317,32 +334,44 @@ def get_country_info(host):
 def process_key(key):
     try:
         key = key.strip()
+
         if not key:
             return None
 
         main_part = key.split('#')[0]
-        host_match = re.search(r'@([^:/?#\s]+):?(\d+)?', main_part)
+
+        host_match = re.search(
+            r'@([^:/?#\s]+):?(\d+)?',
+            main_part
+        )
+
         if not host_match:
             return None
 
         host = host_match.group(1)
+
         try:
             port = int(host_match.group(2))
         except:
             port = 443
 
         ping = get_ping(host, port)
+
         if ping is None:
             return None
 
         code, country = get_country_info(host)
+
         if not code:
             return None
 
         if code == "UN":
             emoji = "🚀"
         else:
-            emoji = "".join(chr(127397 + ord(c)) for c in code.upper())
+            emoji = "".join(
+                chr(127397 + ord(c))
+                for c in code.upper()
+            )
 
         return {
             "main": main_part,
@@ -350,6 +379,7 @@ def process_key(key):
             "country": country,
             "ping": ping
         }
+
     except:
         return None
 
@@ -358,21 +388,29 @@ def process_key(key):
 # =========================
 
 def update_repo(content):
+
     url = f"https://api.github.com/repos/{GITHUB_USER}/{REPO_NAME}/contents/{FILE_PATH}"
+
     headers = {
         "Authorization": f"token {TOKEN}",
         "Accept": "application/vnd.github.v3+json"
     }
+
     sha = None
 
     try:
         r = requests.get(url, headers=headers)
+
         if r.status_code == 200:
             sha = r.json().get("sha")
+
     except:
         pass
 
-    encoded = base64.b64encode(content.encode("utf-8")).decode("utf-8")
+    encoded = base64.b64encode(
+        content.encode("utf-8")
+    ).decode("utf-8")
+
     payload = {
         "message": f"Mini Update {time.strftime('%H:%M:%S')}",
         "content": encoded,
@@ -382,39 +420,97 @@ def update_repo(content):
     if sha:
         payload["sha"] = sha
 
-    requests.put(url, headers=headers, json=payload)
+    requests.put(
+        url,
+        headers=headers,
+        json=payload
+    )
 
 # =========================
 # MAIN
 # =========================
 
 def run_once():
+
     all_keys = []
+
     for src in SOURCES:
+
         try:
-            r = requests.get(src, headers=HEADERS, timeout=15)
-            found = re.findall(r'(?:vless|vmess|trojan|ss|hysteria2?)://[^\s]+', r.text)
+
+            r = requests.get(
+                src,
+                headers=HEADERS,
+                timeout=15
+            )
+
+            found = re.findall(
+                r'(?:vless|vmess|trojan|ss|hysteria2?)://[^\s]+',
+                r.text
+            )
+
             all_keys.extend(found)
+
         except:
             continue
 
     unique_keys = list(set(all_keys))
 
     with ThreadPoolExecutor(max_workers=30) as executor:
-        results = list(filter(None, executor.map(process_key, unique_keys)))
 
-    results.sort(key=lambda x: (x["country"], x["ping"]))
+        results = list(
+            filter(
+                None,
+                executor.map(process_key, unique_keys)
+            )
+        )
 
-    final = []
-    counts = {}
+    # =========================
+    # СОРТИРОВКА
+    # =========================
+
+    results.sort(
+        key=lambda x: (
+            x["country"],
+            x["ping"]
+        )
+    )
+
+    # =========================
+    # ГРУППИРОВКА
+    # =========================
+
+    grouped = {}
 
     for item in results[:200]:
-        country = item["country"]
-        counts[country] = counts.get(country, 0) + 1
 
-        # Форматируем строку: конфиг#Флаг Страна #Номер
-        line = f"{item['main']}#{item['emoji']} {country} #{counts[country]}"
-        final.append(line)
+        country = item["country"]
+
+        if country not in grouped:
+            grouped[country] = []
+
+        grouped[country].append(item)
+
+    # =========================
+    # ФИНАЛ
+    # =========================
+
+    final = []
+
+    for country in sorted(grouped.keys()):
+
+        servers = grouped[country]
+
+        for idx, item in enumerate(servers, 1):
+
+            line = (
+                f"{item['main']}"
+                f"#{item['emoji']} "
+                f"{country} "
+                f"#{idx}"
+            )
+
+            final.append(line)
 
     header = (
         "#profile-title: Халява ВПН | Mini 🎁\n"
@@ -424,7 +520,10 @@ def run_once():
         "#announce: Спасибо вам за 5000 подписчиков ❤️ @halyava_vpnx\n\n"
     )
 
-    update_repo(header + "\n".join(final))
+    update_repo(
+        header + "\n".join(final)
+    )
+
     print(f"DONE: {len(final)} configs")
 
 if __name__ == "__main__":
