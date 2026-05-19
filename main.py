@@ -417,9 +417,11 @@ def run_once():
         final.append(line)
 
     header = (
-        "#profile-title: VPN Подписка | Mini 🎁\n"
+        "#profile-title: Халява ВПН | Mini 🎁\n"
         "#profile-update-interval: 12\n"
-        "#subscription-userinfo: expire=5774966400; total=10995116277760; used=0\n\n"
+        "#subscription-userinfo: expire=5774966400; total=10995116277760; used=0\n"
+        "#profile-web-page-url: https://t.me/halyava_vpnx\n"
+        "#announce: Спасибо вам за 5000 подписчиков ❤️ @halyava_vpnx\n\n"
     )
 
     update_repo(header + "\n".join(final))
