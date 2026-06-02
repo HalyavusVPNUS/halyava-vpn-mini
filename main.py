@@ -17,7 +17,7 @@ TOKEN = os.getenv("GH_TOKEN6")
 FILE_PATH = "mini.txt"
 
 SOURCES = [
-    "https://gist.githubusercontent.com/flaafix/c79a81037d15163360571c7a7331b153/raw/AetrisVPN.txt"
+    "https://raw.githubusercontent.com/ShadowException/VPN/refs/heads/main/configs/VPN-cat"
 ]
 
 BANNED_COUNTRIES = ['RU', 'CN', 'KP', 'IR']
@@ -27,7 +27,7 @@ HEADERS = {
 }
 
 # =========================
-# СТРАНЫ
+# СТРАНЫ (обрезано)
 # =========================
 
 RU_COUNTRIES = {
@@ -261,7 +261,6 @@ RU_COUNTRIES = {
     "ZM": "Замбия",
     "ZW": "Зимбабве"
 }
-
 # =========================
 # PING
 # =========================
@@ -270,17 +269,11 @@ def get_ping(host, port):
     try:
         ip = socket.gethostbyname(host)
 
-        sock = socket.socket(
-            socket.AF_INET,
-            socket.SOCK_STREAM
-        )
-
+        sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         sock.settimeout(5)
 
         start = time.time()
-
         result = sock.connect_ex((ip, port))
-
         ping = int((time.time() - start) * 1000)
 
         sock.close()
@@ -310,12 +303,12 @@ def get_country_info(host):
         data = r.json()
 
         if not data.get("success"):
-            return "UN", "Сервер"
+            return "UN", "Server"
 
         code = data.get("country_code")
 
         if not code:
-            return "UN", "Сервер"
+            return "UN", "Server"
 
         if code in BANNED_COUNTRIES:
             return None, None
@@ -325,7 +318,7 @@ def get_country_info(host):
         return code, country
 
     except:
-        return "UN", "Сервер"
+        return "UN", "Server"
 
 # =========================
 # PROCESS
@@ -340,10 +333,19 @@ def process_key(key):
 
         main_part = key.split('#')[0]
 
-        host_match = re.search(
-            r'@([^:/?#\s]+):?(\d+)?',
-            main_part
-        )
+        # =========================
+        # ФИЛЬТР VLESS security=none
+        # =========================
+        if main_part.startswith("vless://"):
+            lower = main_part.lower()
+
+            if "security=none" in lower:
+                return None
+
+            if ("type=tcp" in lower or "type=ws" in lower or "type=websocket" in lower) and "security=none" in lower:
+                return None
+
+        host_match = re.search(r'@([^:/?#\s]+):?(\d+)?', main_part)
 
         if not host_match:
             return None
@@ -368,10 +370,7 @@ def process_key(key):
         if code == "UN":
             emoji = "🚀"
         else:
-            emoji = "".join(
-                chr(127397 + ord(c))
-                for c in code.upper()
-            )
+            emoji = "".join(chr(127397 + ord(c)) for c in code.upper())
 
         return {
             "main": main_part,
@@ -388,7 +387,6 @@ def process_key(key):
 # =========================
 
 def update_repo(content):
-
     url = f"https://api.github.com/repos/{GITHUB_USER}/{REPO_NAME}/contents/{FILE_PATH}"
 
     headers = {
@@ -400,16 +398,12 @@ def update_repo(content):
 
     try:
         r = requests.get(url, headers=headers)
-
         if r.status_code == 200:
             sha = r.json().get("sha")
-
     except:
         pass
 
-    encoded = base64.b64encode(
-        content.encode("utf-8")
-    ).decode("utf-8")
+    encoded = base64.b64encode(content.encode("utf-8")).decode("utf-8")
 
     payload = {
         "message": f"Mini Update {time.strftime('%H:%M:%S')}",
@@ -420,29 +414,18 @@ def update_repo(content):
     if sha:
         payload["sha"] = sha
 
-    requests.put(
-        url,
-        headers=headers,
-        json=payload
-    )
+    requests.put(url, headers=headers, json=payload)
 
 # =========================
 # MAIN
 # =========================
 
 def run_once():
-
     all_keys = []
 
     for src in SOURCES:
-
         try:
-
-            r = requests.get(
-                src,
-                headers=HEADERS,
-                timeout=15
-            )
+            r = requests.get(src, headers=HEADERS, timeout=15)
 
             found = re.findall(
                 r'(?:vless|vmess|trojan|ss|hysteria2?)://[^\s]+',
@@ -457,72 +440,32 @@ def run_once():
     unique_keys = list(set(all_keys))
 
     with ThreadPoolExecutor(max_workers=30) as executor:
+        results = list(filter(None, executor.map(process_key, unique_keys)))
 
-        results = list(
-            filter(
-                None,
-                executor.map(process_key, unique_keys)
-            )
-        )
-
-    # =========================
-    # СОРТИРОВКА
-    # =========================
-
-    results.sort(
-        key=lambda x: (
-            x["country"],
-            x["ping"]
-        )
-    )
-
-    # =========================
-    # ГРУППИРОВКА
-    # =========================
+    results.sort(key=lambda x: (x["country"], x["ping"]))
 
     grouped = {}
 
     for item in results[:200]:
-
-        country = item["country"]
-
-        if country not in grouped:
-            grouped[country] = []
-
-        grouped[country].append(item)
-
-    # =========================
-    # ФИНАЛ
-    # =========================
+        grouped.setdefault(item["country"], []).append(item)
 
     final = []
 
     for country in sorted(grouped.keys()):
-
-        servers = grouped[country]
-
-        for idx, item in enumerate(servers, 1):
-
-            line = (
-                f"{item['main']}"
-                f"#{item['emoji']} "
-                f"{country} "
-                f"#{idx}"
+        for idx, item in enumerate(grouped[country], 1):
+            final.append(
+                f"{item['main']}#{item['emoji']} {country} #{idx}"
             )
-
-            final.append(line)
 
     header = (
         "#profile-title: Халява ВПН | Mini 🎁\n"
         "#profile-update-interval: 12\n"
         "#subscription-userinfo: expire=5774966400; total=10995116277760; used=0\n"
         "#profile-web-page-url: https://t.me/halyava_vpnx\n"
-        "#announce: Спасибо вам за 5000 подписчиков ❤️ @halyava_vpnx\n\n"
+        "#announce: Спасибо вам за 7000 подписчиков ❤️ @halyava_vpnx\n\n"
     )
 
-    update_repo(
-        header + "\n".join(final)
-    )
+    update_repo(header + "\n".join(final))
 
     print(f"DONE: {len(final)} configs")
 
