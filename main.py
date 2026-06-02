@@ -473,11 +473,11 @@ def run_once():
             )
 
     header = (
-        "#profile-title: Халява ВПН | TCP ONLY 🎯\n"
+        "#profile-title: Халява ВПН | Mini 🎁\n"
         "#profile-update-interval: 12\n"
         "#subscription-userinfo: expire=5774966400; total=10995116277760; used=0\n"
         "#profile-web-page-url: https://t.me/halyava_vpnx\n"
-        "#announce: TCP TLS / REALITY ONLY 🔥\n\n"
+        "#announce: Спасибо вам за 7000 подписчиков ❤️ @halyava_vpnx\n\n"
     )
 
     update_repo(header + "\n".join(final))
