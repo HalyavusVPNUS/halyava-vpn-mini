@@ -5,6 +5,7 @@ import socket
 import time
 import base64
 from concurrent.futures import ThreadPoolExecutor
+from urllib.parse import urlparse, parse_qs
 
 # =========================
 # НАСТРОЙКИ
@@ -267,6 +268,7 @@ RU_COUNTRIES = {
 def get_ping(host, port):
     try:
         ip = socket.gethostbyname(host)
+
         sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         sock.settimeout(5)
 
@@ -316,6 +318,36 @@ def get_country_info(host):
         return "UN", "Server"
 
 # =========================
+# FILTER VLESS TYPES
+# =========================
+
+def is_valid_vless(main_part: str) -> bool:
+    try:
+        if not main_part.startswith("vless://"):
+            return False
+
+        parsed = urlparse(main_part)
+        qs = parse_qs(parsed.query)
+
+        security = (qs.get("security", [""])[0] or "").lower()
+        transport = (qs.get("type", [""])[0] or "").lower()
+
+        # разрешённые варианты
+        allowed_transports = ["tcp"]
+        allowed_security = ["tls", "reality"]
+
+        if transport not in allowed_transports:
+            return False
+
+        if security not in allowed_security:
+            return False
+
+        return True
+
+    except:
+        return False
+
+# =========================
 # PROCESS
 # =========================
 
@@ -325,20 +357,14 @@ def process_key(key):
         if not key:
             return None
 
-        lower = key.lower()
-
-        # =========================
-        # ЖЁСТКИЙ ФИЛЬТР VLESS NONE
-        # =========================
-        if "vless://" in lower:
-            if "security=none" in lower:
-                return None
-            if "type=tcp" in lower and "security=none" in lower:
-                return None
-            if "type=ws" in lower and "security=none" in lower:
-                return None
-
         main_part = key.split('#')[0]
+
+        # =========================
+        # ЖЁСТКИЙ ФИЛЬТР VLESS
+        # =========================
+        if main_part.startswith("vless://"):
+            if not is_valid_vless(main_part):
+                return None
 
         host_match = re.search(r'@([^:/?#\s]+):?(\d+)?', main_part)
         if not host_match:
@@ -447,11 +473,11 @@ def run_once():
             )
 
     header = (
-        "#profile-title: Халява ВПН | Mini 🎁\n"
+        "#profile-title: Халява ВПН | TCP ONLY 🎯\n"
         "#profile-update-interval: 12\n"
         "#subscription-userinfo: expire=5774966400; total=10995116277760; used=0\n"
         "#profile-web-page-url: https://t.me/halyava_vpnx\n"
-        "#announce: Спасибо вам за 7000 подписчиков ❤️ @halyava_vpnx\n\n"
+        "#announce: TCP TLS / REALITY ONLY 🔥\n\n"
     )
 
     update_repo(header + "\n".join(final))
