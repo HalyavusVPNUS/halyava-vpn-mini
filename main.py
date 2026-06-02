@@ -22,9 +22,7 @@ SOURCES = [
 
 BANNED_COUNTRIES = ['RU', 'CN', 'KP', 'IR']
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0"
-}
+HEADERS = {"User-Agent": "Mozilla/5.0"}
 
 # =========================
 # СТРАНЫ (обрезано)
@@ -261,6 +259,7 @@ RU_COUNTRIES = {
     "ZM": "Замбия",
     "ZW": "Зимбабве"
 }
+
 # =========================
 # PING
 # =========================
@@ -268,7 +267,6 @@ RU_COUNTRIES = {
 def get_ping(host, port):
     try:
         ip = socket.gethostbyname(host)
-
         sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         sock.settimeout(5)
 
@@ -280,7 +278,6 @@ def get_ping(host, port):
 
         if result == 0:
             return ping
-
     except:
         pass
 
@@ -313,9 +310,7 @@ def get_country_info(host):
         if code in BANNED_COUNTRIES:
             return None, None
 
-        country = RU_COUNTRIES.get(code, code)
-
-        return code, country
+        return code, RU_COUNTRIES.get(code, code)
 
     except:
         return "UN", "Server"
@@ -327,26 +322,25 @@ def get_country_info(host):
 def process_key(key):
     try:
         key = key.strip()
-
         if not key:
             return None
 
-        main_part = key.split('#')[0]
+        lower = key.lower()
 
         # =========================
-        # ФИЛЬТР VLESS security=none
+        # ЖЁСТКИЙ ФИЛЬТР VLESS NONE
         # =========================
-        if main_part.startswith("vless://"):
-            lower = main_part.lower()
-
+        if "vless://" in lower:
             if "security=none" in lower:
                 return None
-
-            if ("type=tcp" in lower or "type=ws" in lower or "type=websocket" in lower) and "security=none" in lower:
+            if "type=tcp" in lower and "security=none" in lower:
+                return None
+            if "type=ws" in lower and "security=none" in lower:
                 return None
 
-        host_match = re.search(r'@([^:/?#\s]+):?(\d+)?', main_part)
+        main_part = key.split('#')[0]
 
+        host_match = re.search(r'@([^:/?#\s]+):?(\d+)?', main_part)
         if not host_match:
             return None
 
@@ -358,19 +352,14 @@ def process_key(key):
             port = 443
 
         ping = get_ping(host, port)
-
         if ping is None:
             return None
 
         code, country = get_country_info(host)
-
         if not code:
             return None
 
-        if code == "UN":
-            emoji = "🚀"
-        else:
-            emoji = "".join(chr(127397 + ord(c)) for c in code.upper())
+        emoji = "🚀" if code == "UN" else "".join(chr(127397 + ord(c)) for c in code)
 
         return {
             "main": main_part,
@@ -403,7 +392,7 @@ def update_repo(content):
     except:
         pass
 
-    encoded = base64.b64encode(content.encode("utf-8")).decode("utf-8")
+    encoded = base64.b64encode(content.encode()).decode()
 
     payload = {
         "message": f"Mini Update {time.strftime('%H:%M:%S')}",
@@ -439,8 +428,8 @@ def run_once():
 
     unique_keys = list(set(all_keys))
 
-    with ThreadPoolExecutor(max_workers=30) as executor:
-        results = list(filter(None, executor.map(process_key, unique_keys)))
+    with ThreadPoolExecutor(max_workers=30) as ex:
+        results = list(filter(None, ex.map(process_key, unique_keys)))
 
     results.sort(key=lambda x: (x["country"], x["ping"]))
 
