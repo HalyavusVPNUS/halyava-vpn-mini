@@ -4,22 +4,26 @@
 #profile-web-page-url: https://t.me/halyava_vpnx
 #announce: Спасибо вам за 7000 подписчиков ❤️ @halyava_vpnx
 
-vless://f099abc1-eb01-4171-a94f-566563f6b3b1@87.120.196.18:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ya.ru&fp=chrome&pbk=o2SrzDoX5tfMpju7B-RSxsb7eo6-hdV1vRFP8VA-dUA&type=tcp&headerType=none#🇧🇬 Болгария #1
-vless://f099abc1-eb01-4171-a94f-566563f6b3b1@87.120.196.18:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ya.ru&fp=chrome&pbk=o2SrzDoX5tfMpju7B-RSxsb7eo6-hdV1vRFP8VA-dUA&type=tcp&headerType=none#🇧🇬 Болгария #2
-vless://205d6869-02ca-3b36-b933-be2465250c7e@s643.ccgfw.top:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=random&sni=s643.ccgfw.top#🇬🇧 Великобритания #1
-trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443#🇩🇪 Германия #1
-trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?fp=chrome&security=tls&sni=172.236.220.10&type=#🇩🇪 Германия #2
-trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?security=tls&sni=www.sandbox-cloud.click&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇳 Индия #1
+vless://17451fec-af94-4715-8c2f-7f6839130d0a@germ-node.datamove.online:2040?type=tcp&headerType=none&security=reality&encryption=none&sni=tradingview.com&fp=qq&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&sid=53197c66aef53c44&spx=%2F#🇬🇧 Великобритания #1
+vless://17451fec-af94-4715-8c2f-7f6839130d0a@germ-node.datamove.online:2040?security=reality&encryption=none&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&headerType=none&fp=chrome&spx=/&type=tcp&sni=tradingview.com&sid=53197c66aef53c44#🇬🇧 Великобритания #2
+vless://ed98e66d-5dbe-4b6d-9032-250e61eaf53f@de02.lumixvpn.org:443?type=tcp&headerType=none&security=reality&encryption=none&sni=de02.lumixvpn.org&fp=qq&pbk=DIHjDGgu5D5u6_MR58aXikctuSMiMsXM9TQO8AjnsFE&sid=f2036d26b59e10f9#🇬🇧 Великобритания #3
+trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🇩🇪 Германия #1
+trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&headerType=none&type=tcp#🇩🇪 Германия #2
+vless://17451fec-af94-4715-8c2f-7f6839130d0a@germ-node.datamove.online:2040?security=reality&encryption=none&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&headerType=none&fp=chrome&spx=/&type=tcp&sni=tradingview.com&sid=53197c66aef53c44#🇩🇪 Германия #3
+vless://17451fec-af94-4715-8c2f-7f6839130d0a@germ-node.datamove.online:2040?type=tcp&headerType=none&security=reality&encryption=none&sni=tradingview.com&fp=qq&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&sid=53197c66aef53c44&spx=%2F#🇩🇪 Германия #4
+vless://17451fec-af94-4715-8c2f-7f6839130d0a@germ-node.datamove.online:2040/?type=tcp&encryption=none&flow=&sni=tradingview.com&fp=qq&security=reality&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&sid=53197c66aef53c44#🇩🇪 Германия #5
+vless://17451fec-af94-4715-8c2f-7f6839130d0a@germ-node.datamove.online:2040?security=reality&encryption=none&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&headerType=none&fp=chrome&spx=/&type=tcp&sni=tradingview.com&sid=53197c66aef53c44#🇩🇪 Германия #6
+trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?allowInsecure=0&sni=www.sandbox-cloud.click#🇮🇳 Индия #1
 trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?allowInsecure=0&sni=www.sandbox-cloud.click#🇮🇳 Индия #2
-trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?allowInsecure=0&sni=www.sandbox-cloud.click#🇮🇳 Индия #3
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#🇮🇹 Италия #1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#🇳🇱 Нидерланды #1
-ss://YWVzLTI1Ni1nY206ZDFhNDQ1ZDgtZDI4MC00NDY1LTg5M2ItMDg3Yjk3MmEzYWEx@192.142.18.127:443#🇳🇱 Нидерланды #2
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?alpn=http/1.1#🇵🇱 Польша #1
-vless://07ab8a15-a4a5-4a03-92b4-4e6a2e9aa5e7@poland.boot-lee.ru:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=RlAi5R84YF3U7llMLLoEui7R7nXhNWYWWy8Zukoo0m8&sid=019ae4dcc8f3aae7&sni=api-maps.yandex.ru&fp=qq&spx=#🇵🇱 Польша #2
-trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?security=tls&sni=172.237.145.189&fp=chrome&headerType=none&allowInsecure=0&type=tcp#🇺🇸 США #1
+trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?security=tls&sni=www.sandbox-cloud.click&fp=chrome&type=tcp#🇮🇳 Индия #3
+trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?security=tls&sni=www.sandbox-cloud.click&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇳 Индия #4
+trojan://lTLVIqIvFqp+es9giS.0o77ztLrCQLaxVh@172.105.9.126:443?security=tls&sni=172.105.9.126&fp=chrome&type=tcp#🇨🇦 Канада #1
+trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?fp=chrome&security=tls&sni=www.registry-monitor.click&type=#🇵🇰 Пакистан #1
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&sni=64.176.65.85&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇵🇱 Польша #1
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls#🇵🇱 Польша #2
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇵🇱 Польша #3
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?alpn=http/1.1#🇵🇱 Польша #4
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇵🇱 Польша #5
 ss://YWVzLTEyOC1nY206SlZTdXVpYjR5ZHZZOG03dTZqRWxUWWJlUk84eWdKNEhpOElxNzMzQnFBa0Y=@168.138.175.92:9888#🇸🇬 Сингапур #1
-trojan://humanity@81.255.155.10:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#🇫🇷 Франция #1
-trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?security=tls&sni=www.weavenet.click#🇫🇷 Франция #2
-trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?security=tls&sni=www.weavenet.click&fp=chrome&type=tcp#🇫🇷 Франция #3
-vless://93b11875-9e06-47ef-89b5-796d0ad0d45c@argovpn.imanaghapour.ir:19326?encryption=none&fp=chrome&pbk=z9FqCc1BwCVF0PRFlaW3JrADk2ImO9a4QmbDeYk4qx0&security=reality&sid=4f&sni=www.samsung.com&spx=/l3T1Ba5900Z2TxD&type=tcp#🇫🇷 Франция #4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMbDZjWWZYTTVEelFiZHRNTWI3MkFfanFWbk5salUzeXFl@149.104.109.74:21273#🇵🇭 Филиппины #1
+vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@fi2.vitok.cc:443?encryption=none&fp=&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&security=reality&sid=5e841fab&sni=yastatic.net&type=tcp&seq=you_are_beautiful8594#🇫🇮 Финляндия #1
