@@ -4,14 +4,21 @@
 #profile-web-page-url: https://t.me/halyava_vpnx
 #announce: Спасибо вам за 7000 подписчиков ❤️ @halyava_vpnx
 
-vless://17451fec-af94-4715-8c2f-7f6839130d0a@germ-node.datamove.online:2040?flow=&fp=qq&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&security=reality&sid=53197c66aef53c44&sni=tradingview.com&type=tcp#🇬🇧 Великобритания #1
 trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?allowInsecure=0&sni=172.236.220.10#🇩🇪 Германия #1
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?alpn=http%2F1.1#🇵🇱 Польша #1
+trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&sni=172.236.220.10#🇩🇪 Германия #2
+trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?fp=chrome#🇩🇪 Германия #3
+trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=172.236.220.10#🇩🇪 Германия #4
+trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.236.220.10#🇩🇪 Германия #5
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#🇮🇹 Италия #1
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&sni=64.176.65.85&fp=chrome&type=tcp#🇵🇱 Польша #1
 trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇵🇱 Польша #2
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?type=tcp&headerType=none&security=tls&encryption=none&insecure=0#🇵🇱 Польша #3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#🇵🇱 Польша #4
-trojan://cf3d48cf-750c-4f18-89a7-f81d2e153fbe@cyylr.eu.cc:443?type=ws&headerType=none&security=tls&encryption=none&sni=blog.webex.com.cyylr.eu.cc&path=%2Fin-do&host=blog.webex.com.cyylr.eu.cc&insecure=0#🇺🇸 США #1
-vless://4405aeb6-84fc-49ba-a42b-948a3b1ed13c@us.healthy-connected.com:443?security=reality&type=tcp&sni=us.healthy-connected.com&fp=chrome&flow=xtls-rprx-vision&sid=30e570274c0c72cc&pbk=ep8sjqX2t_F-tn5SElD9RkuRimExyi9h1MA-F5ESa30&encryption=none#🇺🇸 США #2
-vless://6245c3d6-348f-44a4-f18b-9d13168a3425@38.207.190.137:50513?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ts3.tc.mm.bing.net&fp=firefox&pbk=BL4bEP5My8N4j8hOkg-lI-JVrFou4eC7nSzD6Gk19DU&sid=79394c306dd3&type=tcp&headerType=none#🇺🇸 США #3
-vless://6245c3d6-348f-44a4-f18b-9d13168a3425@38.207.190.137:57623?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ts3.tc.mm.bing.net&fp=firefox&pbk=BL4bEP5My8N4j8hOkg-lI-JVrFou4eC7nSzD6Gk19DU&sid=a0ed5ba7&type=tcp&headerType=none#🇺🇸 США #4
+trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@edu.ruangguru.com.cyylr.eu.cc:443?security=tls&sni=edu.ruangguru.com.cyylr.eu.cc&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fid-tksi#🇺🇸 США #1
+trojan://Nova-Proxy@spring-tooth-7fa3.ahmadrj.workers.dev:443?security=tls&insecure=0&allowInsecure=0&type=ws&path=%2F#🇺🇸 США #2
+trojan://aa710f78-eddb-45b4-bd32-1f8692a754e5@s.blibli.com.cyylr.eu.cc:443?security=tls&sni=s.blibli.com.cyylr.eu.cc&fp=chrome&allowInsecure=0&type=ws&path=/ae-bo#🇺🇸 США #3
+trojan://cf3d48cf-750c-4f18-89a7-f81d2e153fbe@cyylr.eu.cc:443?host=blog.webex.com.cyylr.eu.cc&path=/in-do&security=tls&sni=blog.webex.com.cyylr.eu.cc&type=ws#🇺🇸 США #4
+trojan://cf3d48cf-750c-4f18-89a7-f81d2e153fbe@cyylr.eu.cc:443?type=ws&headerType=none&security=tls&encryption=none&sni=blog.webex.com.cyylr.eu.cc&path=%2Fin-do&host=blog.webex.com.cyylr.eu.cc&insecure=0#🇺🇸 США #5
+vless://6245c3d6-348f-44a4-f18b-9d13168a3425@38.207.190.137:50513?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ts3.tc.mm.bing.net&fp=firefox&pbk=BL4bEP5My8N4j8hOkg-lI-JVrFou4eC7nSzD6Gk19DU&sid=79394c306dd3&type=tcp&headerType=none#🇺🇸 США #6
+vless://6245c3d6-348f-44a4-f18b-9d13168a3425@38.207.190.137:57623?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ts3.tc.mm.bing.net&fp=firefox&pbk=BL4bEP5My8N4j8hOkg-lI-JVrFou4eC7nSzD6Gk19DU&sid=a0ed5ba7&type=tcp&headerType=none#🇺🇸 США #7
+vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@52.144.45.118:11003?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=trNcbZqs-1u3CDgb9-NiL4AoZTtCvaq5trvMpgBYnDQ&sid=d2f6a308&sni=www.cloudflare.com&servername=www.cloudflare.com&spx=%2F&fp=safari&descriptions=люби_себя281eb7#🇺🇸 США #8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.230.25.142:50099#🇹🇼 Тайвань #1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBOWF3TEJLZ3ZzSFU2R3N4VlVLNlBZ@195.133.2.2:34898#🇫🇮 Финляндия #1
