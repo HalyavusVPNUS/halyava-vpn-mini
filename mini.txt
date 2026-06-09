@@ -4,9 +4,14 @@
 #profile-web-page-url: https://t.me/halyava_vpnx
 #announce: Спасибо вам за 7000 подписчиков ❤️ @halyava_vpnx
 
-vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&security=reality&sid=ea10cd5686751ec5&sni=storage.yandex.net&type=tcp#🇬🇧 Великобритания #1
-vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?flow=xtls-rprx-vision&fp=firefox&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&security=reality&sid=ea10cd5686751ec5&sni=storage.yandex.net&type=tcp#🇬🇧 Великобритания #2
-vless://087ebc31-5965-4ba9-8992-e13343e4cf99@del.hfgtek.ir:8443?alpn=h2,http/1.1&encryption=none&fp=chrome&security=tls&sni=del.hfgtek.ir&type=tcp#🇩🇪 Германия #1
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls#🇵🇱 Польша #1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#🇵🇱 Польша #2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001269pz2.cybervena.com:50099#🇹🇼 Тайвань #1
+vless://9ad4f937-6366-474b-9d7e-e2a694deb4e2@pro-fi.emrata.top:753?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=www.amd.com&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I#🇧🇪 Бельгия #1
+vless://6ca8ea5b-e47f-4c19-adee-365456e1e87c@167.104.223.44:7443?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387#🇬🇧 Великобритания #1
+trojan://cczQCxQBdYzynosgqLVSmUnZzwjJcWEnpWnMAjZQUy94hDdN@gm2.bw8848.org:443/?type=ws&host=gm2.bw8848.org&path=%2Fgm2-gm2-mo9ag9&security=tls&sni=gm2.bw8848.org#🇩🇪 Германия #1
+trojan://RaxTmLsUysCCyFnHeEbw87Z93F4rGEhxmCEzvTLAssP9zuMA@gm1.bw8848.org:443/?type=ws&host=gm1.bw8848.org&path=%2Fgm1-gm1-j6meub&security=tls&sni=gm1.bw8848.org#🇩🇪 Германия #2
+vless://85c42ce4-7789-49cb-9012-9d6d6ba16581@bypass.tralalero.site:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=6419bed7fd0a2cff&sni=storage.yandex.net#🇮🇹 Италия #1
+vless://85c42ce4-7789-49cb-9012-9d6d6ba16581@tralalero.site:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=6419bed7fd0a2cff&sni=storage.yandex.net#🇮🇹 Италия #2
+vless://85c42ce4-7789-49cb-9012-9d6d6ba16581@tralalero.site:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=6419bed7fd0a2cff&sni=storage.yandex.net#🇮🇹 Италия #3
+vless://87a61ee1-f6eb-48b4-ac90-c255ce067a07@85.202.195.169:443?flow=xtls-rprx-vision&fp=firefox&pbk=mbvZt-7r8xaJ8gIfPrhukRATKlB8fQNG8AxPLZeZ6Gg&security=reality&sni=kz1.dendibase.org&type=tcp#🇰🇿 Казахстан #1
+vless://8bbf020e-653f-4a82-9900-1214e4e37dab@195.184.247.138:443?flow=xtls-rprx-vision&fp=firefox&pbk=gXc2c9NIWxhUTb7HoBCjvo-uB1L4iQj4TH38g4YhxHE&security=reality&sid=fcd9787f&sni=www.microsoft.com&type=tcp#🇳🇱 Нидерланды #1
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?allowInsecure=0#🇵🇱 Польша #1
+vless://87a61ee1-f6eb-48b4-ac90-c255ce067a07@84.32.23.128:443?flow=xtls-rprx-vision&fp=firefox&pbk=mbvZt-7r8xaJ8gIfPrhukRATKlB8fQNG8AxPLZeZ6Gg&security=reality&sni=sg1.dendibase.org&type=tcp#🇸🇬 Сингапур #1
