@@ -4,30 +4,16 @@
 #profile-web-page-url: https://t.me/halyava_vpnx
 #announce: Спасибо вам за 7000 подписчиков ❤️ @halyava_vpnx
 
-vless://93796b65-0d32-4fcc-987c-16c97ecf44c2@87.121.112.104:443?flow=xtls-rprx-vision&fp=firefox&pbk=Js_ZC-0R1kzvury1NcJemynfbNs3Z3tBupqW0VVPF1U&security=reality&sid=1d5c3da9db1d5a7d&sni=nohungary.live&type=tcp#🇧🇬 Болгария #1
 vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5&sni=storage.yandex.net#🇬🇧 Великобритания #1
-vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5&sni=storage.yandex.net#🇬🇧 Великобритания #2
-vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?flow=xtls-rprx-vision&fp=chrome&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&security=reality&sid=ea10cd5686751ec5&sni=storage.yandex.net&type=tcp#🇬🇧 Великобритания #3
-vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5&flow=xtls-rprx-vision#🇬🇧 Великобритания #4
-vless://1c0277ad-bb4d-496f-bc0c-40ccee03fca5@45.86.159.170:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=be0ce047#🇬🇧 Великобритания #5
-vless://1c0277ad-bb4d-496f-bc0c-40ccee03fca5@167.104.223.68:7443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.microsoft.com&fp=chrome&insecure=0&allowInsecure=0&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387&flow=xtls-rprx-vision#🇬🇧 Великобритания #6
-vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5&sni=storage.yandex.net#🇬🇧 Великобритания #7
-trojan://hF7uSJfeBPtSNXKtuYvTRNaBdGkkXHpKJfLRfbpaDWovomSL@3.8.238.251:443?path=%2Fuk1-uk1-gcjtze&security=tls&insecure=0&host=uk1.bw8848.org&type=ws&allowInsecure=0&sni=uk1.bw8848.org#🇬🇧 Великобритания #8
-trojan://hF7uSJfeBPtSNXKtuYvTRNaBdGkkXHpKJfLRfbpaDWovomSL@3.8.238.251:443?security=tls&sni=uk1.bw8848.org&type=ws&host=uk1.bw8848.org&path=/uk1-uk1-gcjtze#🇬🇧 Великобритания #9
-vless://6f11a1b7-0847-4972-ac3a-1776df94b4d2@de.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=b76dcf9e1183fe1b#🇩🇪 Германия #1
-vless://75e3f61c-9ade-41b8-840f-39d41d8208c6@88.210.62.3:443?flow=xtls-rprx-vision&fp=firefox&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&security=reality&sid=0a6ba2716a409da6&sni=sun6-21.userapi.com&type=tcp#🇩🇪 Германия #2
-vless://99a5e0ca-99b7-4b83-88f7-7d0f0943ae09@ca-dp-01.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&sid=500aec9e9e5e2212&flow=xtls-rprx-vision#🇨🇦 Канада #1
-vless://977f2eea-9f37-417b-bdc3-5abfba1e54df@ca-dp-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&security=reality&sid=d3ee47fc2f553c44&sni=storage.yandex.net&type=tcp#🇨🇦 Канада #2
-trojan://lTLVIqIvFqp+es9giS.0o77ztLrCQLaxVh@172.105.9.126:443?security=tls&sni=172.105.9.126&fp=chrome&type=tcp#🇨🇦 Канада #3
-vless://a265805b-b887-4431-a3b4-fd6eb5647fac@45.154.98.180:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=eh.vk.com&fp=chrome&pbk=BrGL0gTKK_Ir2VwJOa91Vd8870DswnOXhA6-F92RBGI&sid=a987b6bd1781daa3&flow=xtls-rprx-vision#🇳🇱 Нидерланды #1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8080#🇳🇱 Нидерланды #2
-trojan://mitivpn@188.114.97.6:443?path=/?mitivpn&security=tls&alpn=http/1.1&insecure=0&host=dash.cloudflare.com.www.95r.ir&fp=qq&type=ws&allowInsecure=0&sni=95r.ir#🇺🇸 США #1
-trojan://mitivpn@188.114.97.6:443?type=ws&security=tls&path=/?mitivpn&host=dash.cloudflare.com.www.95r.ir&sni=95r.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇺🇸 США #2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWWk5Sd3pZTjJxR3NQN2pxVGR2cHE1azZqM2c3aFUyZGJNNExrZDNuOVVveDMyNGluZjZQUFVpaDJRbzl3ZlhFb0dOQ0JoZERzclZ1dExtbXZVWmloTXNtc3VHcE11N1I=@94.131.127.154:48877#🇺🇸 США #3
-vless://08fc840b-e673-4031-aa2f-2663cadf838a@31.76.34.86:443?flow=xtls-rprx-vision&fp=firefox&pbk=QlqHO6ZquIkQtxA3F3T0JA74g40W2jqmoYOByIBX2QY&security=reality&sid=91b252bd7f15acc4&sni=ya.ru&type=tcp#🇺🇸 США #4
-ss://YWVzLTEyOC1nY206SlZTdXVpYjR5ZHZZOG03dTZqRWxUWWJlUk84eWdKNEhpOElxNzMzQnFBa0Y=@168.138.175.92:9888#🇸🇬 Сингапур #1
-vless://ef6cd753-94f1-4f2f-b6f1-4c8964c8c42a@fi-m247-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&security=reality&sid=b0c58c398abb6842&sni=storage.yandex.net&type=tcp#🇫🇮 Финляндия #1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NHBGd3VsMXBrNXh1RnI2VDA1UzVT@109.107.182.229:51544#🇫🇮 Финляндия #2
-vless://3b7950ed-e076-4a51-8df2-222a88689700@45.197.134.28:8443?flow=xtls-rprx-vision&fp=firefox&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=d037f6f67cc90016&sni=storage.yandex.net&type=tcp#🇨🇭 Швейцария #1
-trojan://hV66LcSGyxUdHq2aAeqxmLfpBDQmRYxo8Wte43oZr8L379SS@43.207.87.133:443?security=tls&sni=node2.bw8848.org&type=ws&host=node2.bw8848.org&path=/node2-node2-gu7bfd#🇯🇵 Япония #1
-ss://YWVzLTI1Ni1nY206R1RaSTVBYmpOQWVXUUcwb1ZOcHR2V0pvZ0hOS2lpS0E=@47.79.144.115:40003#🇯🇵 Япония #2
+vless://598160c6-982d-4b2d-8218-c8ab745f7677@45.206.0.29:8443?flow=xtls-rprx-vision&fp=firefox&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&security=reality&sid=c20b1035d72d7793&sni=storage.yandex.net&type=tcp#🇬🇧 Великобритания #2
+vless://9dcedf8a-c410-45a1-ba63-be4fbdfe07de@46.224.2.35:443?security=reality&encryption=none&pbk=uLFFVUmk5iRtO95QrmDQ9bwpcYjlOXEW75K-ExOV-3U&headerType=none&fp=chrome&spx=/PSPUtbgQebkGWSN&type=tcp&sni=www.digikala.com&sid=143ec8c1&_t=866d83a7#🇩🇪 Германия #1
+ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@57.131.28.246:2083#🇮🇹 Италия #1
+vless://1c0277ad-bb4d-496f-bc0c-40ccee03fca5@195.184.247.252:7443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.microsoft.com&fp=chrome&insecure=0&allowInsecure=0&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387&flow=xtls-rprx-vision#🇳🇱 Нидерланды #1
+vless://1c0277ad-bb4d-496f-bc0c-40ccee03fca5@195.184.247.252:7443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.microsoft.com&fp=chrome&insecure=0&allowInsecure=0&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387&flow=xtls-rprx-vision#🇳🇱 Нидерланды #2
+vless://1c0277ad-bb4d-496f-bc0c-40ccee03fca5@130.12.242.112:7443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.microsoft.com&sid=be0ce047&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none¬e=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#🇳🇱 Нидерланды #3
+vless://4480161e-2c59-4d37-8736-675c9af32bf1@72.56.92.177:40443?flow=xtls-rprx-vision&fp=firefox&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&security=reality&sid=01d1bf2d4755d40c&sni=deepl.com&type=tcp#🇳🇱 Нидерланды #4
+vless://88637e28-9e10-4d61-8994-965821538cf7@43.159.171.163:443?security=reality&type=tcp&allowInsecure=1&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=1acc46571c7e073a&pbk=j21SGIGfwTQrNbNZyBrHuB2mA0XpgJTYxF7P9NGgNww#🇺🇸 США #1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099#🇹🇼 Тайвань #1
+vless://90f59466-577b-4edd-8852-15817a2c1b1d@20.91.240.186:1337?flow=xtls-rprx-vision&fp=firefox&pbk=ClaP1SX8Nonjd1PF7yBZ4TN1JRpu2_Q_jgEUrtwbnww&security=reality&sid=958c3938&sni=sw.xankavpn.xyz&type=tcp#🇸🇪 Швеция #1
+ss://YWVzLTI1Ni1nY206R1RaSTVBYmpOQWVXUUcwb1ZOcHR2V0pvZ0hOS2lpS0E=@47.79.144.115:40003#🇯🇵 Япония #1
+vless://16656be6-c062-445c-8a33-88a64969ad52@20.89.235.133:1337?flow=xtls-rprx-vision&fp=firefox&pbk=LivgxkSsBtNfbdeRKv1VFntfiEszrRnpvup4ugiN73M&security=reality&sid=02edfef3&sni=jp.xanka.best&type=tcp#🇯🇵 Япония #2
