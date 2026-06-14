@@ -4,10 +4,38 @@
 #profile-web-page-url: https://t.me/halyava_vpnx
 #announce: Спасибо вам за 7000 подписчиков ❤️ @halyava_vpnx
 
-vless://977f2eea-9f37-417b-bdc3-5abfba1e54df@ca-dp-01.com:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&sid=d3ee47fc2f553c44&sni=storage.yandex.net#🇨🇦 Канада #1
-vless://977f2eea-9f37-417b-bdc3-5abfba1e54df@ca-dp-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&security=reality&sid=d3ee47fc2f553c44&sni=storage.yandex.net&type=tcp#🇨🇦 Канада #2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#🇵🇱 Польша #1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#🇵🇱 Польша #2
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.254.187:12000#🇺🇸 США #1
+vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@94.177.9.149:443?flow=xtls-rprx-vision&fp=firefox&pbk=wpZDT_592emHu309qN-7-qceofbMJzoAdIx9m9RFJGg&security=reality&sid=b77ac02151b47155&sni=at-c3.buycloud.app&type=tcp#🇦🇹 Австрия #1
+vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5&type=tcp&headerType=none#🇬🇧 Великобритания #1
+vless://4d606920-62d7-4d28-a5c4-f8a70fe56aaa@uk-gthost-01.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=37772edff71b4167&type=tcp&headerType=none#🇬🇧 Великобритания #2
+vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?flow=xtls-rprx-vision&fp=firefox&headertype=&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&security=reality&sid=ea10cd5686751ec5&sni=storage.yandex.net&type=tcp#🇬🇧 Великобритания #3
+vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5&sni=storage.yandex.net#🇬🇧 Великобритания #4
+vless://4d606920-62d7-4d28-a5c4-f8a70fe56aaa@uk-gthost-01.com:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=37772edff71b4167&sni=storage.yandex.net#🇬🇧 Великобритания #5
+vless://598160c6-982d-4b2d-8218-c8ab745f7677@uk-gthost-01.com:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=37772edff71b4167&sni=storage.yandex.net#🇬🇧 Великобритания #6
+vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5&sni=storage.yandex.net#🇬🇧 Великобритания #7
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@46.225.226.77:2095?security=reality&sni=refersion.com&type=tcp&fp=random&pbk=9nvQaypTgq2UZ_9wSUctYxStDRWNJqe3o9evmKc5UBE&sid=bc348c28dbc7b9f5#🇩🇪 Германия #1
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@46.225.226.77:2095?security=reality&sni=refersion.com&type=tcp&fp=random&pbk=9nvQaypTgq2UZ_9wSUctYxStDRWNJqe3o9evmKc5UBE&sid=bc348c28dbc7b9f5#🇩🇪 Германия #2
+vless://a67547d1-5690-4697-add6-a1021dc82526@198.105.113.184:443?flow=xtls-rprx-vision&fp=firefox&pbk=G0fiHk9ZyK2YXF2TW2oA1m065KuzNAsA0AMU2B2ZE3o&security=reality&sid=a9c146868b22a31b&sni=instmc.nodeserv.xyz&type=tcp#🇮🇳 Индия #1
+ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@57.131.28.246:2083#🇮🇹 Италия #1
+vless://f4779677-98b1-4bea-bc54-5ecfe4813732@ca-dp-01.com:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&sid=d3ee47fc2f553c44&sni=storage.yandex.net#🇨🇦 Канада #1
+vless://5aba4d93-38da-489e-b41e-9396a9c81838@45.198.105.56:8443?flow=xtls-rprx-vision&fp=firefox&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&security=reality&sid=da147b40372a5fed&sni=storage.yandex.net&type=tcp#🇨🇦 Канада #2
+vless://4d37001f-ca6c-4f9d-8355-6f0912258b20@45.198.105.56:8443?flow=xtls-rprx-vision&fp=firefox&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&security=reality&sid=500aec9e9e5e2212&sni=storage.yandex.net&type=tcp#🇨🇦 Канада #3
+vless://99a5e0ca-99b7-4b83-88f7-7d0f0943ae09@ca-dp-01.com:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&sid=500aec9e9e5e2212&sni=storage.yandex.net#🇨🇦 Канада #4
+vless://5aba4d93-38da-489e-b41e-9396a9c81838@45.198.105.56:8443?flow=xtls-rprx-vision&fp=firefox&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&security=reality&sid=d3ee47fc2f553c44&sni=storage.yandex.net&type=tcp#🇨🇦 Канада #5
+vless://efe3901e-b309-43f3-843a-f4f871670cf3@154.83.159.233:8443?flow=xtls-rprx-vision&fp=firefox&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&security=reality&sid=6f15101ff2cc4887&sni=storage.yandex.net&type=tcp#🇳🇱 Нидерланды #1
+vless://e8ca8d63-75f9-4714-9376-a09550168850@147.45.228.181:443?flow=xtls-rprx-vision&fp=firefox&pbk=kt4cbC7CPlUejOya00ZVxWxTg6j5MEh4VmEDysTWnjo&security=reality&sid=6ba85179e30d4fc2&sni=www.microsoft.com&type=tcp#🇳🇱 Нидерланды #2
+vless://af98f1f5-965d-4b06-8687-a61fc2df03bb@84.32.96.100:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=DYxgYrUH1sm7Fb33XJq7ZFYXHscSTedYb8yfDQSWm2k&sid=7c9fb968ceb13456&sni=www.microsoft.com#🇳🇱 Нидерланды #3
+vless://af98f1f5-965d-4b06-8687-a61fc2df03bb@84.32.96.100:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=DYxgYrUH1sm7Fb33XJq7ZFYXHscSTedYb8yfDQSWm2k&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=7c9fb968ceb13456#🇳🇱 Нидерланды #4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#🇳🇱 Нидерланды #5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443#🇳🇱 Нидерланды #6
+vless://f68435e2-ac00-4374-8c03-c1d36e171088@87.120.104.81:1443?flow=xtls-rprx-vision&fp=firefox&pbk=Yia0S6CECYzcz4e6kq0Gzhc_9i_PP--eM0FrEPdQ1WY&security=reality&sid=73a7f33d0731e53c&sni=no.snowfall.top&type=tcp#🇳🇴 Норвегия #1
+vless://446b69aa-90b4-408b-b853-f70895343834@pl-dp-01.online:8443?type=tcp&security=reality&sni=storage.yandex.net&fp=chrome&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&sid=d2c6d9f6e6e12bfe&flow=xtls-rprx-vision#🇵🇱 Польша #1
+vless://f68435e2-ac00-4374-8c03-c1d36e171088@31.14.40.121:1443?flow=xtls-rprx-vision&fp=firefox&pbk=poY0RYff_huOMS_JWLfko7nAw6neo3QPGD2InLlJuh0&security=reality&sid=0911f3e34348cb95&sni=buha.snowfalls.top&type=tcp#🇷🇴 Румыния #1
+vless://a67547d1-5690-4697-add6-a1021dc82526@198.105.123.215:443?flow=xtls-rprx-vision&fp=firefox&pbk=J_iL3k9lXgUl7RuysXql-i4Xu1nGF3MOnKu9IOh61GQ&security=reality&sid=1ec9f4634378f442&sni=trstmycheap.nodeserv.xyz&type=tcp#🇹🇷 Турция #1
+vless://f7166a73-c0d8-0001-8c33-00af87919774@188.132.234.90:443?flow=xtls-rprx-vision&fp=firefox&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&security=reality&sid=a696de84963656de&sni=images.apple.com&type=tcp#🇹🇷 Турция #2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NHBGd3VsMXBrNXh1RnI2VDA1UzVT@109.107.182.229:51544#🇫🇮 Финляндия #1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDR2thSlRiOEhWMGpNQTQzZkE5RmMz@195.133.2.2:34898#🇫🇮 Финляндия #2
+ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0=@51.254.128.106:2083#🇫🇷 Франция #1
+vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@45.13.119.242:443?flow=xtls-rprx-vision&fp=firefox&pbk=ceBE5jvgriHZ7ZGIBh9vk-rvKW3jaB8NQPRWLcP4yV4&security=reality&sid=bdaee38a094d23b8&sni=fr.buycloud.app&type=tcp#🇫🇷 Франция #2
+vless://a6349c3f-5234-4821-80b4-d99b33f0924d@fr-gt-01.com:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=f34818a561dfd1fe&sni=storage.yandex.net#🇫🇷 Франция #3
+vless://a6349c3f-5234-4821-80b4-d99b33f0924d@fr-gt-01.com:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=f34818a561dfd1fe&sni=storage.yandex.net#🇫🇷 Франция #4
+vless://fd09aa6b-34ee-4077-bcbd-836db83d5607@185.229.221.51:443?flow=xtls-rprx-vision&fp=firefox&pbk=PZxYWLD_Wn0yBml6wMzxW7pPQSN9jZXOzrwZscCBWUk&security=reality&sid=48c25ea0d0d5&sni=node.atlasbot.pro&type=tcp#🇸🇪 Швеция #1
+vless://1c7e2730-839d-4321-84f9-4e6b69ea4856@5.175.178.161:8443?flow=xtls-rprx-vision&fp=firefox&pbk=NKL_wMX8dn09Y8pABdtSoop2zyaT4CnYPGJu8_m52jI&security=reality&sid=5fc027d907f46ee9&sni=www.microsoft.com&type=tcp#🇪🇪 Эстония #1
