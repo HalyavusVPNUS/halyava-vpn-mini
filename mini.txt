@@ -4,5 +4,10 @@
 #profile-web-page-url: https://t.me/halyava_vpnx
 #announce: Спасибо вам за 7000 подписчиков ❤️ @halyava_vpnx
 
-vless://c782a4b0-60d6-4540-8152-8725753fdad3@bypass.in-pq-01.info:8104?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rbc.ru&fp=firefox&pbk=yOWj4KtHTjRo6SutNETYUgiNUXES0NY-PcpE9a4MqFM&sid=8ad0b8c7e0e5ff8b&type=tcp&headerType=none#🇮🇳 Индия #1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBQm9FcHhlVTlGYlFyN19KbjdLVTRzVXFEN1JLakJzMg==@85.192.49.179:51523#🇫🇮 Финляндия #1
+vless://977f2eea-9f37-417b-bdc3-5abfba1e54df@ca-dp-01.com:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&sid=d3ee47fc2f553c44&sni=storage.yandex.net#🇨🇦 Канада #1
+vless://977f2eea-9f37-417b-bdc3-5abfba1e54df@ca-dp-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&security=reality&sid=d3ee47fc2f553c44&sni=storage.yandex.net&type=tcp#🇨🇦 Канада #2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#🇵🇱 Польша #1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#🇵🇱 Польша #2
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.254.187:12000#🇺🇸 США #1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NHBGd3VsMXBrNXh1RnI2VDA1UzVT@109.107.182.229:51544#🇫🇮 Финляндия #1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDR2thSlRiOEhWMGpNQTQzZkE5RmMz@195.133.2.2:34898#🇫🇮 Финляндия #2
