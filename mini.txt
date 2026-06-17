@@ -4,27 +4,23 @@
 #profile-web-page-url: https://t.me/halyava_vpnx
 #announce: Спасибо вам за 7000 подписчиков ❤️ @halyava_vpnx
 
-vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.37:8443?fp=firefox&security=reality&sni=storage.yandex.net&sid=ea10cd5686751ec5&flow=xtls-rprx-vision&type=tcp&freeinternet=kizyak_vpn1781531711385&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8#🇬🇧 Великобритания #1
-vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.37:8443?flow=xtls-rprx-vision&fp=firefox&sni=storage.yandex.net&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5&security=reality&type=tcp&freeinternet=kizyak_vpn1781531711385#🇬🇧 Великобритания #2
-vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.37:8443?fp=firefox&sid=ea10cd5686751ec5&flow=xtls-rprx-vision&freeinternet=kizyak_vpn1781531711385&sni=storage.yandex.net&security=reality&type=tcp&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8#🇬🇧 Великобритания #3
-vless://598160c6-982d-4b2d-8218-c8ab745f7677@uk-gthost-01.com:8443?security=reality&encryption=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=37772edff71b4167#🇬🇧 Великобритания #4
-ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0=@it5.taskflowhub.org:2083#🇮🇹 Италия #1
-ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@57.131.28.246:2083#🇮🇹 Италия #2
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.111:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇳🇱 Нидерланды #1
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.96:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇳🇱 Нидерланды #2
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.97:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇳🇱 Нидерланды #3
-vless://394f6981-a782-4779-9a85-e6cf22935d93@89.187.174.121:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇳🇱 Нидерланды #4
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.58:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇳🇱 Нидерланды #5
+vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5&sni=storage.yandex.net#🇬🇧 Великобритания #1
+vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5&sni=storage.yandex.net#🇬🇧 Великобритания #2
+vless://39c61035-36aa-4892-8cf8-b6f3ffc0b145@45.206.0.37:8443?type=tcp&fp=firefox&sid=c20b1035d72d7793&flow=xtls-rprx-vision&security=reality&sni=rbc.ru&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&nonce=Zvg6WUhh#🇬🇧 Великобритания #3
+vless://ab80400e-613e-4763-814d-eae007fdcde2@grinoree.ru:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=2715592069f36fe7&sni=storage.yandex.net&type=tcp#🇭🇺 Венгрия #1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇪🇸 Испания #1
+ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@57.131.28.246:2083#🇮🇹 Италия #1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#🇳🇱 Нидерланды #1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#🇳🇱 Нидерланды #2
 vless://c297d5be-52e9-4478-bc58-2e2ca5662026@pl-dp-01.online:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&sid=764f497dda21c4fc&sni=storage.yandex.net#🇵🇱 Польша #1
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.117:8443?type=tcp&security=tls&fp=chrome&sni=ams1.fromblancwithlove.com#🇷🇴 Румыния #1
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.118:8443?type=tcp&security=tls&fp=chrome&sni=ams1.fromblancwithlove.com#🇷🇴 Румыния #2
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.67:8443?type=tcp&security=tls&fp=chrome&sni=ams1.fromblancwithlove.com#🇷🇴 Румыния #3
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.96:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇷🇴 Румыния #4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjQXFiQllCQjBmOUNBbXBVX21jXzdGeXZ2TENjd3p0MA@31.76.7.28:8388#🇺🇸 США #1
-vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.171:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇫🇮 Финляндия #1
-vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.173:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇫🇮 Финляндия #2
-vless://f00297b0-a501-4982-9a8e-2cf2df5b4f84@fr-01.slnode.cc:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=Icm1TWywIJz1OVINqBXHYeQr1yxDoT-t3R9DDi-CD2U&sid=71b1677c130233d7&sni=fr-01.slnode.cc#🇫🇷 Франция #1
+trojan://MiTiVPN@cdn.95r.ir:443?security=tls&sni=cdn.95r.ir&fp=chrome&allowInsecure=0&alpn=http/1.1&type=ws&path=index.php?mitivpn#🇺🇸 США #1
+ss://YWVzLTEyOC1nY206SlZTdXVpYjR5ZHZZOG03dTZqRWxUWWJlUk84eWdKNEhpOElxNzMzQnFBa0Y=@168.138.175.92:9888#🇸🇬 Сингапур #1
+vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.172:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇫🇮 Финляндия #1
+vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.163:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇫🇮 Финляндия #2
+vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.10:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇫🇮 Финляндия #3
+vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.171:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇫🇮 Финляндия #4
+vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@fi1.vitok.cc:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=7sRyn95DXAxnGKRapwfydC6nRmj1IgH-QQQ3ctwC5k8&sid=5e841fab&sni=sberbank.ru#🇫🇮 Финляндия #5
+ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0=@51.254.128.106:2083#🇫🇷 Франция #1
+ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0=@51.254.128.106:2083#🇫🇷 Франция #2
 vless://ff19693c-11f3-4df9-8713-79a85a5ca090@208.69.78.205:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#🇨🇭 Швейцария #1
-ss://YWVzLTI1Ni1nY206R1RaSTVBYmpOQWVXUUcwb1ZOcHR2V0pvZ0hOS2lpS0E=@47.79.144.115:40003#🇯🇵 Япония #1
-vless://3d04cfa7-4d4e-473f-9e3e-888568d34ab8@151.241.130.43:10085?flow=xtls-rprx-vision&fp=firefox&pbk=zqa21rJqCgBPQasyPYy0b8Abc19RSV76IF7-RHXd2wk&security=reality&sid=df628e0c&sni=apple.com&type=tcp#🇯🇵 Япония #2
-vless://51171159-d453-4d05-bbae-287207db33dd@jp.gsupport.support:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8&_t=66abbc0d#🇯🇵 Япония #3
+vless://cc05f3a7-a06e-4ead-9a2c-70536751c6a9@66.245.218.207:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=otfxC1fx4xgv6BTLh2Ww3GHVkktR1eMgIymqpfGL1W4&security=reality&sid=f725&sni=www.amazon.com&spx=%2F69p1JVve8Qp5LOr&type=tcp#🇯🇵 Япония #1
