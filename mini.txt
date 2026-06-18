@@ -4,5 +4,11 @@
 #profile-web-page-url: https://t.me/halyava_vpnx
 #announce: Спасибо вам за 7000 подписчиков ❤️ @halyava_vpnx
 
+vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5&sni=storage.yandex.net#🇬🇧 Великобритания #1
+vless://ff921f0a-f159-4b2e-903c-9b3cb41e2aa1@64.188.69.120:443?type=tcp&security=reality&sni=m.twitch.tv&flow=xtls-rprx-vision&pbk=h8KVknZp-sj5KXje7xSmHj9CpsKowu6cIIad1s-3Lwc#🇩🇪 Германия #1
+ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@57.131.28.246:2083#🇮🇹 Италия #1
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.250.91.253:443?fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&security=reality&sid=&sni=www.primevideo.com&type=tcp#🇲🇾 Малайзия #1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg00129437x.cybervena.com:50099#🇹🇼 Тайвань #1
+vless://a3a8c354-a85c-477b-90f3-dbe08cadf31c@216.167.28.246:22335?security=reality&sni=www.yahoo.com&fp=chrome&pbk=zPM3iLhD0ppwxYWzwiXFhQd1PwXCjFN9u28DbXdy604&sid=a2346cd0&type=tcp&flow=xtls-rprx-vision&encryption=none#🇺🇸 США #1
+vless://0e49e208-e09e-49bc-afee-2907e5419107@usa.ldtp.com:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=N--0r-eUKZ-23lmSHvsC4ywFbsAWRahFtxv_N02AgFY&security=reality&sid=df2becfa7b040c78&sni=usa.ldtp.com&type=tcp#🇺🇸 США #2
+vless://fdba43e2-9dc3-4c3e-a890-08ab21e60081@152.233.54.86:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.malina24.xyz&fp=firefox&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=abcd&type=tcp&headerType=none#🇫🇮 Финляндия #1
+vless://bf5cbf75-f53e-4a17-a2bb-6475d617acdf@66.245.218.196:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=gcabVMr3V238OcVjSRuq6GHBRP9gRN6xV4zspm5j73o&security=reality&sid=537093a794fbd4&sni=www.amazon.com&spx=%2FLi73Xp6ZZQzdksk&type=tcp#🇯🇵 Япония #1
