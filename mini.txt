@@ -5,26 +5,13 @@
 #announce: Спасибо вам за 7000 подписчиков ❤️ @halyava_vpnx
 
 vless://33de2596-d95d-412b-a8c2-410be7060ca3@201.51.5.207:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#🇧🇷 Бразилия #1
-vless://33de2596-d95d-412b-a8c2-410be7060ca3@201.51.6.30:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ai.sellflow.org&type=tcp#🇧🇷 Бразилия #2
-vless://33de2596-d95d-412b-a8c2-410be7060ca3@201.51.8.119:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ai.sellflow.org&type=tcp#🇧🇷 Бразилия #3
-vless://33de2596-d95d-412b-a8c2-410be7060ca3@201.51.6.30:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=fi.sellflow.org&type=tcp#🇧🇷 Бразилия #4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇪🇸 Испания #1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#🇪🇸 Испания #2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplT2l1enR0NzFtN3JBdkRIT0lXc1Zs@5.253.59.156:32140#🇳🇱 Нидерланды #1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#🇳🇱 Нидерланды #2
-vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@ams-01.gni-daed.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ams-01.gni-daed.ru&fp=chrome&pbk=L78hKnIWL5jdxw3R2NcY725t8QMqAfX8rGdYI46cFgs&sid=a8399289e18af5f4&type=tcp&headerType=none#🇳🇱 Нидерланды #3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@147.90.234.133:443#🇺🇸 США #1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#🇺🇸 США #2
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@104.167.198.198:443?flow=xtls-rprx-vision&fp=firefox&pbk=7kOgSBnHMeClMoLD0PdTQGflVNiYl47pT94TBsTXh1Y&security=reality&sid=8166&sni=www.nvidia.com&type=tcp#🇺🇸 США #3
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@149.28.142.169:443?security=tls&sni=tjsp.hhxaf.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=tjsp.hhxaf.cc.cd&path=%2F#🇸🇬 Сингапур #1
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@45.77.241.64:443?security=tls&sni=tjsp.hhxaf.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=tjsp.hhxaf.cc.cd&path=%2F#🇸🇬 Сингапур #2
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@146.235.16.191:443?security=tls&sni=tjsp.hhxaf.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=tjsp.hhxaf.cc.cd&path=%2F#🇸🇬 Сингапур #3
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0@167.150.100.115:27755#🇸🇬 Сингапур #4
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@161.118.213.45:443?security=tls&sni=hhcm.hhxaf.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=hhcm.hhxaf.cc.cd&path=%2F#🇸🇬 Сингапур #5
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@213.35.127.18:443?security=tls&sni=hhcm.hhxaf.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=hhcm.hhxaf.cc.cd&path=%2F#🇸🇬 Сингапур #6
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@134.185.93.231:443?security=tls&sni=tjsp.hhxaf.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=tjsp.hhxaf.cc.cd&path=%2F#🇸🇬 Сингапур #7
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@138.2.87.237:443?security=tls&sni=tjsp.hhxaf.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=tjsp.hhxaf.cc.cd&path=%2F#🇸🇬 Сингапур #8
-ss://YWVzLTEyOC1nY206MmJjNzdhM2EtMWE2YS00OWJkLTk4N2YtNTM2OGNjYTBmOTMw@96.9.211.183:8881#🇸🇬 Сингапур #9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMbDZjWWZYTTVEelFiZHRNTWI3MkFfanFWbk5salUzeXFl@149.104.109.74:21273#🇵🇭 Филиппины #1
-vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=firefox&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&sid=32a8bfa2939125&spx=%2F&type=tcp&headerType=none#🇿🇦 ЮАР #1
-trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.11:443?security=tls&amp;sni=103.125.216.11&amp;insecure=0&amp;allowInsecure=0&amp;type=tcp&amp;headerType=none#🇯🇵 Япония #1
+vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5&sni=storage.yandex.net#🇬🇧 Великобритания #1
+vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5&sni=storage.yandex.net#🇬🇧 Великобритания #2
+vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.194:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&sni=storage.yandex.net#🇭🇺 Венгрия #1
+vless://72362320-3c4c-42cf-b76c-82f7b1832c47@64.188.79.53:48161?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=firefox&pbk=cm3MNPIRmySoBcEgeH6QEuVyoPbBQyjRhs8UF_swl1E&sid=41388e02247a3902&type=tcp&headerType=none#🇩🇪 Германия #1
+vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@de-01.gni-daed.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de-01.gni-daed.ru&fp=firefox&pbk=L78hKnIWL5jdxw3R2NcY725t8QMqAfX8rGdYI46cFgs&sid=a8399289e18af5f4&type=tcp&headerType=none#🇩🇪 Германия #2
+trojan://114514@209.33.160.242:443?host=tjaaa.hhllfly.kdns.fr&path=%2F&security=tls&sni=tjaaa.hhllfly.kdns.fr&type=ws#🇭🇰 Гонконг #1
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@cdn.9889888.xyz:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tjsp.hhxaf.cc.cd&fp=chrome&sni=tjsp.hhxaf.cc.cd&path=%2F&encryption=none#🇺🇸 США #1
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@104.167.198.198:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=7kOgSBnHMeClMoLD0PdTQGflVNiYl47pT94TBsTXh1Y&security=reality&sid=8166&sni=www.nvidia.com&type=tcp#🇺🇸 США #2
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@104.167.198.198:443?type=tcp&security=reality&pbk=7kOgSBnHMeClMoLD0PdTQGflVNiYl47pT94TBsTXh1Y&fp=firefox&sni=www.nvidia.com&sid=8166&flow=xtls-rprx-vision#🇺🇸 США #3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVXl5ZFU3Q1ZraEQ1Qko0S2U2anlq@195.133.2.2:34898#🇫🇮 Финляндия #1
