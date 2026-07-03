@@ -4,18 +4,24 @@
 #profile-web-page-url: https://t.me/halyava_vpnx
 #announce: Спасибо вам за 7000 подписчиков ❤️ @halyava_vpnx
 
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@103.106.231.82:5600#🇦🇺 Австралия #1
+vless://9480871a-3843-441c-9b83-aa8c5c96b209@155.117.137.110:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=3c9c5d01c6f824dd&sni=cdn6-49.yahoo.com#🇬🇧 Великобритания #1
 vless://b250af86-7f78-4e69-9e99-1f1ddfe27ea0@89.34.90.179:443?type=tcp&security=reality&sni=max.ru&fp=firefox&flow=xtls-rprx-vision&pbk=Cve6RU_xmFPAsLiW2eIucli0lwEZyf7XFj6_rR8LukI&sid=671047edbaa38eef#🇮🇳 Индия #1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#🇪🇸 Испания #1
-vless://17930cee-cbea-484b-ad7f-7b8062825fee@117.55.202.15:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=max.ru&type=tcp#🇳🇱 Нидерланды #1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8080#🇳🇱 Нидерланды #2
-trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&headerType=none&type=tcp#🇵🇰 Пакистан #1
-trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#🇺🇸 США #1
-trojan://rYuChHcwQZskq9E0zdoR@ip4.vpean2.qzz.io:443?security=tls&sni=vpn5.rnmcnm.com&insecure=0&allowInsecure=0&type=ws&host=vpn5.rnmcnm.com&path=%2Fws-79dffb8106db#🇺🇸 США #2
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@space.byu.id.yxls.eu.cc:443?type=ws&headerType=none&security=tls&encryption=none&sni=space.byu.id.yxls.eu.cc&fp=chrome&path=%2Fau-do&insecure=0#🇺🇸 США #3
-vless://05a01432-0302-439f-a88d-8442cd27b7d5@gt-ch-01.live:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=445ab326fc7c90ac&sni=storage.yandex.net#🇨🇭 Швейцария #1
-trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443?type=tcp&headerType=none&security=tls&encryption=none&sni=38.60.220.65&insecure=0#🇰🇷 Южная Корея #1
-trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443?fp=chrome&security=tls#🇰🇷 Южная Корея #2
-trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.11:443?type=tcp&headerType=none&security=tls&encryption=none&insecure=0#🇯🇵 Япония #1
-trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0#🇯🇵 Япония #2
-trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇯🇵 Япония #3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@193.168.175.56:14605#🇮🇹 Италия #1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@103.241.66.76:14605#🇮🇹 Италия #2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@103.240.147.113:14605#🇮🇹 Италия #3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.180:8080#🇳🇱 Нидерланды #1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#🇳🇱 Нидерланды #2
+trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?type=tcp&headerType=none&security=tls&encryption=none&sni=38.60.202.163&insecure=0#🇦🇪 ОАЭ #1
+trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/%2Fassignment&host=www.calmlunch.com#🇺🇸 США #1
+trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&type=ws#🇺🇸 США #2
+trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#🇺🇸 США #3
+trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#🇺🇸 США #4
+trojan://humanity@chat.openai.com:443?encryption=none&security=tls&sni=www.calmlunch.com&alpn=h2&fp=chrome&type=ws&host=www.calmlunch.com&path=%2Fassignment#🇺🇸 США #5
+vless://1917fc5b-f461-4dcd-97e6-b2b1e88052c4@8.221.112.154:8433?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Ong0MfnCO7eWpuNUW2ZK2gZQyaiJiD70Vl7J_LoCWnE&security=reality&sid=eb86f55d8a679d17&sni=www.speedtest.net&type=tcp#🇺🇸 США #6
+trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.17.121.43:443?type=ws&headerType=none&security=tls&encryption=none&sni=space.byu.id.yxls.eu.cc&path=%2Fbr-orcl&host=space.byu.id.yxls.eu.cc&insecure=0#🇺🇸 США #7
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.229.69:9090#🇸🇬 Сингапур #1
+trojan://PI36027154@pumped-eft.rooster465.autos:443?security=tls#🇫🇷 Франция #1
+trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443?security=tls#🇰🇷 Южная Корея #1
+vless://05b232dc-185b-48ed-8813-8c96d9d5d7f0@31.76.91.139:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=acCL8V-6UTGRuUs7CVk33xV26ZUY6wRjStNy273DmUY&sid=aefe467c7b22f190&sni=api.ok.ru#🇯🇵 Япония #1
+trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.11:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇯🇵 Япония #2
+trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443?security=tls#🇯🇵 Япония #3
