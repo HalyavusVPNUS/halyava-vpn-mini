@@ -26,7 +26,7 @@ BANNED_COUNTRIES = ['RU', 'CN', 'KP', 'IR']
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 
 # =========================
-# СТРАНЫ (обрезано)
+# СТРАНЫ
 # =========================
 
 RU_COUNTRIES = {
@@ -323,9 +323,6 @@ def get_country_info(host):
 
 def is_valid_vless(main_part: str) -> bool:
     try:
-        if not main_part.startswith("vless://"):
-            return False
-
         parsed = urlparse(main_part)
         qs = parse_qs(parsed.query)
 
@@ -360,11 +357,15 @@ def process_key(key):
         main_part = key.split('#')[0]
 
         # =========================
-        # ЖЁСТКИЙ ФИЛЬТР VLESS
+        # ЖЁСТКИЙ ФИЛЬТР ТОЛЬКО VLESS
         # =========================
-        if main_part.startswith("vless://"):
-            if not is_valid_vless(main_part):
-                return None
+        # Если это не vless, сразу отбрасываем
+        if not main_part.startswith("vless://"):
+            return None
+            
+        # Проверяем на tls/reality и tcp
+        if not is_valid_vless(main_part):
+            return None
 
         host_match = re.search(r'@([^:/?#\s]+):?(\d+)?', main_part)
         if not host_match:
@@ -442,8 +443,9 @@ def run_once():
         try:
             r = requests.get(src, headers=HEADERS, timeout=15)
 
+            # Изменённая регулярка: ищем только vless://
             found = re.findall(
-                r'(?:vless|vmess|trojan|ss|hysteria2?)://[^\s]+',
+                r'vless://[^\s]+',
                 r.text
             )
 
@@ -477,7 +479,7 @@ def run_once():
         "#profile-update-interval: 12\n"
         "#subscription-userinfo: expire=5774966400; total=10995116277760; used=0\n"
         "#profile-web-page-url: https://t.me/halyava_vpnx\n"
-        "#announce: Спасибо вам за 7000 подписчиков ❤️ @halyava_vpnx\n\n"
+        "#announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnx\n\n"
     )
 
     update_repo(header + "\n".join(final))
