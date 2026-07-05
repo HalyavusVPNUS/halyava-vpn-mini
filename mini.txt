@@ -4,11 +4,16 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://10e1b54e-9bd1-0001-b337-3e464f8051ec@pro-de.emrata.top:443?encryption=none&security=reality&sni=pro-de.emrata.top&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&type=tcp&headerType=none#🇩🇪 Германия #1
+vless://4af89b09-ce0c-4dab-b798-629d8b900af0@45.195.111.77:443?flow=xtls-rprx-vision&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=f4b4a6365558ea2e&sni=storage.yandex.net&type=tcp#🇭🇺 Венгрия #1
+vless://4af89b09-ce0c-4dab-b798-629d8b900af0@dp-hu-01.live:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e&type=tcp&headerType=none#🇭🇺 Венгрия #2
+vless://ed838389-e7e0-0001-8a1b-040f06d0ba88@pro-de.emrata.top:443?encryption=none&security=reality&sni=pro-de.emrata.top&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&type=tcp&headerType=none#🇩🇪 Германия #1
 vless://10e1b54e-9bd1-0001-b337-3e464f8051ec@pro-de.emrata.top:443?encryption=none&security=reality&sni=pro-de.emrata.top&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&type=tcp&headerType=none#🇩🇪 Германия #2
-vless://10e1b54e-9bd1-0001-b337-3e464f8051ec@pro-de.emrata.top:443?encryption=none&security=reality&sni=pro-de.emrata.top&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&type=tcp&headerType=none#🇩🇪 Германия #3
-vless://10e1b54e-9bd1-0001-b337-3e464f8051ec@pro-de.emrata.top:443?encryption=none&security=reality&sni=pro-de.emrata.top&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&type=tcp&headerType=none#🇩🇪 Германия #4
-vless://17930cee-cbea-484b-ad7f-7b8062825fee@45.145.56.169:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.vk.com&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#🇩🇪 Германия #5
-vless://67baa13e-d41b-4acf-ad0f-4ad35a136f85@knigi.riseads.in:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=knigi.riseads.in&fp=qq&pbk=jXft6ZrvH9A-7NbXJVwinQtS7NOg4F1NBbidnSNblHw&sid=7c57276b676c9118&type=tcp&headerType=none#🇰🇿 Казахстан #1
-vless://dc161560-ff30-4551-9ba5-2bb106caf488@152.53.241.202:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.googletagmanager.com&fp=chrome&pbk=mvDX-IOD7VMEgIzF8MPelU5cM9PpUS1eKRQIOb8fqhE&sid=2fbb373cf0a65971&type=tcp#🇺🇸 США #1
-vless://05a01432-0302-439f-a88d-8442cd27b7d5@gt-ch-01.live:8443?type=tcp&security=reality&fp=firefox&sni=storage.yandex.net&flow=xtls-rprx-vision&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=445ab326fc7c90ac#🇨🇭 Швейцария #1
+vless://eece4171-e025-40a3-9027-e395036ff99d@dp-es-01.live:443?type=tcp&security=reality&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c#🇪🇸 Испания #1
+vless://eece4171-e025-40a3-9027-e395036ff99d@dp-es-01.live:443?type=tcp&security=reality&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c#🇪🇸 Испания #2
+vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.11:443?_t=8653ef37&flow=xtls-rprx-vision&fp=firefox&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=28047c78b3f5ee2c&sni=storage.yandex.net&type=tcp#🇪🇸 Испания #3
+vless://e08e7045-abd0-47aa-aa52-2820c4b869be@149.33.0.214:14302?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=www.samsung.com&fp=firefox&pbk=lw7-Msn5E2O6HbBdqMw9SvoDJgbDIvHss0UVQ9iZFRc&sid=106f1604d65bb70c#🇰🇿 Казахстан #1
+vless://83c7f81b-4f26-405d-9a55-4e164249cbdd@45.144.49.231:443?flow=xtls-rprx-vision&fp=firefox&pbk=tPkLNwERe23qHETdRm0NN6TSF-bwvUeWKnmXR8CK3nc&security=reality&sid=58d746158028c90d&sni=pl.chick-team.ru&type=tcp#🇵🇱 Польша #1
+vless://a2415a12-3f92-4636-9823-9828d3ceb818@45.144.50.249:443?fp=firefox&pbk=hgQ3Wa09f9ectEos7QyC1LQ8bBq8lEAcAtGIDFTKin0&security=reality&sid=c0&sni=www.intel.com&type=tcp#🇵🇱 Польша #2
+vless://eb295947-24de-4fe3-9b8f-85431e5fe493@vpn-sg.spend.tg:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=apple.com&fp=qq&pbk=kt-wshmPVd-J1dlU-tsXUoGag2-oFwYQ5UafScaAfzQ&allowinsecure=0&type=tcp&headerType=none#🇸🇬 Сингапур #1
+vless://66b63d3a-54ac-41f1-91f7-e74b171f3029@fr1.waspnest.space:443?type=tcp&headerType=none&security=reality&encryption=none&sni=fr1.waspnest.space&fp=qq&pbk=TeIrR5shMsMAwIU0UgcnvokkgE97_38kJrNNVXGmEDg&sid=341ad73bbc77993c&flow=xtls-rprx-vision#🇫🇷 Франция #1
+vless://3f298aca-2412-49ac-9f20-235f0e448d31@45.13.119.246:7000?fp=firefox&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&security=reality&sni=yahoo.com&type=tcp#🇫🇷 Франция #2
