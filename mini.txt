@@ -4,3 +4,12 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
+vless://4af89b09-ce0c-4dab-b798-629d8b900af0@45.195.111.177:443?flow=xtls-rprx-vision&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=f4b4a6365558ea2e&sni=storage.yandex.net&type=tcp#🇭🇺 Венгрия #1
+vless://4af89b09-ce0c-4dab-b798-629d8b900af0@45.195.111.225:443?flow=xtls-rprx-vision&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=f4b4a6365558ea2e&sni=storage.yandex.net&type=tcp#🇭🇺 Венгрия #2
+vless://4af89b09-ce0c-4dab-b798-629d8b900af0@45.195.111.56:443?type=tcp&security=reality&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e#🇭🇺 Венгрия #3
+vless://4af89b09-ce0c-4dab-b798-629d8b900af0@45.195.111.98:443?flow=xtls-rprx-vision&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=f4b4a6365558ea2e&sni=storage.yandex.net&type=tcp#🇭🇺 Венгрия #4
+vless://4af89b09-ce0c-4dab-b798-629d8b900af0@45.195.111.31:443?type=tcp&security=reality&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e#🇭🇺 Венгрия #5
+vless://4af89b09-ce0c-4dab-b798-629d8b900af0@45.195.111.5:443?type=tcp&security=reality&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e#🇭🇺 Венгрия #6
+vless://f1a489f8-872f-404e-804a-c3b9e4048fd2@2.27.57.185:41586?type=tcp&headerType=none&security=reality&encryption=none&sni=www.googletagmanager.com&fp=chrome&pbk=KyTuOJPRM2uub_q-NmSOR3alV6SrQrL6-iTLjdSS8jc&sid=1e610a545a7bfb90&flow=xtls-rprx-vision#🇵🇱 Польша #1
+vless://e21d22e8-6630-4bc9-8b69-3cc08681d9aa@dp-pl-01.live:443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&sid=50e09046c0c00159&flow=xtls-rprx-vision#🇵🇱 Польша #2
+vless://8e729c48-a2fa-4446-bdec-47d4aeae61fe@gt-fr-01.live:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.net&fp=firefox&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=364994a6f61fc955&type=tcp&headerType=none#🇫🇷 Франция #1
