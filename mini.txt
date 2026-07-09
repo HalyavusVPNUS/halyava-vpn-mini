@@ -4,5 +4,6 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://467f4f5e-adb3-4724-ad0d-245bbc296789@149.33.0.214:14302?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=www.samsung.com&fp=firefox&pbk=lw7-Msn5E2O6HbBdqMw9SvoDJgbDIvHss0UVQ9iZFRc&sid=106f1604d65bb70c#🇰🇿 Казахстан #1
-vless://cb784d00-d34a-4389-b938-8717f7b28353@2.26.254.83:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AnxTrBjoS2NYl9efpns6l_e4JrN7jws-KnXcu6DCDCc&sid=42f27f4d688d79d4&sni=www.twitch.tv#🇳🇱 Нидерланды #1
+vless://cf0c0f54-6ac2-4bec-8ef6-436ef83e2eae@45.192.2.173:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=ece180c605b5453c&sni=yandex.net#🇭🇰 Гонконг #1
+vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&sid=fa#🇰🇿 Казахстан #1
+vless://cb784d00-d34a-4389-b938-8717f7b28353@31.76.94.215:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.twitch.tv&fp=firefox&pbk=8eDDm9CwDRc-WFaIjHxHTyO0y7WuWLghrN8w8B1w_Vo&sid=e3a7014f75f71139&flow=xtls-rprx-vision#🇵🇱 Польша #1
