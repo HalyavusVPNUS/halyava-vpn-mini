@@ -4,5 +4,11 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://cb784d00-d34a-4389-b938-8717f7b28353@31.76.251.3:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=iGgm7VMLJvgZgGcU5HrgQnXxx8ZvMpVfu2iVJsi8U28&sid=70e24f75fa26f6c7&sni=www.twitch.tv#🇵🇱 Польша #1
+vless://838de912-398a-4c0e-9228-0fd44b0d1f8b@evolus.oblakoapp.com:443?security=reality&encryption=none&pbk=KP-P4zenuMuYe3UxPCjDEVmgqI4GiRZ95UbsAfmL71g&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=travel.yandex.ru&sid=970098f31b96a3e8#🇩🇪 Германия #1
+vless://838de912-398a-4c0e-9228-0fd44b0d1f8b@evolus.oblakoapp.com:443?security=reality&encryption=none&pbk=KP-P4zenuMuYe3UxPCjDEVmgqI4GiRZ95UbsAfmL71g&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=travel.yandex.ru&sid=970098f31b96a3e8#🇩🇪 Германия #2
+vless://ab73218d-9f81-47f7-a3cc-a56b8a1acadf@43.161.220.242:443?fp=firefox&pbk=EyizAEdItn0J0TDYHu7IyeiPY4rOPxG16W7MLUE8UCQ&security=reality&sid=48&sni=www.nvidia.com&type=tcp#🇭🇰 Гонконг #1
+vless://cb784d00-d34a-4389-b938-8717f7b28353@31.76.251.3:443?security=reality&encryption=none&pbk=iGgm7VMLJvgZgGcU5HrgQnXxx8ZvMpVfu2iVJsi8U28&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.twitch.tv&sid=70e24f75fa26f6c7#🇵🇱 Польша #1
 vless://d51ed55c-d6dd-400b-aaf6-017c33969bfe@47.89.186.170:55861?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=t2ndf6SeVxinFCo5bcemnW_ZZhAtmHWiAkllks5qPWs&sid=7551ed1b&sni=www.intel.com#🇺🇸 США #1
+vless://d51ed55c-d6dd-400b-aaf6-017c33969bfe@47.89.186.170:55861?flow=xtls-rprx-vision&fp=firefox&pbk=t2ndf6SeVxinFCo5bcemnW_ZZhAtmHWiAkllks5qPWs&security=reality&sid=7551ed1b&sni=www.intel.com&type=tcp#🇺🇸 США #2
+vless://4f166057-2f4c-0002-b5b3-6eb4413022e1@192.142.23.99:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=md-editor.xyz&sid=1c3e8241a8743df9#🇸🇦 Саудовская Аравия #1
+vless://332efa3f-0659-4d05-a1da-0ac9bb452e73@sw.serverkingomz.ir:8085?sni=www.yahoo.com&sid=55711aa52f91fefc&pbk=6mKB5FSyERnA5b5bO_N-4WfRGehbsMe-SJk9l8OzC08&fp=chrome&type=tcp&headerType=none&encryption=none&security=reality#🇸🇪 Швеция #1
