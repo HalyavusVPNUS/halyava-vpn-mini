@@ -4,4 +4,4 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.76.31.111:443?security=reality&encryption=none&echfq=none&pbk=i7TJrecOjgg834POVC0diCVVWIXKpdtQ7vg6feCDNwA&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=iris-07.rita-cloud.com&sid=c389a4cf903c7ca3#🇫🇮 Финляндия #1
+vless://02e6cc73-5657-498e-a936-4ef5b1d68eaa@ge-6.flowersyellow.ru:443?security=reality&encryption=none&pbk=SAw2LG0CxynFfpOpX9-5PZOxlz7eQloRLSnbQh9pRUs&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#🇩🇪 Германия #1
