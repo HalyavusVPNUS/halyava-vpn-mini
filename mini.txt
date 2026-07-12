@@ -4,6 +4,5 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@185.85.242.156:443?security=tls&type=tcp&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1&sni=u695099u474eb3f0s642.csgfw.top&fp=firefox&flow=xtls-rprx-vision&encryption=none#🇬🇧 Великобритания #1
-vless://02e6cc73-5657-498e-a936-4ef5b1d68eaa@ge-6.flowersyellow.ru:443?security=reality&encryption=none&pbk=SAw2LG0CxynFfpOpX9-5PZOxlz7eQloRLSnbQh9pRUs&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#🇩🇪 Германия #1
-vless://cb784d00-d34a-4389-b938-8717f7b28353@81.90.17.165:443?security=reality&encryption=none&pbk=6yDF1t-fOKStJLYOZArGjW2MqGsglkpaGIC_fuj79S0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.twitch.tv&sid=3cfee58cb8a3afb3#🇵🇱 Польша #1
+vless://bf49e769-bcd8-4565-bd60-bb52ec4fffc6@84.32.209.210:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&security=reality&sid=6ba85179e30d4fc2&sni=statusdetector404.ru&type=tcp#🇱🇹 Литва #1
+vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@87.76.160.67:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&security=reality&sid=7a3f9e2b1c8d4f6a&sni=my.cdn-global.pro&type=tcp#🇲🇾 Малайзия #1
