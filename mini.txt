@@ -4,6 +4,9 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://360c46b7-afe1-4e86-bfe1-ba09b5fcd8a6@45.198.87.31:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=chrome&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#🇭🇺 Венгрия #1
-vless://57f05fdc-8615-4082-9fc5-7f759bbd51d0@netherlands1.banovano.space:24382?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yandex.ru&fp=chrome&pbk=Slau4DRZkIFgAeKGsPz5MWOp5xB1ecTNzLtbCBUGeQM&sid=8059df&spx=%2F&type=tcp&headerType=none#🇳🇱 Нидерланды #1
-vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&security=reality&sid=32a8bfa2939125&sni=www.icloud.com&spx=/&type=tcp#🇿🇦 ЮАР #1
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@31.25.11.130:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qm-zp2dNT8dDO9KWbfQrxN3IKT0JlNZkWT53aaCKfxM&security=reality&sid=4a&sni=zaplio-gook.ru&type=tcp#🇩🇪 Германия #1
+vless://b833d90a-e73a-453e-9d4f-28189c39e3d5@netherlands1.banovano.space:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&fp=&pbk=yBOhM43hsg1qosfN28aq_N09y8qsX4hR0Cyq_PwROCM&security=reality&sid=4060e9670be0&sni=www.icloud.com&type=tcp#🇳🇱 Нидерланды #1
+vless://32c9d8fd-8ef1-4d47-93a3-4f7a2c7ada01@netherlands1.banovano.space:30548?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=edge&pbk=uR9LN49jpOfUDFfcKOPVgSMlKK68hgm_HYMXHzbkyRE&sid=b7f169ff615f569e&spx=%2F&type=tcp&headerType=none#🇳🇱 Нидерланды #2
+vless://cb784d00-d34a-4389-b938-8717f7b28353@81.90.17.165:443?security=reality&encryption=none&pbk=6yDF1t-fOKStJLYOZArGjW2MqGsglkpaGIC_fuj79S0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.twitch.tv&sid=3cfee58cb8a3afb3#🇵🇱 Польша #1
+vless://cb784d00-d34a-4389-b938-8717f7b28353@31.76.251.3:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.twitch.tv&fp=chrome&security=reality&pbk=iGgm7VMLJvgZgGcU5HrgQnXxx8ZvMpVfu2iVJsi8U28&sid=70e24f75fa26f6c7#🇵🇱 Польша #2
+vless://cb784d00-d34a-4389-b938-8717f7b28353@81.90.17.165:443?security=reality&headerType=none&sni=www.twitch.tv&pbk=6yDF1t-fOKStJLYOZArGjW2MqGsglkpaGIC_fuj79S0&encryption=none&fp=firefox&sid=3cfee58cb8a3afb3&type=tcp&flow=xtls-rprx-vision&freeinternet=kizyak_vpn178392238517#🇵🇱 Польша #3
