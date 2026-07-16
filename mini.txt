@@ -4,6 +4,9 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://04c75bdf-461f-417e-8bcd-b3bf89a8524a@31.76.113.178:445?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=4qI0xhPUwTmO7yMwDlgf2eI-fFP9C9i0iu2d8WHoDTw&security=reality&sid=c226283c4de5b1ad&sni=ads.x5.ru&type=tcp#🇮🇹 Италия #1
-vless://4889ee33-74e5-4819-86d8-b2a1a5bc8f46@34.213.172.16:22189?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5tUZskKOCKpjz3j7hmuYaQHNfE1QRtZI9P62qvSs1GY&security=reality&sid=47b6d14ff477fe59&sni=www.tesla.com&spx=/&type=tcp#🇺🇸 США #1
-vless://795d5f5b-318c-49a6-844f-ee2ab63bbe94@35.180.187.82:12228?flow=xtls-rprx-vision&fp=chrome&pbk=hvyaRhFtrj3cGv1Ya5uXpE256i2PoUi2fOgU0KlvKmI&security=reality&sid=59625eb3275249ca&sni=www.tesla.com&type=tcp#🇫🇷 Франция #1
+vless://9c64064c-aaaf-449f-9344-77632fc9ff1c@38.207.177.236:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.cloudflare.com&fp=firefox&pbk=maES4RMEtsm5emBCixDRa6Y5GvmVwmwZNBL2G4Q03D4&sid=47de54e71fee3451&flow=xtls-rprx-vision#🇭🇰 Гонконг #1
+vless://9c64064c-aaaf-449f-9344-77632fc9ff1c@38.207.177.236:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=maES4RMEtsm5emBCixDRa6Y5GvmVwmwZNBL2G4Q03D4&security=reality&sid=47de54e71fee3451&sni=www.cloudflare.com&type=tcp#🇭🇰 Гонконг #2
+vless://04c75bdf-461f-417e-8bcd-b3bf89a8524a@31.76.113.178:445?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&sni=ads.x5.ru&pbk=4qI0xhPUwTmO7yMwDlgf2eI-fFP9C9i0iu2d8WHoDTw&sid=c226283c4de5b1ad&fp=firefox#🇮🇹 Италия #1
+vless://4889ee33-74e5-4819-86d8-b2a1a5bc8f46@34.213.172.16:22189?type=tcp&headerType=none&security=reality&encryption=none&sni=www.tesla.com&fp=chrome&pbk=5tUZskKOCKpjz3j7hmuYaQHNfE1QRtZI9P62qvSs1GY&sid=47b6d14ff477fe59&spx=/&flow=xtls-rprx-vision#🇺🇸 США #1
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.228:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&security=reality&sid=c6ef72e4635d15a5&sni=storage.yandex.net&type=tcp#🇹🇷 Турция #1
+vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822?sid=32a8bfa2939125&headerType=none&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&spx=%2F&sni=www.icloud.com&security=reality&flow=xtls-rprx-vision&encryption=none&fp=firefox&type=tcp&freeinternet=kizyak_vpn1784159716105#🇿🇦 ЮАР #1
