@@ -4,9 +4,5 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@185.121.132.162:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qm-zp2dNT8dDO9KWbfQrxN3IKT0JlNZkWT53aaCKfxM&security=reality&sid=d9662905&sni=zaplio-gook.ru&type=tcp#🇩🇪 Германия #1
-vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@89.105.204.107:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl.quattro-tech.ru&fp=firefox&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&spx=%2F&type=tcp&headerType=none#🇳🇱 Нидерланды #1
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@117.55.202.176:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=4ew328q3df43we11-topology-gslb-yccdn.ru&fp=firefox&pbk=zFLwkbK3WLlo4hRToZjwkauD4qCLdzkUgG0GisVL-nk&sid=5e3ab3ab228625&spx=%2F&type=tcp&headerType=none#🇳🇱 Нидерланды #2
-vless://92ed2a4f-5219-444f-8b0b-a5d07a7e3ed2@94.183.221.233:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&security=reality&sid=d82c4b67f9a13e5c&sni=api-maps.yandex.ru&type=tcp#🇳🇱 Нидерланды #3
-vless://aeb9e730-5f9e-404d-a8af-9e2e68dc7f5d@fin1.panel11.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=fin1.panel11.ru&fp=firefox&pbk=lQ8pnlOU0kqS77TA7Fftl8nSzktXLzFpOLGqCZEAhjg&sid=aaec521b22bbe6cb&flow=xtls-rprx-vision#🇫🇮 Финляндия #1
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&spx=%2F&type=tcp&headerType=none#🇰🇷 Южная Корея #1
+vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@isp04.myxasecure.space:443?pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&flow=xtls-rprx-vision&encryption=none&headerType=none&sid=d67ec5a8fc40ebea&type=tcp&security=reality&sni=isp04.myxasecure.space&fp=qq&burmalda=3bb88e2a#🇪🇸 Испания #1
+vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&fp=chrome&security=reality&sni=www.paypal.com&type=tcp&flow=xtls-rprx-vision&seq=you_are_beautiful3629#🇺🇸 США #1
