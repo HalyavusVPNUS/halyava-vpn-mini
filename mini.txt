@@ -4,4 +4,6 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://5b38fd24-4d47-4ee2-a077-7d125e723230@hus-la.white-aist.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=firefox&pbk=T3x4G7qo9E25RaeXGVpZCbRpKYmzVVA4ewtJ5xkyq3I&sid=a1b2c3d4e5f6&type=tcp&headerType=none#🇱🇻 Латвия #1
+vless://11e57eeb-ffdf-4983-a9fa-ad352dea7253@154.193.55.183:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&security=reality&sid=dbbe8dca27a92c35&sni=storage.yandex.net&type=tcp#🇺🇸 США #1
+vless://89281585-8bde-4ef2-8807-96c603281ef8@free.ch1.laodavip.com:443?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=QZDU9ZZt6HEIijqRyeyebLxt11S692nSBIDNCKLBM3k&sid=f5420efbe305d354&sni=free.ch1.laodavip.com&servername=free.ch1.laodavip.com&spx=%2F&fp=chrome#🇨🇭 Швейцария #1
+vless://69f56e4d-6403-48c4-876d-16a5819c3672@free.ch1.laodavip.com:443?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=QZDU9ZZt6HEIijqRyeyebLxt11S692nSBIDNCKLBM3k&sid=f5420efbe305d354&sni=free.ch1.laodavip.com&servername=free.ch1.laodavip.com&spx=%2F&fp=chrome#🇨🇭 Швейцария #2
