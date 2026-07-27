@@ -4,5 +4,10 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.95:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&sni=storage.yandex.net#🇹🇷 Турция #1
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.230:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&sni=storage.yandex.net#🇹🇷 Турция #2
+vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@185.159.73.247:443?type=tcp&headerType=none&security=reality&encryption=none&sni=asia.cendora.ru&fp=qq&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077&flow=xtls-rprx-vision#🇮🇱 Израиль #1
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.23.143.23:34045?encryption=none&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&security=reality&sid=e8ab71d0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&type=tcp#🇺🇸 США #1
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.55:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&sni=storage.yandex.net#🇹🇷 Турция #1
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.95:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&sni=storage.yandex.net#🇹🇷 Турция #2
+vless://f165affe-ffb4-4f13-a081-f14434e51152@fin1.panel11.ru:443?type=tcp&security=reality&sni=fin1.panel11.ru&pbk=lQ8pnlOU0kqS77TA7Fftl8nSzktXLzFpOLGqCZEAhjg&sid=aaec521b22bbe6cb&fp=firefox&encryption=none&flow=xtls-rprx-vision#🇫🇮 Финляндия #1
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@swe06.myxasecure.space:443?type=tcp&security=reality&sni=swe06.myxasecure.space&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea&fp=firefox&encryption=none&flow=xtls-rprx-vision#🇸🇪 Швеция #1
+vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@132.145.89.30:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=firefox&sni=ako.pagate.top#🇰🇷 Южная Корея #1
