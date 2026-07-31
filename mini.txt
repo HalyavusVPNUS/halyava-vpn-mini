@@ -4,5 +4,6 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://831f56ff-d117-4a72-bb2b-a5e44eab6fbf@pro-ru-bridge.emrata.top:443?type=tcp&security=reality&pbk=F8tqvcuJUSVbxv_i9ZsVOef3EPwULzzDqgvmj3vWNlA&fp=firefox&sni=pro-ru-bridge.emrata.top&flow=xtls-rprx-vision#🇧🇷 Бразилия #1
-vless://831f56ff-d117-4a72-bb2b-a5e44eab6fbf@pro-ru-bridge.emrata.top:443?type=tcp&security=reality&pbk=F8tqvcuJUSVbxv_i9ZsVOef3EPwULzzDqgvmj3vWNlA&fp=firefox&sni=pro-ru-bridge.emrata.top&flow=xtls-rprx-vision#🇧🇷 Бразилия #2
+vless://bf645ffe-a3cc-4480-8e4c-9bcd1af41052@170.101.109.37:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=rTnh7Y8RsSA5HSvFf-pWT49x8va6U6XHMRgNiMuwB0A&sid=ab88d256&type=tcp&headerType=none#🇩🇪 Германия #1
+vless://3ad1d277-5715-4ca1-84db-5baea72f822d@lv-ddc.astralweb.tech:443?type=tcp&headerType=none&security=tls&encryption=none&sni=lv-ddc.astralweb.tech&fp=firefox&alpn=h2&insecure=0#🇱🇻 Латвия #1
+vless://0370b162-baff-4757-86cc-cce4bf07f6f1@52.43.158.158:443?security=reality&encryption=none&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&headerType=none&fp=random&spx=%2Ffdded5f9698d939&type=tcp&sni=www.cloudflare.com&sid=cfe08c23a85f24#🇺🇸 США #1
