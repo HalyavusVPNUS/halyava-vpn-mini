@@ -4,6 +4,5 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://bf645ffe-a3cc-4480-8e4c-9bcd1af41052@170.101.109.37:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=rTnh7Y8RsSA5HSvFf-pWT49x8va6U6XHMRgNiMuwB0A&sid=ab88d256&type=tcp&headerType=none#🇩🇪 Германия #1
-vless://3ad1d277-5715-4ca1-84db-5baea72f822d@lv-ddc.astralweb.tech:443?type=tcp&headerType=none&security=tls&encryption=none&sni=lv-ddc.astralweb.tech&fp=firefox&alpn=h2&insecure=0#🇱🇻 Латвия #1
-vless://0370b162-baff-4757-86cc-cce4bf07f6f1@52.43.158.158:443?security=reality&encryption=none&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&headerType=none&fp=random&spx=%2Ffdded5f9698d939&type=tcp&sni=www.cloudflare.com&sid=cfe08c23a85f24#🇺🇸 США #1
+vless://8a02c9f7-936a-4d78-a88f-c1e9229f4d5d@31.58.50.200:8443?type=tcp&security=reality&sni=tradingview.com&fp=firefox&pbk=mr5AF0LFyDzYDRoYAwH6QNcHXL77-LoiwRx50ZzU8QU&flow=xtls-rprx-vision#🇺🇸 США #1
+vless://70f8d74a-7938-4f21-9293-2c437a939247@198.23.238.35:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=M4KRLRGcJGhJScjCv3JinHE0Da9s79Ku7GlVFSNsTVY&security=reality&sid=a61500e1&sni=www.cloudflare.com&type=tcp#🇺🇸 США #2
