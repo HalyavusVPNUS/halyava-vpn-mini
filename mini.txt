@@ -4,6 +4,6 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://0370b162-baff-4757-86cc-cce4bf07f6f1@52.43.158.158:443?security=reality&encryption=none&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&headerType=none&fp=chrome&spx=/fdded5f9698d939&type=tcp&sni=www.cloudflare.com&sid=cfe08c23a85f24#🇺🇸 США #1
-vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@t18.qifei.app:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&alpn=http%2F1.1&fp=chrome&security=reality&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&sid=1a#🇺🇸 США #2
-vless://8a02c9f7-936a-4d78-a88f-c1e9229f4d5d@31.58.50.200:8443?type=tcp&security=reality&sni=tradingview.com&fp=firefox&pbk=mr5AF0LFyDzYDRoYAwH6QNcHXL77-LoiwRx50ZzU8QU&flow=xtls-rprx-vision#🇺🇸 США #3
+vless://5c192fd7-ef98-4112-a20c-129108fcd7e9@217.60.193.1:443?encryption=none&security=tls&sni=ddc-akn.astralweb.tech&fp=firefox&alpn=h2&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇦🇪 ОАЭ #1
+vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@66.175.217.170:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&sid=1a&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo#🇺🇸 США #1
+vless://444f3779-cc79-4289-b22b-f75bc84be25e@d7e209882c98f0ecd7e209882c98f0ec.ssdhdd.org:443?security=reality&encryption=none&pbk=pvY1bX3eh_RHA2foDr82nB-0UgXu1uO7xjtYKRSFuCs&headerType=&fp=chrome&type=tcp&sni=tasnimnews.ir&sid=3b225391611b29e5#🇹🇷 Турция #1
