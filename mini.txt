@@ -4,8 +4,20 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://c46e2605-be24-4555-b7db-0fc6773ad004@185.126.67.62:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bznxDyVAgreLsIqhgTJpay4Lqhmjf03LHe8npFjn6TE&sni=yandex.tr#🇩🇪 Германия #1
-vless://04b9e828-43ed-4faf-8952-41069ec08355@217.60.193.1:443?encryption=none&security=tls&sni=ddc-akn.astralweb.tech&fp=firefox&alpn=h2&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇦🇪 ОАЭ #1
-vless://04b9e828-43ed-4faf-8952-41069ec08355@217.60.193.1:443?type=tcp&security=tls&encryption=none&fp=firefox&sni=ddc-akn.astralweb.tech#🇦🇪 ОАЭ #2
-vless://5c192fd7-ef98-4112-a20c-129108fcd7e9@217.60.193.1:443?encryption=none&security=tls&sni=ddc-akn.astralweb.tech&fp=firefox&alpn=h2&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇦🇪 ОАЭ #3
-vless://0370b162-baff-4757-86cc-cce4bf07f6f1@52.43.158.158:443?security=reality&encryption=none&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&headerType=none&fp=random&spx=%2Ffdded5f9698d939&type=tcp&sni=www.cloudflare.com&sid=cfe08c23a85f24#🇺🇸 США #1
+vless://b6f3b292-00c9-430e-bc4c-b1294bd895c0@85.155.228.162:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PCF6GYA_TCdb28mM6zsxJ38MAtmnSrJJEygkXvrt1AE&sid=b512d49930874a31&sni=cdn-al.ai-apiroute.cc#🇦🇱 Албания #1
+vless://6a248b82-ad33-4a8f-8ef7-cdd0ac26c261@185.126.67.41:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TjxmFHJN-olJvkXLicHGzNIMxJyucaA_ht3w3J-YcHM&sni=de.boxypn.com#🇩🇪 Германия #1
+vless://90c9c25c-df6c-4438-83d3-ef97166a9184@72.56.69.193:443?security=reality&encryption=none&pbk=yP1V_oAX1Sehc_102nMHuQgTOYk7T9KbJQmTlK4maVE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=5485e4d782145257#🇳🇱 Нидерланды #1
+vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@94.249.225.41:443?type=tcp&security=reality&sni=grand-lynx.cdn.cachefleet.com&pbk=X6zcH8pCUXrauNQvbNkm8e_oTdB0wOr8eCMCzs3b1Tc&fp=random&encryption=none&flow=xtls-rprx-vision#🇳🇱 Нидерланды #2
+vless://0047a8bc-0025-4d45-899b-c75c669f3ede@154.83.159.163:8443?type=tcp&security=reality&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&sid=6f15101ff2cc4887#🇳🇱 Нидерланды #3
+vless://536c58c0-a41d-4381-bb80-0db76a4d6204@154.83.246.41:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&sid=d3ee47fc2f553c44&sni=storage.yandex.net#🇳🇱 Нидерланды #4
+vless://90c9c25c-df6c-4438-83d3-ef97166a9184@72.56.69.193:443?type=tcp&security=reality&sni=sun6-22.userapi.com&fp=chrome&flow=xtls-rprx-vision&pbk=yP1V_oAX1Sehc_102nMHuQgTOYk7T9KbJQmTlK4maVE&sid=5485e4d782145257#🇳🇱 Нидерланды #5
+vless://4550993c-2191-493a-a612-aaba4a4ec083@89.105.202.117:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&sni=g2.steptofsvo.com#🇳🇱 Нидерланды #6
+vless://0047a8bc-0025-4d45-899b-c75c669f3ede@154.83.159.14:8443?type=tcp&security=reality&sni=storage.yandex.net&flow=xtls-rprx-vision&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&sid=6f15101ff2cc4887#🇳🇱 Нидерланды #7
+vless://b12eebc2-369c-4f3c-96a0-a8bd150ca8d5@193.233.126.104:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Lxs8Ruv2zHH0XW5EiQmuCaScfkGPCxWjW02YDWH8pyU&sid=eb0cca7312345678&sni=00.img.avito.st#🇳🇱 Нидерланды #8
+vless://8619e4c1-0984-4dce-83e3-419e2d7f5079@185.112.59.159:443?type=tcp&security=reality&sni=max.ru&flow=xtls-rprx-vision&pbk=IzCxPP6AbT5ncuSfj17EsHCyjnirVQ_LN62uIiQeQVA&sid=111111#🇳🇱 Нидерланды #9
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&sni=fuck.rkn#🇳🇱 Нидерланды #10
+vless://0047a8bc-0025-4d45-899b-c75c669f3ede@154.83.159.177:8443?type=tcp&security=reality&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&sid=6f15101ff2cc4887#🇳🇱 Нидерланды #11
+vless://6a248b82-ad33-4a8f-8ef7-cdd0ac26c261@144.31.91.102:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=9TVBSrIwHDFDjmejiKSNYHxHg6Nc0HEJGOiKLv8od1k&sni=nl.boxypn.com#🇳🇱 Нидерланды #12
+vless://be4494a3-9544-4eb6-b166-5a733706d505@89.105.210.102:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&sni=ru-1.videoproeditor.com#🇳🇱 Нидерланды #13
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.34:23576?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&sni=fuck.rkn#🇳🇱 Нидерланды #14
+vless://ebb0d1ff-eb70-4342-a37c-1f2f500173bf@196.196.35.26:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=CuLjZaOWwaC_didE-f8CZoUK0mGH75iq-0u1St_wjUU&security=reality&sid=67f8515f3fa23d2f&sni=fr.fasti.win&type=tcp#🇫🇷 Франция #1
