@@ -4,8 +4,7 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://c46e2605-be24-4555-b7db-0fc6773ad004@ger06.routexvpn.space:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=yandex.tr&fp=firefox&pbk=bznxDyVAgreLsIqhgTJpay4Lqhmjf03LHe8npFjn6TE#🇩🇪 Германия #1
-vless://fdac0300-5963-0032-adb6-fc89a2de99a2@2.26.78.131:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=pro-de.emrata.top#🇩🇪 Германия #2
-vless://fdac0300-5963-4e68-adb6-fc89a2de99a2@2.26.78.51:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=pro-de.emrata.top#🇩🇪 Германия #3
-vless://6a248b82-ad33-4a8f-8ef7-cdd0ac26c261@185.126.67.41:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de.boxypn.com&fp=firefox&pbk=TjxmFHJN-olJvkXLicHGzNIMxJyucaA_ht3w3J-YcHM&type=tcp&headerType=none#🇩🇪 Германия #4
-vless://31b0c76b-f98f-41c2-a39d-4f6b4014bcd2@finland-cloud.f1-connect.apruxdomain.xyz:25493?encryption=none&security=reality&sni=www.google.com&fp=chrome&pbk=hNQKyCdBL91D31QbJdu6UZvGQDm-QdbfpAEzntj4bQE&sid=ce510bba7050cfca&spx=%2F&type=tcp&headerType=none#🇫🇮 Финляндия #1
+vless://5c53b9e9-fbe8-4c50-a623-73cdafa3886b@46.250.240.80:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=cevjPz2GmTrXDFXQbGizdN6t4c6m11kclJEf5nOHOTE&sid=52dfc493bb6b6c16&sni=www.cloudflare.com#🇦🇺 Австралия #1
+vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.paypal.com&fp=firefox&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&type=tcp&headerType=none#🇺🇸 США #1
+vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@66.175.217.170:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=firefox&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&sid=1a&type=tcp&headerType=none#🇺🇸 США #2
+vless://98944209-4d92-41b2-9c24-c5ac17b3b493@46.250.250.149:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=2mp1wwmKQyvIVuGujoT0AGoAHwP1IFXlZRj8jB_UnGo&sid=61abecf0a82c31f5&sni=www.cloudflare.com#🇯🇵 Япония #1
