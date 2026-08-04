@@ -4,7 +4,4 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@66.175.217.170:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&sid=1a&sni=www.amazon.com#🇺🇸 США #1
-vless://8ed35e81-16b9-4316-bcb4-4be6c4db4449@31.58.50.200:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=firefox&pbk=mr5AF0LFyDzYDRoYAwH6QNcHXL77-LoiwRx50ZzU8QU&type=tcp&headerType=none#🇺🇸 США #2
-vless://a4b34b65-d393-410a-b41f-f255300ea053@31.58.50.200:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=firefox&pbk=mr5AF0LFyDzYDRoYAwH6QNcHXL77-LoiwRx50ZzU8QU&type=tcp&headerType=none#🇺🇸 США #3
-vless://0370b162-baff-4757-86cc-cce4bf07f6f1@52.43.158.158:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=random&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&sid=cfe08c23a85f24&spx=%2Ffdded5f9698d939&type=tcp&headerType=none#🇺🇸 США #4
+vless://1d39f715-2740-4d99-bc3b-197cc48dcee7@107.173.237.146:8443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=D3ojIs3AUKP_tV0E4TEjh90HBVJp24Nq3qMfdxD30kc&sid=df8611c07d&sni=updates.cdn-apple.com#🇺🇸 США #1
