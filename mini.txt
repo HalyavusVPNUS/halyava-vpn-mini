@@ -4,14 +4,5 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://7603c601-efbd-4070-804b-cc8a4d6ee414@45.81.254.65:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=goo.su&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#🇱🇹 Литва #1
-vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@194.93.63.227:443?encryption=none&flow=xtls-rprx-vision&pbk=FiGwAuKMy_5VK62hqCxDZn1jUjrplWTM1RmAwoA5o1w&security=reality&sid=0d6c02fda165f38c&sni=lbvzo.falsemirrov.com&type=tcp&fp=edge#🇵🇱 Польша #1
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.195:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🇺🇸 США #1
-vless://6b408e62-c5d5-45e1-ae3a-4c9833d46d82@217.217.254.126:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=T4CMxxAJiCcrGk2r87kMkDcvmfNs3nL-gKleaE1wTHQ&sid=fb7ebc9996caf9ac&sni=www.cloudflare.com#🇸🇬 Сингапур #1
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.218:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&sni=storage.yandex.net#🇹🇷 Турция #1
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.187:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&sni=storage.yandex.net#🇹🇷 Турция #2
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.2:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&sni=storage.yandex.net#🇹🇷 Турция #3
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.113:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&sni=storage.yandex.net&_t=5790fa36#🇹🇷 Турция #4
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.48:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&sni=storage.yandex.net#🇹🇷 Турция #5
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.4:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&sni=storage.yandex.net#🇹🇷 Турция #6
-vless://b11841e3-2acc-45ff-afe0-a9ed9a823aaa@83.243.86.33:443?type=tcp&headerType=none&security=reality&encryption=none&sni=edge-fr.mystatic-cdn.ru&fp=edge&pbk=uFj8VavMOqmoW1uzvfwGlDen0J7QssvVl8-bhR9OdxE&sid=39108ea24443e5a6&flow=xtls-rprx-vision#🇫🇷 Франция #1
+vless://5c53b9e9-fbe8-4c50-a623-73cdafa3886b@46.250.240.80:2053?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=cevjPz2GmTrXDFXQbGizdN6t4c6m11kclJEf5nOHOTE&sid=52dfc493bb6b6c16&type=tcp&burmalda=d8be3d68#🇦🇺 Австралия #1
+vless://7bd8e88e-56d3-4396-87b3-854315db88f5@2.27.18.136:443?security=reality&encryption=none&pbk=lFP2ImTpt15m2yw6EivkehLp6smfaH8GRDoXdmcJbVM&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.icloud.com&sid=f070801a38d9f30e#🇩🇪 Германия #1
