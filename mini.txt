@@ -4,5 +4,10 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://c32ef0e3-6f3b-4c5e-a560-16b8c85ec404@95.85.239.230:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HYvULWO1KqHge0lNcpejfOI6zI_aqOIPZxB-QlYLyW4&sid=bd86&sni=rasputin.linus-qanary.lol#🇩🇪 Германия #1
-vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@fin1.panel11.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=lQ8pnlOU0kqS77TA7Fftl8nSzktXLzFpOLGqCZEAhjg&security=reality&sid=aaec521b22bbe6cb&sni=fin1.panel11.ru&type=tcp#🇫🇮 Финляндия #1
+vless://27dcb3a9-c82d-4628-a8c4-bae39e6cb4f4@bossnia.netotcluchai.top:1443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=bossnia.netotcluchai.top&fp=edge&pbk=aS94augCCytcbHRn37QNUfrBwAM2cp2RIXFL97yr50o&sid=0441f3e34348cb45&spx=%2F&type=tcp&headerType=none#🇧🇦 Босния и Герцеговина #1
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.84:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&sni=getsavesafe.net&fp=ios#🇳🇱 Нидерланды #1
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.27:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&sni=getsavesafe.net#🇳🇱 Нидерланды #2
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.140:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&sni=getsavesafe.net&fp=qq#🇳🇱 Нидерланды #3
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.27:443?encryption=none&flow=xtls-rprx-vision&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&security=reality&sid=82f5d3a1e9c0b661&sni=getsavesafe.net&type=tcp&fp=qq#🇳🇱 Нидерланды #4
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.140:443?security=reality&flow=xtls-rprx-vision&sni=getsavesafe.net&type=tcp&fp=qq&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661#🇳🇱 Нидерланды #5
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.84:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&sni=getsavesafe.net#🇳🇱 Нидерланды #6
