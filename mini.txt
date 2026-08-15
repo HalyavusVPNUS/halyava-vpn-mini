@@ -4,11 +4,9 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.144:443?security=reality&flow=xtls-rprx-vision&sni=getsavesafe.net&type=tcp&fp=qq&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661#🇳🇱 Нидерланды #1
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.144:443?security=reality&flow=xtls-rprx-vision&sni=getsavesafe.net&type=tcp&fp=qq&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661#🇳🇱 Нидерланды #2
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.84:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&sni=getsavesafe.net#🇳🇱 Нидерланды #3
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.172:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&sni=getsavesafe.net#🇳🇱 Нидерланды #4
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.6:443?security=reality&flow=xtls-rprx-vision&sni=getsavesafe.net&type=tcp&fp=qq&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661#🇳🇱 Нидерланды #5
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.140:443?security=reality&flow=xtls-rprx-vision&sni=getsavesafe.net&type=tcp&fp=qq&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661#🇳🇱 Нидерланды #6
-vless://f95706c5-16a0-481b-b6ca-69446130da5e@78.159.247.99:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&pbk=GkHB79Vhb0L7LCG9P2MNFfkHxwut2Qql1dQ8zz74pgM&sid=0fafb2da2621&fp=firefox#🇨🇿 Чехия #1
-vless://cd5cf6e7-7ce5-42c9-9316-68210fa72a32@13.193.205.133:27407?security=reality&encryption=none&pbk=SajK6LzHBkkFlEXjIwseyqbpezgPiop5ZnSToou3G04&headerType=none&fp=firefox&type=tcp&sni=bgcpartners.com&sid=e6ac18b63f23#🇯🇵 Япония #1
+vless://27dcb3a9-c82d-4628-a8c4-bae39e6cb4f4@depa.kupivodku.top:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=depa.kupivodku.top&fp=random&pbk=JyGDRuOThmoCQ2pYD5VyPnFBKb25RqwqJ6-W-tNHBlY&sid=0491f3e34348cb95&spx=%2F&type=tcp&headerType=none#🇬🇷 Греция #1
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@176.12.73.145:443?flow=xtls-rprx-vision&fp=firefox&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&security=reality&sid=2186a755ed67b034&sni=nordic.cendora.ru&type=tcp#🇰🇿 Казахстан #1
+vless://27dcb3a9-c82d-4628-a8c4-bae39e6cb4f4@unas.denegnet.cc:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=unas.denegnet.cc&fp=edge&pbk=RP93KQEzBP7wvvhwYy5c87IiQbV6xnsx7XgJpajevTA&sid=bc599ecdd54c1b3f&spx=%2F&type=tcp&headerType=none#🇱🇹 Литва #1
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.172:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&sni=getsavesafe.net#🇳🇱 Нидерланды #1
+vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@66.175.217.170:443?security=reality&type=tcp&alpn=http%2F1.1&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&sid=1a&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo#🇺🇸 США #1
+vless://6b408e62-c5d5-45e1-ae3a-4c9833d46d82@217.217.254.126:2053?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=T4CMxxAJiCcrGk2r87kMkDcvmfNs3nL-gKleaE1wTHQ&sid=fb7ebc9996caf9ac&type=tcp#🇸🇬 Сингапур #1
