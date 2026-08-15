@@ -4,6 +4,8 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.84:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&sni=getsavesafe.net&fp=safari#🇳🇱 Нидерланды #1
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.140:443?security=reality&flow=xtls-rprx-vision&sni=getsavesafe.net&type=tcp&fp=qq&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661#🇳🇱 Нидерланды #2
-vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@132.145.89.30:443?type=tcp&headerType=none&security=tls&encryption=none&sni=ako.pagate.top&fp=firefox&flow=xtls-rprx-vision&insecure=0#🇰🇷 Южная Корея #1
+vless://27dcb3a9-c82d-4628-a8c4-bae39e6cb4f4@unas.denegnet.cc:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=unas.denegnet.cc&fp=edge&pbk=RP93KQEzBP7wvvhwYy5c87IiQbV6xnsx7XgJpajevTA&sid=bc599ecdd54c1b3f&spx=%2F&type=tcp&headerType=none#🇱🇹 Литва #1
+vless://27dcb3a9-c82d-4628-a8c4-bae39e6cb4f4@88.119.176.146:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=RP93KQEzBP7wvvhwYy5c87IiQbV6xnsx7XgJpajevTA&security=reality&sid=bc599ecdd54c1b3f&sni=unas.denegnet.cc&type=tcp#🇱🇹 Литва #2
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.75:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&security=reality&sid=82f5d3a1e9c0b661&sni=getsavesafe.net&type=tcp#🇳🇱 Нидерланды #1
+vless://27dcb3a9-c82d-4628-a8c4-bae39e6cb4f4@31.14.41.161:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=BZHYuWJM1Bm6Cqi806nq_cbTmdvANv5-8AlA2ex4NUA&security=reality&sid=a88382ffbc59c48a&sni=buhalvrome.denegnet.cc&type=tcp#🇷🇴 Румыния #1
+vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?security=reality&encryption=none&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.paypal.com#🇺🇸 США #1
