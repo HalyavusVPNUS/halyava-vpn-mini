@@ -4,13 +4,7 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://27dcb3a9-c82d-4628-a8c4-bae39e6cb4f4@185.141.63.197:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=3bKk6C15-PGQ-jLUklwFWxMQUDu95Lr8Fq8G4Hb6fy8&security=reality&sid=03e16fad529ab1e9&sni=hltv.snowfalls.top&type=tcp#🇧🇬 Болгария #1
-vless://921db318-1694-4408-9cc7-c93df39f7f8e@uk.monkora.org:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&sni=uk.monkora.org#🇬🇧 Великобритания #1
-vless://921db318-1694-4408-9cc7-c93df39f7f8e@de.monkora.org:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&sni=de.monkora.org#🇩🇪 Германия #1
-vless://921db318-1694-4408-9cc7-c93df39f7f8e@de.monkora.org:443?security=reality&type=tcp&sni=de.monkora.org&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&encryption=none#🇩🇪 Германия #2
-vless://7f1f5848-da44-47df-8581-df83e88ee2b3@194.61.31.126:2053?type=tcp&sid=ae3ba555edc1ba0a&security=reality&encryption=none&fp=firefox&pbk=GAYlNViQ9mkjs0iTjNmijAIXOaK2h0P2opHCYOrCNy0&sni=www.apple.com&freeinternet=kizyak_vpn1786827284642#🇮🇳 Индия #1
-vless://6dcb725e-947e-4bbe-bb35-903374d57179@rm-nl-01.409648.xyz:20725?security=reality&type=tcp&packetEncoding=xudp&sni=d1--ov-gotcha07.bilivideo.com&fp=qq&flow=xtls-rprx-vision&sid=0102ac4e&pbk=hceZHd9X9FSbWGXGgm3OWN-4Au26rrsriTcyHw5M3VU&encryption=none#🇳🇱 Нидерланды #1
-vless://670decfe-68cc-499e-8cb1-22b39c20acbb@185.209.15.163:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=nl8.helper-internet.com&type=tcp#🇳🇱 Нидерланды #2
-vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@fin1.panel11.ru:443?flow=xtls-rprx-vision&fp=&type=tcp&sid=aaec521b22bbe6cb&encryption=none&sni=fin1.panel11.ru&pbk=lQ8pnlOU0kqS77TA7Fftl8nSzktXLzFpOLGqCZEAhjg&security=reality#🇫🇮 Финляндия #1
-vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@swed4.o4ka-internet.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&sid=5629431325884ff0&sni=swed4.o4ka-internet.com#🇸🇪 Швеция #1
-vless://98944209-4d92-41b2-9c24-c5ac17b3b493@46.250.250.149:2053?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=2mp1wwmKQyvIVuGujoT0AGoAHwP1IFXlZRj8jB_UnGo&sid=61abecf0a82c31f5&type=tcp#🇯🇵 Япония #1
+vless://670decfe-68cc-499e-8cb1-22b39c20acbb@185.209.15.163:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=nl8.helper-internet.com&type=tcp#🇳🇱 Нидерланды #1
+vless://14da77da-4fb3-4e49-ac4f-7881ea19b267@177.3.212.127:8443?type=tcp&security=tls&encryption=none&fp=firefox&sni=neth6.lckdwn.ru#🇳🇱 Нидерланды #2
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@194.24.161.133:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=firefox&sni=fr133.mechvpn.online#🇫🇷 Франция #1
+vless://98944209-4d92-41b2-9c24-c5ac17b3b493@46.250.250.149:2053?security=reality&encryption=none&pbk=2mp1wwmKQyvIVuGujoT0AGoAHwP1IFXlZRj8jB_UnGo&headerType=none&fp=firefox&type=tcp&sni=www.cloudflare.com&sid=61abecf0a82c31f5#🇯🇵 Япония #1
