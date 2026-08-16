@@ -4,6 +4,4 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@82.38.4.126:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=firefox&sni=de126.mechvpn.online#🇩🇪 Германия #1
-vless://1f113ca6-7b95-4abb-9348-adfb2187e399@tutdesignstudio.site:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&alpn=http%2F1.1&fp=firefox#🇵🇱 Польша #1
-vless://cd5cf6e7-7ce5-42c9-9316-68210fa72a32@13.193.205.133:27407?security=reality&type=tcp&sni=bgcpartners.com&fp=chrome&sid=e6ac18b63f23&pbk=SajK6LzHBkkFlEXjIwseyqbpezgPiop5ZnSToou3G04&encryption=none#🇯🇵 Япония #1
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@79.108.166.178:13443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=auto.cendora.ru&fp=qq&security=reality&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0#🇷🇴 Румыния #1
