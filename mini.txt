@@ -4,8 +4,6 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://5c53b9e9-fbe8-4c50-a623-73cdafa3886b@46.250.240.80:2053?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=cevjPz2GmTrXDFXQbGizdN6t4c6m11kclJEf5nOHOTE&sid=52dfc493bb6b6c16&type=tcp#🇦🇺 Австралия #1
-vless://921db318-1694-4408-9cc7-c93df39f7f8e@2.58.66.142:443?security=reality&type=tcp&sni=de.monkora.org&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&encryption=none#🇩🇪 Германия #1
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@79.108.166.178:13443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&sni=auto.cendora.ru#🇷🇴 Румыния #1
-vless://670decfe-68cc-499e-8cb1-22b39c20acbb@tur4.helper-internet.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88&sni=tur4.helper-internet.com&spx=/#🇹🇷 Турция #1
-vless://98944209-4d92-41b2-9c24-c5ac17b3b493@46.250.250.149:2053?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=2mp1wwmKQyvIVuGujoT0AGoAHwP1IFXlZRj8jB_UnGo&sid=61abecf0a82c31f5&type=tcp#🇯🇵 Япония #1
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@82.38.4.126:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=firefox&sni=de126.mechvpn.online#🇩🇪 Германия #1
+vless://1f113ca6-7b95-4abb-9348-adfb2187e399@tutdesignstudio.site:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&alpn=http%2F1.1&fp=firefox#🇵🇱 Польша #1
+vless://cd5cf6e7-7ce5-42c9-9316-68210fa72a32@13.193.205.133:27407?security=reality&type=tcp&sni=bgcpartners.com&fp=chrome&sid=e6ac18b63f23&pbk=SajK6LzHBkkFlEXjIwseyqbpezgPiop5ZnSToou3G04&encryption=none#🇯🇵 Япония #1
