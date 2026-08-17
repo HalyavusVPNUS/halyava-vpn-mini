@@ -4,25 +4,12 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://58a38ebd-30e6-48bd-a1ab-d0babb1da37f@37.1.194.51:443?type=tcp&security=tls&encryption=none&fp=firefox&sni=de2.mehab.me#🇩🇪 Германия #1
-vless://58a38ebd-30e6-48bd-a1ab-d0babb1da37f@de2.mehab.me:443?type=tcp&security=tls&sni=de2.mehab.me&fp=chrome&allowInsecure=0&insecure=0#🇩🇪 Германия #2
-vless://7d641c2e-6897-4b9f-8a82-3f0cc8980db1@magazinetut.online:8443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#🇰🇿 Казахстан #1
-vless://7d641c2e-6897-4b9f-8a82-3f0cc8980db1@5.180.52.186:8443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=firefox&sni=magazinetut.online#🇰🇿 Казахстан #2
-vless://5e19b3c8-c1dc-4163-95e2-895319c15d6c@nl2.techdatacloud.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=sfqx3Ie9Php87bfw3vPHRBizjWZje61abU3F-xNqxi4&sid=108da5a6fad4da65&sni=storage.yandex.net&spx=/#🇳🇱 Нидерланды #1
-vless://74099b9e-52fd-4540-b642-b8d60f3b5a2a@144.31.237.65:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TC8D2edifNXaro0S31ZiC9izi8tAmXJyxdOHptwNUTw&sid=660c1badc77a422b&sni=edge-nl.mystatic-cdn.ru#🇳🇱 Нидерланды #2
-vless://62b48343-0e69-4c10-90e8-eb7516455790@132.243.212.205:41503?type=tcp&security=reality&encryption=none&fp=firefox&pbk=RIGmegmuEpwjJWkWnJF_woRYpLH5h8d_3uZQrcqgeRs&sid=d66024&sni=github.com#🇵🇱 Польша #1
-vless://48cb335c-2210-4f81-bde9-e9c8d454ed7b@pl154.slovovpn.com:26417?type=tcp&security=reality&encryption=none&fp=edge&pbk=UIW5K60pwiph20ht5dLF22CmD68KphGRiYTBK0wBXXw&sid=deff65&sni=github.com#🇵🇱 Польша #2
-vless://38cc34e9-9973-439c-b61b-3d89b798d571@tutdesignstudio.site:8443?type=tcp&security=tls&encryption=none&sni=&fp=firefox&alpn=http/1.1&flow=xtls-rprx-vision#🇵🇱 Польша #3
-vless://1f113ca6-7b95-4abb-9348-adfb2187e399@tutdesignstudio.site:8443?type=tcp&security=tls&fp=firefox&flow=xtls-rprx-vision#🇵🇱 Польша #4
-vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@178.214.211.36:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&sid=5629431325884ff0&sni=rom2.o4ka-internet.com#🇷🇴 Румыния #1
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@79.108.166.178:13443?type=tcp&headerType=none&security=reality&encryption=none&sni=auto.cendora.ru&fp=edge&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&flow=xtls-rprx-vision#🇷🇴 Румыния #2
-vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?security=reality&alpn=http%2F1.1&encryption=none&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.paypal.com#🇺🇸 США #1
-vless://bf840e65-ae71-4d9d-afe8-bf77f032c63b@85.209.129.93:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Ksfb1SG0g5Dc4h6MQ_0-IbCU3MzIXp4T2AlWfrRC6Ag&sni=reg.lagzero.ru#🇫🇮 Финляндия #1
-vless://5c22dd50-f75d-4cf5-ba53-721f91d8bfe1@141.227.170.12:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=sellflow.org#🇫🇮 Финляндия #2
-vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@fin1.panel11.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=lQ8pnlOU0kqS77TA7Fftl8nSzktXLzFpOLGqCZEAhjg&security=reality&sid=aaec521b22bbe6cb&sni=fin1.panel11.ru&type=tcp#🇫🇮 Финляндия #3
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@194.24.161.133:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=firefox&sni=fr133.mechvpn.online#🇫🇷 Франция #1
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@194.24.161.140:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=firefox&sni=fr140.mechvpn.online#🇫🇷 Франция #2
-vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6&sni=passport.yandex.ru#🇫🇷 Франция #3
-vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?type=tcp&security=reality&sni=passport.yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6#🇫🇷 Франция #4
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?type=tcp&security=tls&encryption=none&fp=firefox&sni=estproxy4.lockdwn.com#🇪🇪 Эстония #1
-vless://98944209-4d92-41b2-9c24-c5ac17b3b493@46.250.250.149:2053?security=reality&encryption=none&pbk=2mp1wwmKQyvIVuGujoT0AGoAHwP1IFXlZRj8jB_UnGo&headerType=none&fp=firefox&type=tcp&sni=www.cloudflare.com&sid=61abecf0a82c31f5#🇯🇵 Япония #1
+vless://5c53b9e9-fbe8-4c50-a623-73cdafa3886b@46.250.240.80:2053?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=cevjPz2GmTrXDFXQbGizdN6t4c6m11kclJEf5nOHOTE&sid=52dfc493bb6b6c16&type=tcp#🇦🇺 Австралия #1
+vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@grek.o4ka-internet.com:443?security=reality&encryption=none&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=grek.o4ka-internet.com&sid=5629431325884ff0#🇬🇷 Греция #1
+vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@grek.o4ka-internet.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=grek.o4ka-internet.com&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&sid=5629431325884ff0&fp=firefox#🇬🇷 Греция #2
+vless://dbacac09-9ee8-400c-b53b-745a769c220a@31.170.22.177:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&sni=filehost2.videobooster21.com#🇱🇻 Латвия #1
+vless://1f113ca6-7b95-4abb-9348-adfb2187e399@tutdesignstudio.site:8443?type=tcp&security=tls&fp=firefox&flow=xtls-rprx-vision#🇵🇱 Польша #1
+vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@66.175.217.170:443?security=reality&type=tcp&alpn=http/1.1&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&sid=1a&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo#🇺🇸 США #1
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@194.24.161.140:443?alpn=h2%2Ch3%2Chttp%2F1.1&flow=xtls-rprx-vision&security=tls&sni=fr140.mechvpn.online&type=tcp#🇫🇷 Франция #1
+vless://278412f2-ef42-48e2-a4c0-243b173e612b@ee2.mehab.me:443?type=tcp&security=tls&sni=ee2.mehab.me&fp=chrome&allowInsecure=0&insecure=0#🇪🇪 Эстония #1
+vless://278412f2-ef42-48e2-a4c0-243b173e612b@ee2.mehab.me:443?security=tls&type=tcp#🇪🇪 Эстония #2
