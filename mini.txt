@@ -4,7 +4,4 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.226:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&sid=f63805c3ecc7a483&sni=savesafe.co#🇳🇱 Нидерланды #1
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.238:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&sid=f63805c3ecc7a483&sni=savesafe.co#🇳🇱 Нидерланды #2
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.251:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&sid=f63805c3ecc7a483&sni=savesafe.co#🇳🇱 Нидерланды #3
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@140.99.223.174:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=wx4B5IBeGc_0h6XZW6714G7951zLUYILv6eNRSgPDl8&sid=e4f6a3446ac34a24&sni=savesafe.run#🇺🇸 США #1
+vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6&sni=passport.yandex.ru&hiddify=1#🇫🇷 Франция #1
