@@ -4,13 +4,8 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://5c53b9e9-fbe8-4c50-a623-73cdafa3886b@46.250.240.80:2053?type=tcp&security=reality&encryption=none&fp=chrome&pbk=cevjPz2GmTrXDFXQbGizdN6t4c6m11kclJEf5nOHOTE&sid=52dfc493bb6b6c16&sni=www.cloudflare.com&__rand=f763a6d3#🇦🇺 Австралия #1
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@62.113.200.222:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=firefox&sni=de222.mechvpn.online#🇩🇪 Германия #1
-vless://b6f3b292-00c9-430e-bc4c-b1294bd895c0@185.126.67.76:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kaw2U8L2ZTcgo56qUBONfylYJpHprI_CgZfv1I4q2Sc&sid=b512d49930874a31&sni=cdn-de-4.ai-apiroute.cc#🇩🇪 Германия #2
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@217.60.68.196:13443?flow=xtls-rprx-vision&fp=qq&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&security=reality&sid=a7f3c91b2e6d84c0&sni=auto.cendora.ru&type=tcp#🇩🇪 Германия #3
-vless://3ce9c383-8ed5-416d-b880-614cc02b9bd2@84.21.189.51:63535?type=tcp&security=reality&encryption=none&fp=firefox&pbk=D9l1RH1kfFdg7WgL02E6e0Xivy7WBONn5_SJ9G_caRQ&sid=8643d220&sni=github.com#🇩🇪 Германия #4
-vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@85.90.197.147:443?encryption=none&flow=xtls-rprx-vision&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&security=reality&sid=5629431325884ff0&sni=grek.o4ka-internet.com&type=tcp&fp=edge#🇬🇷 Греция #1
-vless://7d641c2e-6897-4b9f-8a82-3f0cc8980db1@5.180.52.186:8443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=firefox&sni=magazinetut.online#🇰🇿 Казахстан #1
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@94.183.157.121:13443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&sni=auto.cendora.ru#🇵🇱 Польша #1
-vless://1f113ca6-7b95-4abb-9348-adfb2187e399@38.180.50.4:8443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=edge&sni=tutdesignstudio.site#🇵🇱 Польша #2
-vless://670decfe-68cc-499e-8cb1-22b39c20acbb@roman3.helper-internet.com:443?security=reality&type=tcp&packetEncoding=xudp&sni=roman3.helper-internet.com&fp=random&flow=xtls-rprx-vision&sid=ff776ff77be48b88&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE#🇷🇴 Румыния #1
+vless://62b48343-0e69-4c10-90e8-eb7516455790@132.243.212.205:41503?type=tcp&security=reality&encryption=none&fp=firefox&pbk=RIGmegmuEpwjJWkWnJF_woRYpLH5h8d_3uZQrcqgeRs&sid=d66024&sni=github.com#🇵🇱 Польша #1
+vless://629f88a6-b20b-4489-a22f-4d8b418c0488@212.64.201.33:2053?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&sid=c0d1d1776fed0f6d&sni=tr-t.vinnypuxtomoon.today#🇹🇷 Турция #1
+vless://5c22dd50-f75d-4cf5-ba53-721f91d8bfe1@141.227.170.12:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=sellflow.org#🇫🇮 Финляндия #1
+vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@185.221.163.211:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lQ8pnlOU0kqS77TA7Fftl8nSzktXLzFpOLGqCZEAhjg&sid=aaec521b22bbe6cb&sni=fin1.panel11.ru#🇫🇮 Финляндия #2
+vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@132.145.89.30:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=ako.pagate.top&packetEncoding=none#🇰🇷 Южная Корея #1
