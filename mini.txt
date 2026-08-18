@@ -4,7 +4,7 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://5c53b9e9-fbe8-4c50-a623-73cdafa3886b@46.250.240.80:2053?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=cevjPz2GmTrXDFXQbGizdN6t4c6m11kclJEf5nOHOTE&sid=52dfc493bb6b6c16&type=tcp#🇦🇺 Австралия #1
-vless://6607d677-f567-4692-af46-52d0e15808a1@89.37.192.178:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&headerType=none&encryption=none&flow=xtls-rprx-vision&sni=lp.cryptoofarm.com&sid=964fdf71ea78787f&security=reality&fp=chrome&type=tcp&pbk=Ezu-OUgjepmy9XG8khX0Q8xQ_i0fGh6w_H4JO49TG34#🇷🇴 Румыния #1
-vless://0b772594-d6b9-4f4f-849b-8a6f92f594fe@43.165.177.82:443?flow=xtls-rprx-vision&pbk=ZuN9nc78h4Ccb19eb9NpTCs0jZkhJB8L0i1ZoAhu0XU&security=reality&sid=b2f4518cf979889d&sni=www.cloudflare.com&type=tcp&fp=safari#🇯🇵 Япония #1
-vless://601e4ca5-df0a-43a1-97c2-0b1f5c0ae413@45.202.254.53:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6rwYiIkFeAvFmuAZv8ZclWjn5SmTU1ex4U4KTRRQ2DI&sid=12206db5fe8b1dd4&sni=www.cloudflare.com#🇯🇵 Япония #2
+vless://6607d677-f567-4692-af46-52d0e15808a1@sp.cryptoofarm.com:8443/?type=tcp&security=reality&pbk=7IMomzYtfCCiH3ytALMNYEIJxQBXUhvsrdk9u261DSw&fp=firefox&sni=sp.cryptoofarm.com&sid=9be860ff7908&flow=xtls-rprx-vision#🇪🇸 Испания #1
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.94.59:13443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&sni=auto.cendora.ru#🇳🇱 Нидерланды #1
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.77.141.65:13443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&sni=auto.cendora.ru#🇳🇱 Нидерланды #2
+vless://f04037b7-125e-4666-841f-4b6bdbc9823d@jhmq-16fdqod.henghesoft.net:443?flow=xtls-rprx-vision&fp=chrome&pbk=cFmHbKSQO1BQnCBGd26-EA0CU-zYmduwk0Wqu0fhuT0&security=reality&sid=7e8d2954eb836947&sni=www.cloudflare.com&type=tcp#🇨🇭 Швейцария #1
