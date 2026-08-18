@@ -4,15 +4,4 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.168.133:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&sni=eu-central.cendora.ru#🇩🇪 Германия #1
-vless://0cc3a24a-1e51-44ae-92c7-83102c8f0392@store20.vevluma.ir:1234?flow=xtls-rprx-vision&fp=chrome&pbk=4sT8gYkbYI1RUPlO-SFVpJENKfGgMWoYQpflbcfspkI&security=reality&sid=4844fb0c077b20b7&sni=updates.cdn-apple.com&type=tcp#🇩🇪 Германия #2
-vless://ee71862e-816b-4d26-97d2-f200898e385d@144.124.238.87:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.cisco.com&fp=firefox&pbk=RczU3DRITvFHE2I8iPI2aWMtiZpVrd21lFTNE1Mmwz8&sid=b7bbbeeeb367bf3a&spx=%2F&type=tcp&headerType=none#🇳🇱 Нидерланды #1
-vless://fa0f1a88-70d9-45b2-a51d-c56cc252cd6d@107.172.243.149:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=VJwBthRcBwhGwneFMFK-9IsC-TbEgs7ZvIVn2bg6oQo&security=reality&sid=f444&sni=services.digitaleast.mobi&type=tcp#🇺🇸 США #1
-vless://0cc3a24a-1e51-44ae-92c7-83102c8f0392@store8.vevluma.ir:1234?flow=xtls-rprx-vision&fp=chrome&pbk=4sT8gYkbYI1RUPlO-SFVpJENKfGgMWoYQpflbcfspkI&security=reality&sid=4844fb0c077b20b7&sni=updates.cdn-apple.com&type=tcp#🇫🇮 Финляндия #1
-vless://0cc3a24a-1e51-44ae-92c7-83102c8f0392@store2.vevluma.ir:1234?flow=xtls-rprx-vision&fp=chrome&pbk=4sT8gYkbYI1RUPlO-SFVpJENKfGgMWoYQpflbcfspkI&security=reality&sid=4844fb0c077b20b7&sni=updates.cdn-apple.com&type=tcp#🇫🇮 Финляндия #2
-vless://0cc3a24a-1e51-44ae-92c7-83102c8f0392@store1.vevluma.ir:1234?flow=xtls-rprx-vision&fp=chrome&pbk=4sT8gYkbYI1RUPlO-SFVpJENKfGgMWoYQpflbcfspkI&security=reality&sid=4844fb0c077b20b7&sni=updates.cdn-apple.com&type=tcp#🇫🇮 Финляндия #3
-vless://0cc3a24a-1e51-44ae-92c7-83102c8f0392@store19.vevluma.ir:1234?flow=xtls-rprx-vision&fp=chrome&pbk=4sT8gYkbYI1RUPlO-SFVpJENKfGgMWoYQpflbcfspkI&security=reality&sid=4844fb0c077b20b7&sni=updates.cdn-apple.com&type=tcp#🇫🇮 Финляндия #4
-vless://0cc3a24a-1e51-44ae-92c7-83102c8f0392@store7.vevluma.ir:1234?flow=xtls-rprx-vision&fp=chrome&pbk=4sT8gYkbYI1RUPlO-SFVpJENKfGgMWoYQpflbcfspkI&security=reality&sid=4844fb0c077b20b7&sni=updates.cdn-apple.com&type=tcp#🇫🇮 Финляндия #5
-vless://0cc3a24a-1e51-44ae-92c7-83102c8f0392@store17.vevluma.ir:1234?flow=xtls-rprx-vision&fp=chrome&pbk=4sT8gYkbYI1RUPlO-SFVpJENKfGgMWoYQpflbcfspkI&security=reality&sid=4844fb0c077b20b7&sni=updates.cdn-apple.com&type=tcp#🇫🇮 Финляндия #6
-vless://0cc3a24a-1e51-44ae-92c7-83102c8f0392@store19.vevluma.ir:1234?flow=xtls-rprx-vision&fp=chrome&pbk=4sT8gYkbYI1RUPlO-SFVpJENKfGgMWoYQpflbcfspkI&security=reality&sid=4844fb0c077b20b7&sni=updates.cdn-apple.com&type=tcp#🇫🇮 Финляндия #7
-vless://0cc3a24a-1e51-44ae-92c7-83102c8f0392@store4.vevluma.ir:1234?flow=xtls-rprx-vision&fp=chrome&pbk=4sT8gYkbYI1RUPlO-SFVpJENKfGgMWoYQpflbcfspkI&security=reality&sid=4844fb0c077b20b7&sni=updates.cdn-apple.com&type=tcp#🇫🇮 Финляндия #8
+vless://98944209-4d92-41b2-9c24-c5ac17b3b493@46.250.250.149:2053?security=reality&encryption=none&pbk=2mp1wwmKQyvIVuGujoT0AGoAHwP1IFXlZRj8jB_UnGo&headerType=none&fp=firefox&type=tcp&sni=www.cloudflare.com&sid=61abecf0a82c31f5#🇯🇵 Япония #1
