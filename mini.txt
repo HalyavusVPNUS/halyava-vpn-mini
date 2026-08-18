@@ -4,9 +4,7 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://93fab704-cea7-4ca4-a9ac-5bb46aef263c@it.morinsq.su:443?security=reality&encryption=none&pbk=D3qByJ6qqJd5phYkfAtJpBqAhSb8VHPax1ZhvI3ZKEE&headerType=&fp=chrome&spx=/&type=tcp&sni=it.morinsq.su&sid=96e380212691bba8#🇮🇹 Италия #1
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@81.85.75.85:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik&sid=4a46213c935e2ee4&sni=baltic.cendora.ru#🇰🇬 Кыргызстан #1
-vless://eb534939-3159-4188-865a-deef4ab39ae2@97.64.30.227:443?flow=xtls-rprx-vision&pbk=_bxEBATGniBF4AfbzCwrOlygRIjKXUQugXb5ZPuyYxU&security=reality&sni=www.cloudflare.com&type=tcp&fp=chrome#🇺🇸 США #1
-vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@66.175.217.170:443?security=reality&encryption=none&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=1a#🇺🇸 США #2
-vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@66.175.217.170:443?security=reality&type=tcp&alpn=http%2F1.1&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&sid=1a&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&freeinternet=kizyak_vpn1786962122496#🇺🇸 США #3
-vless://cd5cf6e7-7ce5-42c9-9316-68210fa72a32@13.193.205.133:27407?security=reality&encryption=none&pbk=SajK6LzHBkkFlEXjIwseyqbpezgPiop5ZnSToou3G04&headerType=none&fp=firefox&type=tcp&sni=bgcpartners.com&sid=e6ac18b63f23#🇯🇵 Япония #1
+vless://526c4eb2-9b4e-563a-b9e4-7fd6d0f28733@89.125.168.45:53060?security=reality&type=tcp&packetEncoding=xudp&sni=www.vk.com&fp=firefox&flow=xtls-rprx-vision&sid=ef73bb&pbk=ImZszpFLaRorXOn0ISNH4V1YN71lwaLJzzvqqnFwPHk#🇩🇪 Германия #1
+vless://526c4eb2-9b4e-563a-b9e4-7fd6d0f28733@89.125.168.45:53060?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ImZszpFLaRorXOn0ISNH4V1YN71lwaLJzzvqqnFwPHk&sid=ef73bb&sni=www.vk.com#🇩🇪 Германия #2
+vless://6b408e62-c5d5-45e1-ae3a-4c9833d46d82@217.217.254.126:2053?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=T4CMxxAJiCcrGk2r87kMkDcvmfNs3nL-gKleaE1wTHQ&sid=fb7ebc9996caf9ac&type=tcp#🇸🇬 Сингапур #1
+vless://cd5cf6e7-7ce5-42c9-9316-68210fa72a32@13.193.205.133:27407?type=tcp&security=reality&encryption=none&fp=firefox&pbk=SajK6LzHBkkFlEXjIwseyqbpezgPiop5ZnSToou3G04&sid=e6ac18b63f23&sni=bgcpartners.com#🇯🇵 Япония #1
