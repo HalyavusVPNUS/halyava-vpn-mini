@@ -4,11 +4,5 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://7f1f5848-da44-47df-8581-df83e88ee2b3@194.61.31.126:2053?encryption=none&sid=ae3ba555edc1ba0a&type=tcp&security=reality&pbk=GAYlNViQ9mkjs0iTjNmijAIXOaK2h0P2opHCYOrCNy0&sni=www.apple.com&fp=firefox&descriptions=люби_себя8875bf#🇮🇳 Индия #1
-vless://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@167.104.217.250:443?type=tcp&headerType=none&security=tls&encryption=none&sni=nl-spec-1.atlanta-api.com&fp=edge&alpn=h2%2Chttp%2F1.1&insecure=0#🇳🇱 Нидерланды #1
-vless://f82332b2-dc8c-4196-ac12-f276e37e278a@test.api.anti-zapret.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.com&fp=firefox&security=reality&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=17faf32cb516c9cb#🇳🇱 Нидерланды #2
-vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@66.175.217.170:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&sid=1a&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo#🇺🇸 США #1
-vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@66.175.217.170:443?security=reality&type=tcp&alpn=http/1.1&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&sid=1a&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo#🇺🇸 США #2
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@savesafe.run:443?security=reality&encryption=none&pbk=wx4B5IBeGc_0h6XZW6714G7951zLUYILv6eNRSgPDl8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=savesafe.run&sid=e4f6a3446ac34a24#🇺🇸 США #3
-vless://f202c7ca-17b7-416d-b3a2-ac71d35afe9c@89.125.37.149:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nF_kEdHan2dgl2tlQ_dtNaKZ4oORhuiFrXHbtEDcT2Q&security=reality&sid=2d6d073dc88f22a8&sni=se1.se-cdn.ru&type=tcp#🇸🇪 Швеция #1
-vless://f202c7ca-17b7-416d-b3a2-ac71d35afe9c@132.243.231.94:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nF_kEdHan2dgl2tlQ_dtNaKZ4oORhuiFrXHbtEDcT2Q&security=reality&sid=2d6d073dc88f22a8&sni=se1.se-cdn.ru&type=tcp#🇸🇪 Швеция #2
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@37.202.205.70:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=UknJiwNyRmwBTaQCyY3mpq9blOPEgBFPV_NYJIgBKCs&sid=62b6d6e51d461d78&sni=it.savesafe.cc#🇮🇹 Италия #1
+vless://93fab704-cea7-4ca4-a9ac-5bb46aef263c@se.morinsq.su:443?security=reality&encryption=none&pbk=uag6mQ8Nj62hZYzJhhd4ZZ-0GOGA42khyC6XtRbEnAg&headerType=&fp=qq&spx=%2F&type=tcp&sni=se.morinsq.su&sid=77ca514a4493ae52#🇸🇪 Швеция #1
