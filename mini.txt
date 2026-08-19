@@ -4,6 +4,5 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@103.195.4.7:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=asia.cendora.ru&fp=chrome&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077&type=tcp&headerType=none#🇭🇰 Гонконг #1
-vless://90562d79-e7b7-4aa8-b86e-32537ab0ede5@163.128.98.140:443?flow=xtls-rprx-vision&fp=chrome&pbk=Cas0ZJcBSzluAQsloMFnJblbrZCKyE3PGTSJAbPlNCs&security=reality&sid=7be83fb9e5328293&sni=www.apple.com&type=tcp#🇸🇬 Сингапур #1
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@103.125.219.14:443?type=tcp&security=reality&sni=asia.cendora.ru&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077&fp=edge&encryption=none&flow=xtls-rprx-vision#🇯🇵 Япония #1
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.76.198:13443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.cendora.ru&fp=chrome&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&type=tcp&headerType=none#🇩🇪 Германия #1
+vless://9abba46f-b346-435e-9408-6eaffc62144b@103.76.85.171:443?flow=xtls-rprx-vision&fp=chrome&pbk=20Ik7FkA1OT40lGjeczJTsJMd7ceZlWWxFKyR-1TdEs&security=reality&sid=161280da3a1e69e0&sni=www.apple.com&type=tcp#🇯🇵 Япония #1
