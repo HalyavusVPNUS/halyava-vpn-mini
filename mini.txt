@@ -4,7 +4,7 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://f82332b2-dc8c-eac4-ac12-f276e37e278a@45.155.70.123:8443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=58fbcddfaae3ade9&sni=s1.test.anti-zapret.com#🇩🇪 Германия #1
-vless://f82332b2-dc8c-eac4-ac12-f276e37e278a@45.155.70.123:8443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=58fbcddfaae3ade9&sni=s1.test.anti-zapret.com#🇩🇪 Германия #2
-vless://cd5cf6e7-7ce5-42c9-9316-68210fa72a32@13.193.205.133:27407?security=reality&encryption=none&pbk=SajK6LzHBkkFlEXjIwseyqbpezgPiop5ZnSToou3G04&headerType=none&fp=chrome&type=tcp&sni=bgcpartners.com&sid=e6ac18b63f23#🇯🇵 Япония #1
-vless://98944209-4d92-41b2-9c24-c5ac17b3b493@46.250.250.149:2053?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=2mp1wwmKQyvIVuGujoT0AGoAHwP1IFXlZRj8jB_UnGo&sid=61abecf0a82c31f5&type=tcp#🇯🇵 Япония #2
+vless://f82332b2-dc8c-eac4-ac12-f276e37e278a@s1.test.anti-zapret.com:8443/?type=tcp&encryption=none&flow=&sni=s1.test.anti-zapret.com&fp=firefox&security=reality&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=58fbcddfaae3ade9#🇩🇪 Германия #1
+vless://0cc3a24a-1e51-44ae-92c7-83102c8f0392@store14.vevluma.ir:1234?flow=xtls-rprx-vision&fp=chrome&pbk=4sT8gYkbYI1RUPlO-SFVpJENKfGgMWoYQpflbcfspkI&security=reality&sid=4844fb0c077b20b7&sni=updates.cdn-apple.com&type=tcp#🇫🇮 Финляндия #1
+vless://f202c7ca-17b7-416d-b3a2-ac71d35afe9c@132.243.231.94:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nF_kEdHan2dgl2tlQ_dtNaKZ4oORhuiFrXHbtEDcT2Q&security=reality&sid=2d6d073dc88f22a8&sni=se1.se-cdn.ru&type=tcp#🇸🇪 Швеция #1
+vless://98944209-4d92-41b2-9c24-c5ac17b3b493@46.250.250.149:2053?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=2mp1wwmKQyvIVuGujoT0AGoAHwP1IFXlZRj8jB_UnGo&sid=61abecf0a82c31f5&type=tcp#🇯🇵 Япония #1
