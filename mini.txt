@@ -4,13 +4,9 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@151.242.160.49:443?type=tcp&security=reality&sni=eu-central.cendora.ru&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&fp=firefox&encryption=none&flow=xtls-rprx-vision#🇩🇪 Германия #1
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@212.179.49.187:13443?flow=xtls-rprx-vision&fp=edge&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&security=reality&sid=a7f3c91b2e6d84c0&sni=auto.cendora.ru&type=tcp#🇮🇱 Израиль #1
-vless://b8f1b61e-d5c4-4765-866d-ece1fc8e590b@185.242.105.83:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&sni=g9.steptofsvo.com#🇱🇻 Латвия #1
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@45.141.148.10:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fyOnHd_PZ6UjxCLPDFfxrT3XIJnjTpHXyluFakC3v14&security=reality&sid=95d36da964f4e951&sni=tr.savesafe.cc&type=tcp#🇹🇷 Турция #1
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@45.141.148.11:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fyOnHd_PZ6UjxCLPDFfxrT3XIJnjTpHXyluFakC3v14&security=reality&sid=95d36da964f4e951&sni=tr.savesafe.cc&type=tcp#🇹🇷 Турция #2
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@103.83.86.96:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fyOnHd_PZ6UjxCLPDFfxrT3XIJnjTpHXyluFakC3v14&security=reality&sid=95d36da964f4e951&sni=tr.savesafe.cc&type=tcp#🇹🇷 Турция #3
+vless://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@167.104.217.250:443?type=tcp&headerType=none&security=tls&encryption=none&sni=nl-spec-1.atlanta-api.com&fp=edge&alpn=h2%2Chttp%2F1.1&insecure=0#🇳🇱 Нидерланды #1
+vless://0f85a64b-55f4-4166-b217-7563d221cd4a@95.182.114.94:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=omvpn.info&fp=qq&pbk=cD8mVX41lqyVGCuPz0-tQWcNqkMxiPZxU7JJsyyNAEI#🇺🇸 США #1
+vless://90562d79-e7b7-4aa8-b86e-32537ab0ede5@163.128.98.140:443?flow=xtls-rprx-vision&fp=chrome&pbk=Cas0ZJcBSzluAQsloMFnJblbrZCKyE3PGTSJAbPlNCs&security=reality&sid=7be83fb9e5328293&sni=www.apple.com&type=tcp#🇸🇬 Сингапур #1
 vless://10a60cfd-a88d-4d18-88f6-a1cfed828280@fl.miginfo.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=fl.miginfo.net&fp=chrome&pbk=gBVmLRheHMaWAg8Je0zDKvFP0j_iZVa4vrtNP12lXyQ&sid=d5f4a4f96ee53b60#🇫🇮 Финляндия #1
-vless://9abba46f-b346-435e-9408-6eaffc62144b@103.76.85.171:443?flow=xtls-rprx-vision&fp=chrome&pbk=20Ik7FkA1OT40lGjeczJTsJMd7ceZlWWxFKyR-1TdEs&security=reality&sid=161280da3a1e69e0&sni=www.apple.com&type=tcp#🇯🇵 Япония #1
-vless://cd5cf6e7-7ce5-42c9-9316-68210fa72a32@13.193.205.133:27407?security=reality&type=tcp&sni=bgcpartners.com&fp=chrome&sid=e6ac18b63f23&pbk=SajK6LzHBkkFlEXjIwseyqbpezgPiop5ZnSToou3G04&encryption=none#🇯🇵 Япония #2
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@103.125.219.14:443?type=tcp&security=reality&sni=asia.cendora.ru&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077&fp=edge&encryption=none&flow=xtls-rprx-vision#🇯🇵 Япония #3
+vless://416475e5-9e6b-4fa6-8da8-8ab269ed3ef7@2.26.124.49:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.rumedia-cdn.com&fp=qq&pbk=wPIraZcr8xADIe7BxQvd4W7BUYytsr6tNIplX49HXko&sid=858c88a7835dc87c&spx=%2F&flow=xtls-rprx-vision#🇫🇮 Финляндия #2
+vless://cd5cf6e7-7ce5-42c9-9316-68210fa72a32@13.193.205.133:27407?security=reality&encryption=none&pbk=SajK6LzHBkkFlEXjIwseyqbpezgPiop5ZnSToou3G04&headerType=none&fp=chrome&type=tcp&sni=bgcpartners.com&sid=e6ac18b63f23#🇯🇵 Япония #1
