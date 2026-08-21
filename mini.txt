@@ -5,3 +5,4 @@
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
 vless://c543f497-6a6d-4842-8317-a5f62ea56dc2@23.94.227.94:15884?security=reality&encryption=none&pbk=rZAYGSqaklKNltwTGPpAok74VYCxV9uKvrOyydSn9UE&headerType=none&type=tcp&sni=www.intel.com&sid=a391369e7596#🇺🇸 США #1
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@88.218.92.164:13443?security=reality&type=tcp&sni=auto.cendora.ru&fp=qq&flow=xtls-rprx-vision&sid=a7f3c91b2e6d84c0&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&encryption=none#🇺🇦 Украина #1
