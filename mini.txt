@@ -4,5 +4,4 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://32ed7262-74d2-40ea-a038-6bf074bc463e@185.168.195.211:21527?type=tcp&security=reality&encryption=none&fp=firefox&pbk=SsIiRnSI27T6_EU71nUXgFfE0NmJhsA2UwhR5WC25UY&sid=823ec0b7b5084ffe&sni=www.apple.com#🇬🇧 Великобритания #1
 vless://3284cf4e-b74a-4424-ba91-f81408372c78@179.255.185.73:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=MlXQqlki7M9aZF48YEul5pcRi7vq00UezcwtddeL-08&security=reality&sni=usa3.razkur.dev&type=tcp#🇺🇸 США #1
