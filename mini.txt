@@ -4,11 +4,6 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://237b7689-d644-4f32-be77-b0f76b1c1135@158.58.173.227:1443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dhTXgiFZvZPJSNc33EqNvn_CRor_RKeiMxSkHsEdDic&security=reality&sid=0441f3e34348cb45&sni=it.buildsnow.top&type=tcp#🇮🇹 Италия #1
-vless://237b7689-d644-4f32-be77-b0f76b1c1135@87.120.104.91:1443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=EspGR3C-10emgNP4qil4Sk77pDYHOyxPpV3r6EkbEV8&security=reality&sid=13a7f33d0731e53c&sni=suno.kupivodku.top&type=tcp#🇳🇴 Норвегия #1
-vless://0a11d3b4-682c-4bfb-afb0-820b8285cb4b@2.27.57.154:21?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6LSBBaOUWujvSovACjcP7m-DI9u9R584qdJxNYnu-24&security=reality&sid=bf3b5029b2295481&sni=ubuntu.com&type=tcp#🇵🇱 Польша #1
-vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@66.175.217.170:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&sid=1a&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo#🇺🇸 США #1
-vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@t18.qifei.app:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&sid=1a&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo#🇺🇸 США #2
-vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@66.175.217.170:443?security=reality&type=tcp&alpn=http/1.1&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&sid=1a&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo#🇺🇸 США #3
-vless://179e80d4-2b51-466c-9e1d-9057db06a1c8@107.173.230.32:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=9ggNeSRNuDOreCBXGuybQ3Km1jE0tNy6LKBRGtkSGCI&sid=5577935bdf21e35a&sni=free.us3.laodavip.com#🇺🇸 США #4
-vless://237b7689-d644-4f32-be77-b0f76b1c1135@82.25.63.97:1443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_ulb4xykTvrGqAOxFKCK3Oce0aDT9fVAU2cPbYRkOT0&security=reality&sid=eab4bc60d31415c3&sni=kruassan.buildsnow.top&type=tcp#🇫🇷 Франция #1
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@81.85.75.85:443?type=tcp&headerType=none&security=reality&encryption=none&sni=baltic.cendora.ru&fp=chrome&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik&sid=4a46213c935e2ee4&flow=xtls-rprx-vision#🇰🇬 Кыргызстан #1
+vless://237b7689-d644-4f32-be77-b0f76b1c1135@82.25.63.92:1443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_ulb4xykTvrGqAOxFKCK3Oce0aDT9fVAU2cPbYRkOT0&security=reality&sid=eab4bc60d31415c3&sni=kruassan.buildsnow.top&type=tcp#🇫🇷 Франция #1
+vless://cd5cf6e7-7ce5-42c9-9316-68210fa72a32@13.193.205.133:27407?security=reality&encryption=none&pbk=SajK6LzHBkkFlEXjIwseyqbpezgPiop5ZnSToou3G04&headerType=none&fp=chrome&type=tcp&sni=bgcpartners.com&sid=e6ac18b63f23#🇯🇵 Япония #1
