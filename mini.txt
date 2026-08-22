@@ -4,6 +4,5 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://32ed7262-74d2-40ea-a038-6bf074bc463e@185.168.195.211:21527?security=reality&encryption=none&pbk=SsIiRnSI27T6_EU71nUXgFfE0NmJhsA2UwhR5WC25UY&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.apple.com&sid=823ec0b7b5084ffe#🇬🇧 Великобритания #1
-vless://511c1563-2cb6-4064-abc6-a59ee49818a8@in1.levikogjgfdd.ir:40443?headerType=none&host=Telegram-Leviko_v2ray&encryption=none&sni=deepl.com&sid=88b6&fp=chrome&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&security=reality&type=tcp&flow=xtls-rprx-vision#🇮🇳 Индия #1
-vless://dbc43f55-79cd-4331-84ff-d891356d387a@154.83.246.3:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&sid=da147b40372a5fed&sni=storage.yandex.net#🇳🇱 Нидерланды #1
+vless://32ed7262-74d2-40ea-a038-6bf074bc463e@185.168.195.211:21527?type=tcp&security=reality&encryption=none&fp=firefox&pbk=SsIiRnSI27T6_EU71nUXgFfE0NmJhsA2UwhR5WC25UY&sid=823ec0b7b5084ffe&sni=www.apple.com#🇬🇧 Великобритания #1
+vless://3284cf4e-b74a-4424-ba91-f81408372c78@179.255.185.73:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=MlXQqlki7M9aZF48YEul5pcRi7vq00UezcwtddeL-08&security=reality&sni=usa3.razkur.dev&type=tcp#🇺🇸 США #1
