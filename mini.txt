@@ -4,16 +4,10 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://76634c8d-1529-4f9a-8933-efa95062c791@cdn9-03.cdn-vkvideo.com:443?type=tcp&security=reality&sni=cdn9-03.cdn-vkvideo.com&pbk=2dUnvgWjYo4Xs5T17CfWoImszwB0I6hGHwRxZZEQvQs&sid=b0d8f964b7ac8ac3&fp=firefox&spx=%2Fapi%2Fv1%2Fvideo%2Finit&encryption=none&flow=xtls-rprx-vision#🇩🇪 Германия #1
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.210:443?flow=xtls-rprx-vision&fp=qq&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&security=reality&sid=82f5d3a1e9c0b661&sni=getsavesafe.net&type=tcp#🇳🇱 Нидерланды #1
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.137:443?flow=xtls-rprx-vision&fp=qq&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&security=reality&sid=82f5d3a1e9c0b661&sni=getsavesafe.net&type=tcp#🇳🇱 Нидерланды #2
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.168:443?flow=xtls-rprx-vision&fp=qq&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&security=reality&sid=82f5d3a1e9c0b661&sni=getsavesafe.net&type=tcp#🇳🇱 Нидерланды #3
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.161:443?flow=xtls-rprx-vision&fp=chrome&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&security=reality&sid=82f5d3a1e9c0b661&sni=getsavesafe.net&type=tcp#🇳🇱 Нидерланды #4
-vless://5d36ddf8-dde5-4b2d-8213-d3255f22a0f1@138.124.98.115:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=s7bhpC1Z6AqLC8XSr_wMQx_tQIzrZmpktn0K-rfFiVw&security=reality&sni=nl-one.letsgodance.site&type=tcp#🇳🇱 Нидерланды #5
-vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@66.175.217.170:443?security=reality&type=tcp&alpn=http/1.1&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&sid=1a&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo#🇺🇸 США #1
-vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@t18.qifei.app:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&sid=1a&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo#🇺🇸 США #2
-vless://29b24e2d-a4b6-4785-ac90-e384b6c0b0b6@Secturk.chipsomast.ir:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=ios&type=tcp&sni=amp-api-edge.apps.apple.com#🇹🇷 Турция #1
-vless://94c262cc-3301-491b-af59-b9c625d35973@83.150.217.197:443?security=tls&type=tcp&alpn=h2%2Chttp%2F1.1&sni=gquuberte7.medved.app&fp=firefox&flow=xtls-rprx-vision&encryption=none#🇫🇷 Франция #1
-vless://94c262cc-3301-491b-af59-b9c625d35973@83.150.217.197:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=gquuberte7.medved.app#🇫🇷 Франция #2
+vless://f2816a01-3555-4e79-9e26-770f050ea55a@46.250.240.80:2053?security=reality&type=tcp&sni=www.apple.com&fp=firefox&sid=632a146bd581641a&pbk=bRDaP068YgdwwdQgenUvKTNfPjIB_Dy-lJDFC9ZZEXU&encryption=none#🇦🇺 Австралия #1
+vless://0bf89828-484f-4710-9581-12aa961e3bf1@194.61.31.126:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&sid=29fe4205ddc971a8&pbk=Gy6W0bXf2bpxoG1k3szp8X0ekzoyXlEtzT8V4mYQ3EE#🇮🇳 Индия #1
+vless://7392cbee-e973-447b-b3d8-1ce1eb77d366@176.65.151.86:37430?type=tcp&encryption=none&security=reality&pbk=2PoRqgcBLnDMICOg1UvlGRjuNTv4qhakrI2uyqRTaEI&fp=chrome&sni=amp-api-edge.apps.apple.com&spx=/#🇳🇱 Нидерланды #1
+vless://b8c09a9b-3126-47e7-be98-3637016d52d9@176.65.151.86:37430?type=tcp&encryption=none&security=reality&pbk=2PoRqgcBLnDMICOg1UvlGRjuNTv4qhakrI2uyqRTaEI&fp=chrome&sni=amp-api-edge.apps.apple.com&spx=/#🇳🇱 Нидерланды #2
+vless://5d36ddf8-dde5-4b2d-8213-d3255f22a0f1@nl-one.letsgodance.site:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nl-one.letsgodance.site&fp=edge&security=reality&pbk=s7bhpC1Z6AqLC8XSr_wMQx_tQIzrZmpktn0K-rfFiVw&sid=#🇳🇱 Нидерланды #3
 vless://a157bb84-dd84-4ad8-86b0-0656bc76e4d1@jpaws.ccwink.photos:64294/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=docs.aws.amazon.com&fp=chrome&security=reality&pbk=KmcS-yU6kDycbSojXgUYU1-fHwXmF1oBk_ke0gbGUy0&sid=7083&packetEncoding=xudp#🇯🇵 Япония #1
-vless://cd5cf6e7-7ce5-42c9-9316-68210fa72a32@13.193.205.133:27407?security=reality&encryption=none&pbk=SajK6LzHBkkFlEXjIwseyqbpezgPiop5ZnSToou3G04&headerType=none&fp=firefox&type=tcp&sni=bgcpartners.com&sid=e6ac18b63f23#🇯🇵 Япония #2
+vless://cd5cf6e7-7ce5-42c9-9316-68210fa72a32@13.193.205.133:27407?security=reality&encryption=none&pbk=SajK6LzHBkkFlEXjIwseyqbpezgPiop5ZnSToou3G04&headerType=none&fp=chrome&type=tcp&sni=bgcpartners.com&sid=e6ac18b63f23#🇯🇵 Япония #2
