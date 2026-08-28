@@ -4,4 +4,17 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://46eb7360-582d-4cb8-983b-174391402a3d@177.3.215.118:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SN-6E9yn3YyRAheqFv3ZT2vpPNszPadsrvTdJRqilDo&security=reality&sid=519306500cc7&sni=sw1.crsmaps.com&type=tcp#🇸🇪 Швеция #1
+vless://be3c103d-2c93-4f8e-adb9-2631537f80eb@93.123.85.225:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&security=reality&sni=d.tranzit-net.ru&type=tcp#🇩🇪 Германия #1
+vless://be3c103d-2c93-4f8e-adb9-2631537f80eb@89.124.251.180:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&security=reality&sni=d.tranzit-net.ru&type=tcp#🇩🇪 Германия #2
+vless://f73681a4-1654-446f-a7eb-bda3bfd9e521@84.32.177.5:443?flow=xtls-rprx-vision&fp=firefox&pbk=Q6vABOUn6Uxtp0uDsfDG-SRJFLBh_oOofD9reec4iSg&security=reality&sid=cf41f778&sni=mst15ch.jarvesitw.ru&type=tcp#🇱🇹 Литва #1
+vless://f73681a4-1654-446f-a7eb-bda3bfd9e521@50.7.95.174:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=2e9dGid5D-e4demAVGqU71uEeusuBhviikchaJ96E3o&sid=8ece2039&sni=app15.jarvestip.ru#🇳🇱 Нидерланды #1
+vless://f73681a4-1654-446f-a7eb-bda3bfd9e521@mstfdc4sv.jarvesitw.ru:443?flow=xtls-rprx-vision&security=reality&type=tcp&sni=app5.jarvesitw.ru&pbk=OYvSeQqu0XhV12blOVAR2Cn_3m6HI95raTdlqnVobjk&sid=360de9e1&fp=firefox&encryption=none#🇳🇱 Нидерланды #2
+vless://ec537bff-dc14-495c-b65f-65393ad7ee75@50.7.188.162:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=c5vsnqZ0Lr_bFoto-ES-3bVD63PwFeogqfc7xTj2rig&sid=3f7fb4ee&sni=ads.x5.ru#🇳🇱 Нидерланды #3
+vless://ec537bff-dc14-495c-b65f-65393ad7ee75@50.7.214.82:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=ojDrVO838PScByjy1cb1-LLEpEh4LhJKG_jldp8g7xo&sid=8beb2706&sni=app5.jarvesitw.ru#🇳🇱 Нидерланды #4
+vless://f73681a4-1654-446f-a7eb-bda3bfd9e521@50.7.193.131:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=OINuDFEDTdmtFR8QRxAZfQIMPA-wJxfGN1LjB3TFUHo&sid=535a3304&sni=app5.jarvesitw.ru#🇳🇱 Нидерланды #5
+vless://a210cb80-f379-44e9-a103-97ba59357a46@31.76.9.56:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=ZRTNgwFRP8viY4SQOgPTfWlLWJCwY3dr0aawA7vHwhU&sid=a1b2c3d4e5f6a7b8&sni=xnod5x.artemida.live#🇳🇱 Нидерланды #6
+vless://7ab29f89-6eef-4171-b232-fc4f580ad31b@172.235.43.210:53957?security=reality&type=tcp&sni=www.nvidia.com&fp=firefox&flow=xtls-rprx-vision&sid=44e82fd7b97b14&pbk=XUHlbk5VH5z4E2wxZBhlpLZ33qevyQgqU7dheRDgoGQ&encryption=none#🇺🇸 США #1
+vless://a0b4d03b-b561-46aa-96f6-d03fa222a65e@192.155.87.188:10092?security=reality&type=tcp&sni=www.amd.com&fp=firefox&flow=xtls-rprx-vision&sid=e482c0320674c651&pbk=EUpz9wKWgGn74jxYUKDbk87UwDGEYeCiaZg13m36ki0&encryption=none#🇺🇸 США #2
+vless://54a9c202-cfe9-4bb8-826c-653a52a96c6d@139.59.124.172:443?type=tcp&security=tls&fp=firefox&sni=8.sahanwickramasinghe.me#🇸🇬 Сингапур #1
+vless://bd2bf46b-52c7-499a-9f61-9f06235063dc@35.236.136.126:21308?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=ixmcbiPqv1AXx4C1bYiAX89D5qQhCSn70IgfSsCbiF4&sid=8f0cae5b716ef2&sni=www.sony.com#🇹🇼 Тайвань #1
+vless://5859f6a7-cda1-47c2-8353-fcdee281f31d@104.199.219.172:40800?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=zohUbvPLKVBwzuDmZNsaXXFYZSKA9_xEhdUyURChrgo&sid=186e4c2732d61a3d&sni=www.intel.com#🇹🇼 Тайвань #2
