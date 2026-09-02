@@ -4,14 +4,10 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://252f7811-d86f-4dc2-97e0-83d3172ef4b8@193.160.71.247:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=edge-uk2.mystatic-cdn.ru&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&sid=ee169e93d3c277a1&fp=chrome#🇬🇧 Великобритания #1
-vless://514bedc0-9677-4ae1-9cd0-43d7689cfb63@f1.ngvip.org:44799?alpn=h2,http/1.1&encryption=none&fp=chrome&security=tls&sni=f1.ngvip.org&type=tcp#🇩🇪 Германия #1
-vless://514bedc0-9677-4ae1-9cd0-43d7689cfb63@f1.ngvip.org:44799?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&alpn=h2,http/1.1&encryption=none&fp=chrome&security=tls&sni=&type=tcp#🇩🇪 Германия #2
-vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?security=reality&alpn=http%252F1.1&encryption=none&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.paypal.com#🇺🇸 США #1
-vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?security=reality&alpn=http%2F1.1&encryption=none&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.paypal.com#🇺🇸 США #2
-vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?security=reality&encryption=none&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.paypal.com#🇺🇸 США #3
-vless://54a9c202-cfe9-4bb8-826c-653a52a96c6d@139.59.124.172:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=8.sahanwickramasinghe.me#🇸🇬 Сингапур #1
-vless://54a9c202-cfe9-4bb8-826c-653a52a96c6d@139.59.124.172:443?type=tcp&security=tls&fp=firefox&sni=8.sahanwickramasinghe.me#🇸🇬 Сингапур #2
-vless://f2ea3f68-6e31-4e07-a78c-fff6ebe246c3@2.26.128.74:443?security=reality&encryption=none&pbk=w88Ys8dVF9DuslGwUD05J9-FHNoAT9qmPysCvHiEmmg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=wombat.mycdn-me.ru&sid=1b40e7c2a1d8f635&fp=chrome#🇫🇮 Финляндия #1
-vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6&sni=passport.yandex.ru&packetEncoding=none#🇫🇷 Франция #1
-vless://2ae1bbd2-dd81-4737-bbec-6a8c1c74e8f1@193.233.255.43:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de.sellflow.org&fp=chrome#🇫🇷 Франция #2
+vless://5a92a9d2-3067-49cd-bfc5-989bbdfc5d52@31.77.220.184:7443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=RWu6ktBE4DFbUz_prmz-5KuolLhO53ehh19mNxhP-wI&sid=a1b2c3d4&sni=hotcoals.aeternavpn.space#🇩🇪 Германия #1
+vless://5a92a9d2-3067-49cd-bfc5-989bbdfc5d52@31.77.220.184:3443?security=reality&encryption=none&pbk=WblkmqKUs4-IiNsawjWBV16uB_FBxLr8xFVi6eDPkxk&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=fr.aeternavpn.space&sid=a1b2c3d4#🇩🇪 Германия #2
+vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.paypal.com&fp=chrome&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&type=tcp&headerType=none#🇺🇸 США #1
+vless://d384974a-87c2-430b-a10c-ae367bc7ced8@Turkey2vfsdvrwevr32v23v423ccdsrbsdbrsdvsdc.soft421.ir:1152?security=reality&encryption=none&pbk=24qgQiNdIzdKYtFOQDFtB6kN9WKx0gviKirv8Bb4hhI&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=86a68a48b7d45f43#🇹🇷 Турция #1
+vless://2ae1bbd2-dd81-4737-bbec-6a8c1c74e8f1@193.233.255.43:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de.sellflow.org&fp=edge#🇫🇷 Франция #1
+vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6&sni=passport.yandex.ru&packetEncoding=none#🇫🇷 Франция #2
+vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6&sni=passport.yandex.ru#🇫🇷 Франция #3
