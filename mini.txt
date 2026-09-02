@@ -5,12 +5,15 @@
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
 vless://f1904bfb-3903-4949-814a-e1053a918e34@46.28.65.153:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=45xYuYgCIILK5XYvV_D13LJWvCKuoipdKzDfaEBZuW8&sid=1df5faea50efd4fc&sni=www.cloudflare.com#🇩🇪 Германия #1
-vless://5a92a9d2-3067-49cd-bfc5-989bbdfc5d52@31.77.220.184:7443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=RWu6ktBE4DFbUz_prmz-5KuolLhO53ehh19mNxhP-wI&sid=a1b2c3d4&sni=hotcoals.aeternavpn.space#🇩🇪 Германия #2
-vless://5999a497-a2da-41d0-92cb-5b758082f83c@147.45.61.188:443?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=som3.api3-max.ru&type=tcp#🇳🇱 Нидерланды #1
-vless://5999a497-a2da-41d0-92cb-5b758082f83c@193.233.82.32:443?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=som1.api3-max.ru&type=tcp#🇳🇱 Нидерланды #2
-vless://5999a497-a2da-41d0-92cb-5b758082f83c@147.45.61.190:443?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=som5.api3-max.ru&type=tcp#🇳🇱 Нидерланды #3
+vless://2ae1bbd2-dd81-4737-bbec-6a8c1c74e8f1@45.128.78.6:443?type=tcp&headerType=none&security=reality&encryption=none&sni=sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇩🇪 Германия #2
+vless://2ae1bbd2-dd81-4737-bbec-6a8c1c74e8f1@45.128.78.6:443?type=tcp&headerType=none&security=reality&encryption=none&sni=sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇩🇪 Германия #3
+vless://2ae1bbd2-dd81-4737-bbec-6a8c1c74e8f1@45.128.78.6:443?type=tcp&headerType=none&security=reality&encryption=none&sni=sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇩🇪 Германия #4
+vless://2ae1bbd2-dd81-4737-bbec-6a8c1c74e8f1@45.128.78.6:443?type=tcp&headerType=none&security=reality&encryption=none&sni=sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇩🇪 Германия #5
+vless://5a92a9d2-3067-49cd-bfc5-989bbdfc5d52@31.77.220.184:7443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=RWu6ktBE4DFbUz_prmz-5KuolLhO53ehh19mNxhP-wI&sid=a1b2c3d4&sni=hotcoals.aeternavpn.space#🇩🇪 Германия #6
+vless://5a92a9d2-3067-49cd-bfc5-989bbdfc5d52@31.77.220.184:3443?security=reality&encryption=none&pbk=WblkmqKUs4-IiNsawjWBV16uB_FBxLr8xFVi6eDPkxk&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=fr.aeternavpn.space&sid=a1b2c3d4#🇩🇪 Германия #7
+vless://5999a497-a2da-41d0-92cb-5b758082f83c@193.233.82.32:443?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=som1.api3-max.ru&type=tcp#🇳🇱 Нидерланды #1
+vless://5999a497-a2da-41d0-92cb-5b758082f83c@147.45.61.190:443?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=som5.api3-max.ru&type=tcp#🇳🇱 Нидерланды #2
 vless://6f0621e4-488c-448a-891c-ddc298e48e8c@23.170.40.21:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=dusebafke.mvp-rk.site#🇺🇸 США #1
 vless://72c3c771-a721-4646-98d8-2bacfeead232@45.78.68.134:46028?encryption=none&type=tcp&security=reality&pbk=7fnTqbsj7tf1vmq6F2FvKEvdLzn5tphpz0k6MkHeDTY&sid=387416d7&sni=www.apple.com&fp=chrome&allowInsecure=1&flow=xtls-rprx-vision#🇺🇸 США #2
-vless://252f7811-d86f-4dc2-97e0-83d3172ef4b8@50.7.33.218:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=edge-fr2.mystatic-cdn.ru&fp=firefox&pbk=ZZwdN1Lt-fIR8A4Y1NbYCCEI6th2YXYHHRLHraVXyn0&sid=72461ccce5373103#🇫🇷 Франция #1
-vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@ww3.levikogjgfdd.ir:443?type=tcp&security=reality&sni=passport.yandex.ru&flow=xtls-rprx-vision&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6#🇫🇷 Франция #2
-vless://975711ee-108d-4d0c-94a7-767ea445e62a@70.34.207.141:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&security=reality&sid=f0eb800bd980b00b&sni=www.lovelive-anime.jp&type=tcp#🇸🇪 Швеция #1
+vless://0764541b-3e57-4b47-954b-51e996fae5fc@78.159.247.166:7444?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&security=reality&sni=akamai.com&type=tcp#🇨🇿 Чехия #1
+vless://0764541b-3e57-4b47-954b-51e996fae5fc@78.159.247.123:7444?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&security=reality&sni=akamai.com&type=tcp#🇨🇿 Чехия #2
