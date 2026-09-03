@@ -4,8 +4,5 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://fe73f296-e5c0-45a6-8064-f8e76a75e946@87.58.152.18:8443?security=reality&type=tcp&sni=amp-api-edge.apps.apple.com&fp=safari&sid=c0dc8d7fda62ee7f&pbk=v-y8lgU3a2wSMalMiBveBtwHLwqW4WWTOgUoMNNBKFQ&encryption=none#🇩🇪 Германия #1
-vless://fe73f296-e5c0-45a6-8064-f8e76a75e946@87.58.152.18:8443?security=reality&type=tcp&sni=amp-api-edge.apps.apple.com&fp=safari&sid=c0dc8d7fda62ee7f&pbk=v-y8lgU3a2wSMalMiBveBtwHLwqW4WWTOgUoMNNBKFQ&encryption=none#🇩🇪 Германия #2
-vless://5a92a9d2-3067-49cd-bfc5-989bbdfc5d52@31.77.220.184:7443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=RWu6ktBE4DFbUz_prmz-5KuolLhO53ehh19mNxhP-wI&sid=a1b2c3d4&sni=hotcoals.aeternavpn.space#🇩🇪 Германия #3
-vless://0764541b-3e57-4b47-954b-51e996fae5fc@78.159.247.123:7444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&sni=akamai.com#🇨🇿 Чехия #1
-vless://0764541b-3e57-4b47-954b-51e996fae5fc@78.159.247.123:7444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&sni=akamai.com#🇨🇿 Чехия #2
+vless://b10e8a5b-82bd-4040-935d-6462eaf4f78e@conver.trosty.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=conver.trosty.online&fp=firefox&pbk=HnGwAIVDhVivrEB4vw-oXfMe8jVUvJ9LngyJRei9yz8&spx=%2F#🇺🇸 США #1
+vless://b10e8a5b-82bd-4040-935d-6462eaf4f78e@the.trosty.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=the.trosty.online&fp=firefox&pbk=2pDJP5r7usL4GI692E5GhLtzIHyXJhCwJv9GKCTlGhU&sid=8c1765cd5a32f377&spx=%2F#🇺🇸 США #2
