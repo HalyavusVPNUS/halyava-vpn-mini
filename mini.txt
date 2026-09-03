@@ -4,5 +4,3 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://b10e8a5b-82bd-4040-935d-6462eaf4f78e@conver.trosty.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=conver.trosty.online&fp=firefox&pbk=HnGwAIVDhVivrEB4vw-oXfMe8jVUvJ9LngyJRei9yz8&spx=%2F#🇺🇸 США #1
-vless://b10e8a5b-82bd-4040-935d-6462eaf4f78e@the.trosty.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=the.trosty.online&fp=firefox&pbk=2pDJP5r7usL4GI692E5GhLtzIHyXJhCwJv9GKCTlGhU&sid=8c1765cd5a32f377&spx=%2F#🇺🇸 США #2
