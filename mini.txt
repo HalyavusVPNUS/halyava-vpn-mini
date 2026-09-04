@@ -4,3 +4,7 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
+vless://c6037cf7-d931-4027-af06-6bfb0f10684c@147.45.111.103:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=rWpM1YULmwcQynCxVoOo-Nw7BCPlC7LjD1_ou_vWsGo&sid=04e35a9e&sni=www.samsung.com#🇳🇱 Нидерланды #1
+vless://5999a497-a2da-41d0-92cb-5b758082f83c@parta2.api3-max.ru:443/?encryption=none&flow=xtls-rprx-vision&security=tls&sni=parta2.api3-max.ru&fp=firefox&alpn=h2,http%2F1.1&type=tcp#🇹🇷 Турция #1
+vless://5999a497-a2da-41d0-92cb-5b758082f83c@parta3.api3-max.ru:443/?encryption=none&flow=xtls-rprx-vision&security=tls&sni=parta3.api3-max.ru&fp=firefox&alpn=h2,http%2F1.1&type=tcp#🇹🇷 Турция #2
+vless://5999a497-a2da-41d0-92cb-5b758082f83c@167.104.216.206:443?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=kamaz03.api3-max.ru&type=tcp#🇫🇷 Франция #1
