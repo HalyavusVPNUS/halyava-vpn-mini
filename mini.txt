@@ -4,6 +4,8 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://6db6b948-655f-4f68-a9e7-865050e05b31@31.76.113.20:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=k1Gtkk9ylyyq8hzuabnRmGn_H5tmRghWkKZfgEg7KVM&security=reality&sid=b4e1&sni=free-exp.kyras.pw&type=tcp#🇮🇹 Италия #1
 vless://6db6b948-655f-4f68-a9e7-865050e05b31@alca.foff.ch:443?type=tcp&headerType=none&security=reality&encryption=none&sni=alca.foff.ch&fp=edge&pbk=BS25qHJWxx0kqrcrnA41jOx9HSZTyRVs9tLx-R66oQ4&sid=9a8df4ee3fdf&flow=xtls-rprx-vision#🇳🇱 Нидерланды #1
-vless://1a17b19d-4896-4531-af79-6e91d8ef8228@43.201.21.214:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#🇰🇷 Южная Корея #1
+vless://6db6b948-655f-4f68-a9e7-865050e05b31@alca.foff.ch:443?type=tcp&headerType=none&security=reality&encryption=none&sni=alca.foff.ch&fp=edge&pbk=BS25qHJWxx0kqrcrnA41jOx9HSZTyRVs9tLx-R66oQ4&sid=9a8df4ee3fdf&flow=xtls-rprx-vision#🇳🇱 Нидерланды #2
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&encryption=none&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&headerType=none&fp=chrome&type=tcp&sni=addons.mozilla.org#🇹🇼 Тайвань #1
+vless://ec972f43-cdfa-4d88-a020-64e17eeabc99@31.56.187.115:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mqFvroWd8MerzWYwmcG13KFXr-i5AAZtcSF20yigKg4&security=reality&sid=dccd78904a78bfd3&sni=node-4f4514.vless.monster&type=tcp#🇪🇪 Эстония #1
+vless://ec972f43-cdfa-4d88-a020-64e17eeabc99@95.85.224.182:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lLYa5X7c1z2ohksMD9D1AQolB-QdKdoRc7Ki9Mgqpwo&security=reality&sid=fb70848a3d2ec812&sni=node-8ad7f4.vless.monster&type=tcp#🇪🇪 Эстония #2
