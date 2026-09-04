@@ -4,7 +4,22 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://c6037cf7-d931-4027-af06-6bfb0f10684c@147.45.111.103:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=rWpM1YULmwcQynCxVoOo-Nw7BCPlC7LjD1_ou_vWsGo&sid=04e35a9e&sni=www.samsung.com#🇳🇱 Нидерланды #1
-vless://5999a497-a2da-41d0-92cb-5b758082f83c@parta2.api3-max.ru:443/?encryption=none&flow=xtls-rprx-vision&security=tls&sni=parta2.api3-max.ru&fp=firefox&alpn=h2,http%2F1.1&type=tcp#🇹🇷 Турция #1
+vless://302cf77d-6fb7-4ac8-ae61-88e286340d59@212.192.13.233:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=O8Av8GXWVqj7FOxUyStmrTLWv5EtvQ1ZnMOVVLb1V3s&sid=1bc2c1ef1c&sni=www.cathaypacific.com#🇭🇰 Гонконг #1
+vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?type=tcp&security=reality&encryption=none&sni=google.com&fp=chrome&alpn=http%2F1.1&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&sid=0e&spx=%2F&flow=xtls-rprx-vision&headerType=none#🇨🇦 Канада #1
+vless://5999a497-a2da-41d0-92cb-5b758082f83c@kombo.api3-max.ru:443/?encryption=none&flow=xtls-rprx-vision&security=tls&sni=kombo.api3-max.ru&fp=firefox&alpn=h2,http%2F1.1&type=tcp#🇺🇸 США #1
+vless://5999a497-a2da-41d0-92cb-5b758082f83c@kombo.api3-max.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=kombo.api3-max.ru#🇺🇸 США #2
+vless://5999a497-a2da-41d0-92cb-5b758082f83c@162.217.248.241:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=kombo.api3-max.ru#🇺🇸 США #3
+vless://5999a497-a2da-41d0-92cb-5b758082f83c@198.105.123.79:443?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=parta3.api3-max.ru&type=tcp#🇹🇷 Турция #1
 vless://5999a497-a2da-41d0-92cb-5b758082f83c@parta3.api3-max.ru:443/?encryption=none&flow=xtls-rprx-vision&security=tls&sni=parta3.api3-max.ru&fp=firefox&alpn=h2,http%2F1.1&type=tcp#🇹🇷 Турция #2
-vless://5999a497-a2da-41d0-92cb-5b758082f83c@167.104.216.206:443?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=kamaz03.api3-max.ru&type=tcp#🇫🇷 Франция #1
+vless://40205ae5-d30f-4216-b2e0-0506dbbd382e@2.26.100.192:445?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Ku60WZ3HEdE07DoEBJ5I9o_fjcN_bhdK8bTW3RJjBmM&sid=c226283c4de5b1ad&sni=ads.x5.ru#🇫🇮 Финляндия #1
+vless://40205ae5-d30f-4216-b2e0-0506dbbd382e@2.26.100.192:445?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Ku60WZ3HEdE07DoEBJ5I9o_fjcN_bhdK8bTW3RJjBmM&sid=c226283c4de5b1ad&sni=ads.x5.ru&packetEncoding=none#🇫🇮 Финляндия #2
+vless://5999a497-a2da-41d0-92cb-5b758082f83c@kamaz1.api3-max.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=kamaz1.api3-max.ru#🇫🇷 Франция #1
+vless://5999a497-a2da-41d0-92cb-5b758082f83c@167.104.216.206:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=kamaz03.api3-max.ru#🇫🇷 Франция #2
+vless://5999a497-a2da-41d0-92cb-5b758082f83c@167.104.216.12:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=kamaz4.api3-max.ru#🇫🇷 Франция #3
+vless://5999a497-a2da-41d0-92cb-5b758082f83c@kamaz02.api3-max.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=kamaz02.api3-max.ru#🇫🇷 Франция #4
+vless://5999a497-a2da-41d0-92cb-5b758082f83c@kamaz1.api3-max.ru:443/?encryption=none&flow=xtls-rprx-vision&security=tls&sni=kamaz1.api3-max.ru&fp=firefox&alpn=h2,http%2F1.1&type=tcp#🇫🇷 Франция #5
+vless://5999a497-a2da-41d0-92cb-5b758082f83c@kamaz02.api3-max.ru:443/?encryption=none&flow=xtls-rprx-vision&security=tls&sni=kamaz02.api3-max.ru&fp=firefox&alpn=h2,http%2F1.1&type=tcp#🇫🇷 Франция #6
+vless://5999a497-a2da-41d0-92cb-5b758082f83c@107.161.160.176:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=kamaz1.api3-max.ru#🇫🇷 Франция #7
+vless://5999a497-a2da-41d0-92cb-5b758082f83c@kamaz4.api3-max.ru:443/?flow=xtls-rprx-vision&type=tcp&security=tls&fp=firefox&sni=kamaz4.api3-max.ru&alpn=h2,http/1.1#🇫🇷 Франция #8
+vless://5999a497-a2da-41d0-92cb-5b758082f83c@kamaz03.api3-max.ru:443/?encryption=none&flow=xtls-rprx-vision&security=tls&sni=kamaz03.api3-max.ru&fp=firefox&alpn=h2,http%2F1.1&type=tcp#🇫🇷 Франция #9
+vless://5999a497-a2da-41d0-92cb-5b758082f83c@kamaz03.api3-max.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=kamaz03.api3-max.ru#🇫🇷 Франция #10
