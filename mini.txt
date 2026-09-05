@@ -4,10 +4,4 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://1b5e85e9-fda3-4738-8ff1-1696b2bc994d@193.111.117.61:443?flow=xtls-rprx-vision&fp=firefox&pbk=Cve6RU_xmFPAsLiW2eIucli0lwEZyf7XFj6_rR8LukI&security=reality&sid=671047edbaa38eef&sni=poland.whiteconnect.lol&type=tcp#🇵🇱 Польша #1
-vless://1b5e85e9-fda3-4738-8ff1-1696b2bc994d@193.111.117.61:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Cve6RU_xmFPAsLiW2eIucli0lwEZyf7XFj6_rR8LukI&security=reality&sid=671047edbaa38eef&sni=poland.whiteconnect.lol&type=tcp#🇵🇱 Польша #2
-vless://3ab5119a-d0e9-4feb-c748-2b42b7367d21@38.127.121.44:53856?security=reality&encryption=none&pbk=rwpbqas_HY8knlW0fFSIeUrjgBXHBzSNboflsLD8elA&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net#🇺🇸 США #1
-vless://975fc322-6e38-434b-a53c-d39fed49b9a9@47.251.108.158:443?security=reality&sni=www.cloudflare.com&fp=chrome&pbk=SmgYcFIvvFXW3xh4gvGhIJuQsaZvWkAylcjB6TEddEs&sid=896f52ba2cfca903&type=tcp&flow=xtls-rprx-vision&encryption=none#🇺🇸 США #2
-vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@us-1.kihsuyhf8jkiugsxb.cfd:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=eauHVJZPiLyVugWyAVvZ_b70XryFqSN4K_ssIY7LojQ&sni=us-1.kihsuyhf8jkiugsxb.cfd#🇺🇸 США #3
-vless://c6037cf7-d931-4027-af06-6bfb0f10684c@84.32.61.87:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=apiv10.jarvesitw.ru&fp=firefox&pbk=vFnG0SzHIv43o3L8bw4reKp3EIFuSS-BCyBqbWUsYCo&sid=6591f200&type=tcp&headerType=none#🇺🇸 США #4
-vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@144.31.53.52:443?security=reality&encryption=none&pbk=QWWpyBLxKBNBvBHMDDr-bt38fh_mD3xjMqlJ5jY-6hQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fi-8.kihsuyhf8jkiugsxb.cfd#🇫🇮 Финляндия #1
+vless://1b5e85e9-fda3-4738-8ff1-1696b2bc994d@193.111.117.61:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Cve6RU_xmFPAsLiW2eIucli0lwEZyf7XFj6_rR8LukI&security=reality&sid=671047edbaa38eef&sni=poland.whiteconnect.lol&type=tcp#🇵🇱 Польша #1
