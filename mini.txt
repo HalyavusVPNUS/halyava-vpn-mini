@@ -4,4 +4,5 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://1b5e85e9-fda3-4738-8ff1-1696b2bc994d@193.111.117.61:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Cve6RU_xmFPAsLiW2eIucli0lwEZyf7XFj6_rR8LukI&security=reality&sid=671047edbaa38eef&sni=poland.whiteconnect.lol&type=tcp#🇵🇱 Польша #1
+vless://3ab5119a-d0e9-4feb-c748-2b42b7367d21@38.127.121.44:53856?security=reality&encryption=none&pbk=rwpbqas_HY8knlW0fFSIeUrjgBXHBzSNboflsLD8elA&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net#🇺🇸 США #1
+vless://953358cb-82ba-4296-960d-6d2ec3468f4c@195.162.69.203:8443?type=tcp&security=tls&encryption=none&fp=firefox&sni=195-162-69-203.sslip.io#🇹🇷 Турция #1
