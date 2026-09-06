@@ -4,11 +4,8 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.184.122:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=at3.moritech.net&type=tcp&fp=ios#🇦🇹 Австрия #1
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.184.122:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=at3.moritech.net&type=tcp#🇦🇹 Австрия #2
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@at3.moritech.net:443?type=tcp&headerType=none&security=tls&encryption=none&sni=at3.moritech.net&alpn=h2&flow=xtls-rprx-vision&fp=edge#🇦🇹 Австрия #3
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.182.18:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=viper-20.moriarty-web.com&type=tcp#🇳🇱 Нидерланды #1
-vless://0afcdc48-917d-47e8-8adb-cbe6908baede@nl1.dzen-services.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=xgjh4INLejIsR8DCnlOOKV9nK6fKIg1TtB5hhYfahhs&security=reality&sid=81ea&sni=nl1.dzen-services.com&type=tcp#🇳🇱 Нидерланды #2
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.90:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl5.moritech.net&type=tcp&fp=safari#🇵🇱 Польша #1
-vless://1a17b19d-4896-4531-af79-6e91d8ef8228@3.36.132.218:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#🇰🇷 Южная Корея #1
-vless://1a17b19d-4896-4531-af79-6e91d8ef8228@3.36.132.218:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#🇰🇷 Южная Корея #2
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@at3.moritech.net:443?type=tcp&headerType=none&security=tls&encryption=none&sni=at3.moritech.net&alpn=h2&flow=xtls-rprx-vision&fp=edge#🇦🇹 Австрия #1
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@at3.moritech.net:443?type=tcp&headerType=none&security=tls&encryption=none&sni=at3.moritech.net&fp=firefox&alpn=h2&flow=xtls-rprx-vision#🇦🇹 Австрия #2
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.184.122:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=at3.moritech.net&type=tcp#🇦🇹 Австрия #3
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.184.122:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=at3.moritech.net&type=tcp#🇦🇹 Австрия #4
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.3:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=pl4.moritech.net&type=tcp#🇵🇱 Польша #1
