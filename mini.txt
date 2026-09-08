@@ -4,11 +4,8 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://e0440582-5959-422c-8bb2-d086f4959c2d@87.251.69.43:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&security=reality&sid=9e4eced6e98ed4d4&sni=example.com&type=tcp#🇦🇹 Австрия #1
-vless://e0440582-5959-422c-8bb2-d086f4959c2d@130.17.7.68:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&security=reality&sid=9e4eced6e98ed4d4&sni=example.com&type=tcp#🇳🇱 Нидерланды #1
-vless://abd1c29a-94cb-4648-8d1e-5baae9d2a807@172.236.233.59:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=525e0ffc773f48ba&pbk=oTMDLwY2hloBfA7ShzVsrFhjL4QXR6mY32B93rMLxV0#🇺🇸 США #1
+vless://9a829166-3da9-4445-babe-1612ee5fa9ae@152.232.57.100:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SqArIWpSt5VG9HVrtcZQn1r0Tc_eRvYzca2OFDBkF24&security=reality&sid=1fdea407109a1750&sni=salam.ru&type=tcp#🇺🇸 США #1
 vless://abd1c29a-94cb-4648-8d1e-5baae9d2a807@172.236.233.59:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=525e0ffc773f48ba&pbk=oTMDLwY2hloBfA7ShzVsrFhjL4QXR6mY32B93rMLxV0#🇺🇸 США #2
-vless://4d191b82-ac44-493c-ab0c-e3e6b01c40c6@media-2.fast-cone.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=media-2.fast-cone.com&fp=qq&pbk=6N1bFqOpBcUFiSmbFe_qnXcwuo6ssEb_VkyhKiKuZQ4&sid=5a087d4e41f8dac7&spx=%2F&flow=xtls-rprx-vision#🇫🇮 Финляндия #1
-vless://4d191b82-ac44-493c-ab0c-e3e6b01c40c6@79.137.206.109:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6N1bFqOpBcUFiSmbFe_qnXcwuo6ssEb_VkyhKiKuZQ4&security=reality&sid=5a087d4e41f8dac7&sni=media-2.fast-cone.com&type=tcp#🇫🇮 Финляндия #2
-vless://476d23b8-ab0e-4297-aebf-2c373f7538f0@213.21.250.193:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fn0RLpDpJr5BJvYeX8W7OgGYoW4nARJ6jZg-sWIAozA&security=reality&sni=api.sream-rutube.shop&type=tcp#🇸🇪 Швеция #1
-vless://f5c4664b-67ab-4d92-801d-a60984e104d4@104.105.138.244:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=09994e53af766acd&pbk=rpROz1JNz8wRk2QT5o7jwE9CzJUWMvPNXoeWyS3c1WM#🇯🇵 Япония #1
+vless://abd1c29a-94cb-4648-8d1e-5baae9d2a807@172.236.233.59:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=525e0ffc773f48ba&pbk=oTMDLwY2hloBfA7ShzVsrFhjL4QXR6mY32B93rMLxV0#🇺🇸 США #3
+vless://9a829166-3da9-4445-babe-1612ee5fa9ae@2.26.128.83:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=w88Ys8dVF9DuslGwUD05J9-FHNoAT9qmPysCvHiEmmg&security=reality&sid=1b40e7c2a1d8f635&sni=emaar.ru&type=tcp#🇫🇮 Финляндия #1
+vless://0764541b-3e57-4b47-954b-51e996fae5fc@78.159.247.153:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&security=reality&sni=on.mcufa.pro&type=tcp#🇨🇿 Чехия #1
