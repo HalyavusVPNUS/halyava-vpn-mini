@@ -4,8 +4,8 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
-vless://9a829166-3da9-4445-babe-1612ee5fa9ae@152.232.57.100:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SqArIWpSt5VG9HVrtcZQn1r0Tc_eRvYzca2OFDBkF24&security=reality&sid=1fdea407109a1750&sni=salam.ru&type=tcp#🇺🇸 США #1
+vless://35cbae61-ee10-4cb9-abb8-4950b35e9851@156.226.168.221:35193?security=reality&type=tcp&sni=www.apple.com&fp=firefox&flow=xtls-rprx-vision&sid=e8daed2d&pbk=d_pn_DMaIxhCkNh80h0Mc7nP94hrlN--I8liOIREDxE&encryption=none#🇭🇰 Гонконг #1
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.178:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=pl2-ded.moritech.net&type=tcp#🇵🇱 Польша #1
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.170:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=pl1-ded.moritech.net&type=tcp#🇵🇱 Польша #2
+vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@freshjuniper.download:443?encryption=none&type=tcp&security=reality&sni=localhost&fp=chrome&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I#🇺🇸 США #1
 vless://abd1c29a-94cb-4648-8d1e-5baae9d2a807@172.236.233.59:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=525e0ffc773f48ba&pbk=oTMDLwY2hloBfA7ShzVsrFhjL4QXR6mY32B93rMLxV0#🇺🇸 США #2
-vless://abd1c29a-94cb-4648-8d1e-5baae9d2a807@172.236.233.59:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=525e0ffc773f48ba&pbk=oTMDLwY2hloBfA7ShzVsrFhjL4QXR6mY32B93rMLxV0#🇺🇸 США #3
-vless://9a829166-3da9-4445-babe-1612ee5fa9ae@2.26.128.83:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=w88Ys8dVF9DuslGwUD05J9-FHNoAT9qmPysCvHiEmmg&security=reality&sid=1b40e7c2a1d8f635&sni=emaar.ru&type=tcp#🇫🇮 Финляндия #1
-vless://0764541b-3e57-4b47-954b-51e996fae5fc@78.159.247.153:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&security=reality&sni=on.mcufa.pro&type=tcp#🇨🇿 Чехия #1
