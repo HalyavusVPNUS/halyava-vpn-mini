@@ -5,15 +5,14 @@
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@viper-21.moriarty-web.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=viper-21.moriarty-web.com&type=tcp#🇬🇧 Великобритания #1
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.226.173:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=viper-21.moriarty-web.com&type=tcp#🇬🇧 Великобритания #2
 vless://251e9d36-3eec-474f-9eb8-fe508e28ced6@spser1.mechanicir.ir:53719?security=reality&encryption=none&pbk=9XG-o5CJH3_h4x6FDeGs-JsE1LzyJSyw5d-xi6LvVTc&headerType=none&fp=chrome&type=tcp&sni=play-fe.googleapis.com&sid=5d1caa44e652126d#🇩🇪 Германия #1
-vless://c09cfd91-b234-4998-9bed-a0211b7f5c3c@144.31.243.220:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-qLezG1nUEtvOJi-Ra7WRYv-aHkv3PSefEuXpWV2G04&security=reality&sid=abcd1234&sni=lt.yservice.help&type=tcp#🇱🇹 Литва #1
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl2-ded.moritech.net:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl2-ded.moritech.net#🇵🇱 Польша #1
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.170:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=pl1-ded.moritech.net&type=tcp#🇵🇱 Польша #2
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.178:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=pl2-ded.moritech.net&type=tcp#🇵🇱 Польша #3
+vless://251e9d36-3eec-474f-9eb8-fe508e28ced6@spser1.mechanicir.ir:53719?security=reality&encryption=none&pbk=9XG-o5CJH3_h4x6FDeGs-JsE1LzyJSyw5d-xi6LvVTc&headerType=none&fp=chrome&type=tcp&sni=play-fe.googleapis.com&sid=5d1caa44e652126d#🇩🇪 Германия #2
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.170:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=pl1-ded.moritech.net&type=tcp#🇵🇱 Польша #1
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.170:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=pl1-ded.moritech.net&type=tcp#🇵🇱 Польша #2
 vless://1d39f715-2740-4d99-bc3b-197cc48dcee7@107.173.237.146:8443?security=reality&encryption=none&pbk=D3ojIs3AUKP_tV0E4TEjh90HBVJp24Nq3qMfdxD30kc&headerType=none&fp=chrome&type=tcp&sni=updates.cdn-apple.com&sid=df8611c07d#🇺🇸 США #1
-vless://abd1c29a-94cb-4648-8d1e-5baae9d2a807@172.236.233.59:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=525e0ffc773f48ba&pbk=oTMDLwY2hloBfA7ShzVsrFhjL4QXR6mY32B93rMLxV0#🇺🇸 США #2
-vless://1d39f715-2740-4d99-bc3b-197cc48dcee7@107.173.237.146:8443?security=reality&encryption=none&pbk=D3ojIs3AUKP_tV0E4TEjh90HBVJp24Nq3qMfdxD30kc&headerType=none&fp=firefox&type=tcp&sni=updates.cdn-apple.com&sid=df8611c07d#🇺🇸 США #3
-vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@freshjuniper.download:443?encryption=none&type=tcp&security=reality&sni=localhost&fp=chrome&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I#🇺🇸 США #4
-vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@172.235.62.90:443?security=reality&flow=xtls-rprx-vision&sni=www.amazon.com&type=tcp&fp=firefox&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&sid=1a#🇺🇸 США #5
-vless://ca19c24a-e5ec-45f8-8cd1-c97d84da5e35@2.26.3.88:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=mJ-0fJDvKp0rhuyUvs1bw4RasRRM-BEOAl9iAZ8gXy0&sni=fi.oblaco.bet#🇫🇮 Финляндия #1
+vless://1d39f715-2740-4d99-bc3b-197cc48dcee7@107.173.237.146:8443?security=reality&encryption=none&pbk=D3ojIs3AUKP_tV0E4TEjh90HBVJp24Nq3qMfdxD30kc&headerType=none&fp=firefox&type=tcp&sni=updates.cdn-apple.com&sid=df8611c07d#🇺🇸 США #2
+vless://abd1c29a-94cb-4648-8d1e-5baae9d2a807@172.236.233.59:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=525e0ffc773f48ba&pbk=oTMDLwY2hloBfA7ShzVsrFhjL4QXR6mY32B93rMLxV0#🇺🇸 США #3
+vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@freshjuniper.download:443?security=reality&type=tcp&sni=localhost&fp=chrome&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&encryption=none#🇺🇸 США #4
+vless://db9da8fb-c528-42ec-9b9e-e578cf934c04@103.91.147.17:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#🇫🇷 Франция #1
 vless://f5c4664b-67ab-4d92-801d-a60984e104d4@104.105.138.244:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=09994e53af766acd&pbk=rpROz1JNz8wRk2QT5o7jwE9CzJUWMvPNXoeWyS3c1WM#🇯🇵 Япония #1
