@@ -4,15 +4,12 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
+vless://0e48c2ba-bd4c-4244-af7e-124d2fea8447@p.jigilibaw.ir:47827?encryption=none&type=tcp&security=reality&sni=play-apps-features.googleusercontent.com&fp=chrome&pbk=vKwb09bRtduMwrkaiyGl8_W40BxT2dSGb-3xmD1JuWY&sid=61303155e93ce8f0&allowInsecure=1#🇩🇪 Германия #1
+vless://8db6a2c6-fd7f-4248-96db-c332a61920dd@free.iranimodem.com:143?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=0eBm7O0yd-_3BzATI-PkxexuxG9YcO7omXc6jAqenA4&headerType=none&fp=edge&type=tcp&sni=play-apps-features.googleusercontent.com&sid=1df83bd9f690e137#🇩🇪 Германия #2
 vless://d742752c-4231-4695-801e-f06d77f0f277@212.192.13.233:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=O8Av8GXWVqj7FOxUyStmrTLWv5EtvQ1ZnMOVVLb1V3s&sid=1bc2c1ef1c&sni=www.cathaypacific.com#🇭🇰 Гонконг #1
-vless://d742752c-4231-4695-801e-f06d77f0f277@212.192.13.233:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=O8Av8GXWVqj7FOxUyStmrTLWv5EtvQ1ZnMOVVLb1V3s&sid=1bc2c1ef1c&sni=www.cathaypacific.com#🇭🇰 Гонконг #2
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.170:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=pl1-ded.moritech.net&type=tcp#🇵🇱 Польша #1
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.170:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=pl1-ded.moritech.net&type=tcp#🇵🇱 Польша #2
-vless://1d39f715-2740-4d99-bc3b-197cc48dcee7@107.173.237.146:8443?security=reality&encryption=none&pbk=D3ojIs3AUKP_tV0E4TEjh90HBVJp24Nq3qMfdxD30kc&headerType=none&fp=chrome&type=tcp&sni=updates.cdn-apple.com&sid=df8611c07d#🇺🇸 США #1
-vless://1d39f715-2740-4d99-bc3b-197cc48dcee7@107.173.237.146:8443?security=reality&encryption=none&pbk=D3ojIs3AUKP_tV0E4TEjh90HBVJp24Nq3qMfdxD30kc&headerType=none&fp=firefox&type=tcp&sni=updates.cdn-apple.com&sid=df8611c07d#🇺🇸 США #2
-vless://abd1c29a-94cb-4648-8d1e-5baae9d2a807@172.236.233.59:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=525e0ffc773f48ba&pbk=oTMDLwY2hloBfA7ShzVsrFhjL4QXR6mY32B93rMLxV0#🇺🇸 США #3
-vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@freshjuniper.download:443?security=reality&type=tcp&sni=localhost&fp=chrome&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&encryption=none#🇺🇸 США #4
-vless://ca19c24a-e5ec-45f8-8cd1-c97d84da5e35@2.26.3.88:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=mJ-0fJDvKp0rhuyUvs1bw4RasRRM-BEOAl9iAZ8gXy0&sni=fi.oblaco.bet#🇫🇮 Финляндия #1
-vless://0764541b-3e57-4b47-954b-51e996fae5fc@78.159.247.153:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&sni=on.mcufa.pro#🇨🇿 Чехия #1
+vless://1d39f715-2740-4d99-bc3b-197cc48dcee7@107.173.237.146:8443?type=tcp&encryption=none&sni=updates.cdn-apple.com&fp=chrome&security=reality&pbk=D3ojIs3AUKP_tV0E4TEjh90HBVJp24Nq3qMfdxD30kc&sid=df8611c07d#🇺🇸 США #1
+vless://abd1c29a-94cb-4648-8d1e-5baae9d2a807@172.236.233.59:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=525e0ffc773f48ba&pbk=oTMDLwY2hloBfA7ShzVsrFhjL4QXR6mY32B93rMLxV0#🇺🇸 США #2
+vless://1d39f715-2740-4d99-bc3b-197cc48dcee7@107.173.237.146:8443?security=reality&encryption=none&pbk=D3ojIs3AUKP_tV0E4TEjh90HBVJp24Nq3qMfdxD30kc&headerType=none&fp=chrome&type=tcp&sni=updates.cdn-apple.com&sid=df8611c07d#🇺🇸 США #3
+vless://abd1c29a-94cb-4648-8d1e-5baae9d2a807@172.236.233.59:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=525e0ffc773f48ba&pbk=oTMDLwY2hloBfA7ShzVsrFhjL4QXR6mY32B93rMLxV0#🇺🇸 США #4
 vless://f5c4664b-67ab-4d92-801d-a60984e104d4@104.105.138.244:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=09994e53af766acd&pbk=rpROz1JNz8wRk2QT5o7jwE9CzJUWMvPNXoeWyS3c1WM#🇯🇵 Япония #1
 vless://f5c4664b-67ab-4d92-801d-a60984e104d4@104.105.138.244:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=09994e53af766acd&pbk=rpROz1JNz8wRk2QT5o7jwE9CzJUWMvPNXoeWyS3c1WM#🇯🇵 Япония #2
