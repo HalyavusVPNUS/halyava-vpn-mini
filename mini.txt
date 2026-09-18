@@ -4,8 +4,17 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.248.237:443?type=tcp&headerType=none&security=tls&encryption=none&sni=pl-new-dedic.failspace.top&fp=firefox&flow=xtls-rprx-vision#🚀 Server #1
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.227.252:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=uk-dedic.failspace.top&type=tcp#🇬🇧 Великобритания #1
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.120.162:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=nl-dedic-mori.failspace.top&type=tcp#🇳🇱 Нидерланды #1
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.248.237:443?type=tcp&headerType=none&security=tls&encryption=none&sni=pl-new-dedic.failspace.top&fp=firefox&flow=xtls-rprx-vision#🇵🇱 Польша #1
-vless://bca46025-bf43-40c0-895b-054a6fbcfd32@172.235.38.85:42942?security=reality&encryption=none&pbk=JmkfJoDWpAqt6gj4cbc4_cwItsdryMlV7joAGfNTKQU&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=a56d7d8da977f860#🇺🇸 США #1
-vless://56a1b253-cde4-490f-9c5e-09a523882bdd@172.233.139.46:53734?security=reality&encryption=none&pbk=JAG5rl6KEt7KAV0y8Z2x6orWHymCXRSX49SkEnEftWU&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=a56d7d8da977f860#🇺🇸 США #2
-vless://5561acfb-0adc-4c76-bfbf-767a76c7cbf0@87.120.196.212:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=holo-stream.videocactus.xyz&type=tcp#🇫🇮 Финляндия #1
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.248.237:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl-new-dedic.failspace.top#🇵🇱 Польша #1
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.248.237:443?security=tls&type=tcp&packetEncoding=xudp&sni=pl-new-dedic.failspace.top&fp=firefox&flow=xtls-rprx-vision-udp443#🇵🇱 Польша #2
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.248.237:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=pl-new-dedic.failspace.top&type=tcp#🇵🇱 Польша #3
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.248.237:443?type=tcp&headerType=none&security=tls&encryption=none&sni=pl-new-dedic.failspace.top&fp=firefox&flow=xtls-rprx-vision#🇵🇱 Польша #4
+vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?security=reality&encryption=none&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7205d9079521832c#🇸🇬 Сингапур #1
+vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?flow=xtls-rprx-vision&fp=ios&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&security=reality&sid=7205d9079521832c&sni=www.intel.com&type=tcp#🇸🇬 Сингапур #2
+vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?encryption=none&flow=xtls-rprx-vision&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&security=reality&sid=7205d9079521832c&sni=www.intel.com&type=tcp&fp=safari#🇸🇬 Сингапур #3
+vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?security=reality&encryption=none&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7205d9079521832c#🇸🇬 Сингапур #4
+vless://3c48b5f5-7766-4896-874e-b3ba1860e83a@195.154.118.134:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=w-mebel.pro&fp=random&pbk=YhT24GkuI1r7Fwo8pxIYH3CmTtbRlYs5X7fWtYp3vTY&sid=05f4f85fdc6c1379&type=tcp#🇫🇷 Франция #1
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@54.180.155.210:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#🇰🇷 Южная Корея #1
+vless://871bfce7-8440-4394-8d82-56b51f20fdad@18.183.215.124:28573?security=reality&encryption=none&pbk=1DJr9toke7FRuSXjibBVuNvRnLnJnN5kXwUBG6Romzg&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=03653bc03be10c97#🇯🇵 Япония #1
