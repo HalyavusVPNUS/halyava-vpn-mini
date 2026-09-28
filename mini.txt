@@ -5,6 +5,5 @@
 #announce: Спасибо вам за 10K подписчиков ❤️ @halyava_vpnz
 
 vless://0a975d79-6930-4861-a105-dc50793456de@138.124.181.185:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=bags.yump.online&fp=safari&pbk=D2NOHlDThz1hjnJyALYmK_2You29nfyoZCwK9Vou9xU&sid=72ae7f89582e5c43&allowInsecure=1#🇪🇸 Испания #1
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@hub-mori-new.failspace.top:443?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#🇳🇱 Нидерланды #1
 vless://537f8b38-8015-4431-84bb-63ada2d0bf89@us-1.gsafevpnapi.com:20270?security=reality&type=tcp&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=f7a0cd272f3f20a7&pbk=eadapatOPUV75uDTLPqrRHD1vAAmu_Y-SyQCbp9wgwM&encryption=none#🇺🇸 США #1
 vless://47b63e55-a4e4-43ce-97dc-946e6a26971d@5.181.201.44:443?type=tcp&security=reality&encryption=none&sni=bababoy.karp1pdd.life&fp=random&pbk=98MNvJC4t0ZjK_xHlQjOx2WfLfAPluNDb71MzS9sPT8&sid=38018dde3e27335e&flow=xtls-rprx-vision&headerType=none#🇪🇪 Эстония #1
